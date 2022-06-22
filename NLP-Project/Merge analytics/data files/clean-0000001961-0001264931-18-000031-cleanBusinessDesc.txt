@@ -1,0 +1,67 @@
+general march announced board determined best interest shareholders transfer online operational technologies subsidiary worlds online currently called marimed
+ assets transferred may included worlds technology platform worlds ultimate chat aerosmith world dmc worlds cinema virtual pearson contracts related revenue urls worlds com cybersexworld com hang com worldsfunds com digital inventory d objects animation sequences extensive avatar library texture maps virtual world architectures
+worlds retained related intellectual property ip consisting nine existing patents continuance claims currently uspto including filed going forward
+ intend endeavor prosecute issued patents future issued patents parties company legal counsel believe infringing said patents
+enforcement actions subject analysis relevant prior art costs associated litigation
+ may also seek acquire additional patents believe will enhance portfolio position markets within existing patents cover
+ can assurance will successful ability prosecute ip portfolio will able acquire additional patents
+ may company transferred spin wholly owned subsidiary worlds online currently called marimed majority operations related operational assets
+ company retained patent portfolio intends continue increase aggressively enforce alleged infringers
+ company also entered license agreement marimed sublicense patented technologies
+ december approximately shares marimed spin worlds leading d entertainment portal leveraged proprietary technology retained patent portfolio offer visitors nerk virtual multi user environments call worlds
+ worlds visually engaging online environments featuring animation motion content people can come together navigating website shop interact others attend events entertained
+ support portal overall business strategy design develop software content related technology creation interactive dimensional d internet web sites
+using technology created internet sites well sites available third party online service providers
+sites using technology allow numerous simultaneous visitors enter navigate share interactive worlds
+ d internet sites designed promote frequent repeat prolonged visitation users providing unique online communities featuring dynamic graphics highly useful entertaining information content interactive capabilities
+ believe sites highly attractive advertisers offer access demographic specific user bases comprised people visit site frequently stay relatively long periods time
+recent developments warrants exercised exercise price per share raising company raised sale marketable securities
+ company increased authorized common shares million shares million shares
+ february implemented reverse split
+ technology used technology produce dimensional portals web sites
+ believe core technology delivers considerably faster frame rate user experiences cases meaningful productivity increase art production integration previous generation production tools
+ technology permits development virtual worlds broad applications
+ applications include limited virtual meeting place fan club d e commerce store merchandise can viewed d purchased online virtual classroom content can viewed via video streaming discussed real time
+ core technology substantial elements written sun microsystem s programming language java including worldsbrowser worldsshaper expect can made portable across windows unix platforms java s platform independence
+ core technology includes worldsshaper worldsshaper visual authoring compnt platform
+ allows quick assembly pieces create multi user shared state virtual worlds
+ worldsshaper advanced compositing d building tool integrates pre existing custom content d models textures images created adobe s photoshop midi wave sound files architectural geometry interactive behaviors actions written java
+ architectural building blocks creating d worlds flexibility power integrating professional modeling imaging tools extensibility via java make worldsshaper tool well suited rapid creation d environments
+worldsserver worldsserver scalable software use control operate line virtual communities
+worldsserver manages registration authentication users locations users within d environment physical structure d environment information regarding objects shared participants interactions users text chat
+ platform also integrates http server delivery content audio video streaming secure e commerce applications
+worldsbrowser worldsbrowser used access d environments
+ browser optimized speed delivering relatively fast frame rates per second highly textured virtual d worlds
+worldsplayer worldsplayer allows users view experience multi user interactive technology
+ world created worldsshaper will viewable navigable worldsplayer
+ worldsplayer high frame rate fast quality graphics easy use graphic user interface d web browser integration automatic upgrade capability internet complete communication tool set including text chat voice voice chat e mail animation
+worlds gamma libraries worlds gamma libraries composed sample worlds textures models avatars actions sensors sounds motion sequences behaviors
+ strategy worlds will focused solely expanding patent portfolio enforce rights believes parties infringing ip portfolio
+ contracted marimed perpetual world wide license patented technology
+pursuant license worlds online right issue unlimited sublicenses licensed technology subject reasonable consent
+ sublicenses subject revenue share negotiated companies
+however inasmuch patents currently expired expect licenses issued
+competition since operations transferred worlds online business now expansion patented technology company direct competition past
+however inasmuch believe multi user interactive d becoming hot area expect companies many far resources us move space
+currently many companies collaborating establish standardization d usage internet adoption may require changes technology
+intellectual property u s
+patents worlds granted u s patent multi server technology d applications core technology
+ now looking implications breadth patent order maximize benefits
+ description initial patent follows present invention provides highly scalable architecture dimensional multi user interactive virtual world system
+ preferred embodiment plurality users interact dimensional computer generated graphical space user executes client process view virtual world perspective user
+ virtual world shows avatars representing users neighbors user viewing virtual world
+ order view can updated reflect motion remote user s avatar motion information transmitted central server process provides position updates client processes neighbors user client process
+ client process also uses environment database determine background objects render well limit number displayable avatars maximum number avatars displayable client trademark worldsplayer worldsplayer especially designed allow users view experience multi user interactive worlds gamma technology
+ world created worldsshaper will viewable navigable worldsplayer
+utilizing worldsplayer user assumes persona via digital actor avatars can move view chat play express s self via gestures animations voice chat send email join discussion groups listen music shop worlds d stores watch videos company users around world within d environment
+ worldsplayer boasts high frame rate fast high quality graphics easy use graphic user interface seamless d web browser integration auto upgrade capability internet complete communication tool set including chat voice voice chat email animation
+ worldsplayer offers users unique creative experience customizing avatars maintaining ability animate activate avatars
+employees december full time employee president thomas kidrin
+corporate history formed result contemporaneous mergers december worlds delaware corporation formed april worlds acquisition corp
+ delaware corporation formed april worlds acquisition corp
+ academic computer systems new jersey corporation formed may mergers
+academic computer systems changed name worlds mergers
+ december changed name worlds worlds com order better reflect business consumer internet web site offers virtual worlds consumers interact conduct e commerce receive entertainment
+ company created wholly owned subsidiary named worlds online january may worlds transferred worlds online majority operations related operational assets except patent portfolio
+worlds online changed name marimed 
+item 

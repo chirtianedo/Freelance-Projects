@@ -1,0 +1,181 @@
+general relm wireless corporation relm company us provides way radio communications equipment high quality reliability
+ business years relm nyse mkt rwc designs manufactures markets wireless communications products consisting way land mobile radios repeaters base stations related compnts subsystems
+way land mobile radios can units hand held portable installed vehicles mobile
+repeaters expand range way land mobile radios enabling operate wider area
+base station compnts subsystems installed radio transmitter sites improve performance enhancing signal reducing eliminating signal interference enabling use antenna transmission reception
+ employ analog digital technologies products
+ digital technology compliant project standard digital land mobile radio equipment
+ project standard p adopted representatives association public safety communication officials international apco national association state technology directors nastd u s
+federal government public safety user organizations
+ p digital products analog products function vhf mhz mhz uhf mhz mhz mhz mhz mhz mhz bands
+ p kng series mobile portable digital radios validated p compliance assessment program cap p compliant interoperable communications nerk infrastructure six competitors
+since provide communications nerk infrastructure believe cap validation provides confidence federal state local emergency response agencies products viable attractive alternative use infrastructure competitors
+ offer products brand names bk radio relm
+generally bk radio branded products serve government public safety market relm branded products serve business industrial market
+bk radio branded products consist high specification land mobile radio equipment professional radio users primarily government public safety military applications
+ products extensive features capabilities offered relm line
+ p digital products marketed bk radio brand includes next generation kng product line
+relm branded products provide basic yet feature rich reliable way communications commercial industrial concerns hotels construction firms schools transportation services
+typically users radio professionals require easy fast affordable communication among defined group users
+ believe provide superior products value wide array customers demanding requirements including example emergency response public safety homeland security military customers federal state government agencies well various commercial enterprises
+ way radio products excel applications harsh hazardous conditions
+ offer high specification performance durability reliability lower cost relative comparable offerings
+ incorporated laws state nevada october
+ resulting corporation reincorporation merger predecessor adage pennsylvania corporation reincorporated pennsylvania nevada effective january
+ principal executive offices located technology drive west melbourne florida teleph number 
+available information internet website address www relm com
+ make available internet website free charge annual reports form k quarterly reports form q current reports form k proxy statements amendments reports soon practicable file furnish material sec
+ addition code business conduct ethics code ethics ceo senior financial officers audit committee charter compensation committee charter nominating governance committee charter corporate governance policies available website resources
+ information contained website incorporated reference report
+ copy materials may obtained free charge upon request investor relations department
+ reports company files furnishes sec also available free charge via sec s website http www sec gov
+ public may read copy materials filed us sec sec s public reference room f street n e
+washington d c
+ official business days hours m
+ p m
+ calling sec sec
+significant events september company received awards u s
+department homeland security dhs tactical communications contract totaling approximately million portable radios repeaters accessories service
+ equipment will deployed u s
+transportation security administration tsa airports inside outside continental united states
+ awards base term year commenced september four year options
+ first option year partially exercised immediately
+approximately million almost total amount specified delivery orders
+ equipment awards shipped consequently sales revenue recorded
+ precise timing fulfillment orders yet determined several logistical variables addressed
+accordingly impact sales revenue particular quarter uncertain
+ company anticipates shipments will commence first quarter 
+ exercise remaining option years total approximately million specified guaranteed
+industry overview land mobile radio lmr communications consist hand held portable vehicle mounted mobile way radios commonly used public safety sector e g
+police fire emergency responders military commercial business concerns e g
+corporate disaster recovery hotels airports farms transportation service providers construction firms government agencies within united states abroad
+lmr systems constructed meet organization s specific communication needs
+ cost complete system can vary widely depending size configuration
+likewise cost radio sets can range basic analog portable thousands dollars fully featured p digital unit
+typically recurring airtime usage charges
+accordingly lmr usage patterns considerably different cellular wireless communications tools
+lmr usage often consists direct radio radio communications outside range communication nerk many members group
+also lmr functions push talk operation e
+ call set dialing ph number required
+lmr communications often consist multiple short second transmissions multiple members group
+ public safety sector known mission critical voice mcv
+ average useful life unit can vary depending upon application unit deployed handling
+lmr systems widely used longest used form wireless dispatch communications united states first placed service lmr initially used almost exclusively law enforcement radio communications transmitted analog format
+analog transmissions typically consist voice signal modulated directly onto continuous radio carrier wave
+ time advances technology decreased cost lmr products increased popularity usage businesses agencies
+responding growing usage additional radio frequency spectrum allocated federal communications commission fcc lmr use
+ recently lmr industry characterized slow growth reflecting several factors lmr mature industry existence years lmr users mature industry segments experienced slow growth rates funding budgets government public safety agencies constrained limited availability radio frequency spectrum hinders existing users expanding systems potential new users establishing new systems
+years ago result limited spectrum availability fcc mandated new lmr equipment utilize technology spectrum efficient
+ effectively meant industry migrate digital technology
+responding mandate apco nastd u s
+federal government telecommunications industry association tia concert several lmr manufacturers including relm recommended standard digital lmr devices meet fcc spectrum efficiency requirements provide solutions several problems experienced primarily public safety users
+ standard called project
+ primary objectives project allow effective reliable communication among users compliant equipment regardless manufacturer known interoperability ii maximize radio spectrum efficiency iii promote competition among lmr providers open system architecture
+although fcc require public safety agencies radio users purchase p equipment otherwise adopt standard compliance standard primary consideration government public safety purchasers
+users nationally available mhz frequencies designed interoperability required use p equipment
+ addition u s
+federal government grant programs provide assistance funding state local agencies purchase interoperable communication equipment first responders strongly encourage compliance p standards
+accordingly although funding lmr purchases many government agencies limited believe users upgrade equipment achieve interoperability comply fcc narrow banding mandates demand p equipment will continue grow
+additionally p standard also widely adopted countries
+ migration p equipment primarily limited government public safety agencies
+radio users business industrial market utilize alternative digital technologies e g
+digital mobile radio analog lmr products
+presently market dominated supplier motorola solutions however open architecture p standard designed eliminate ability suppliers lock competitors
+formerly proprietary characteristics incorporated many lmr systems customer effectively precluded purchasing additional lmr products supplier initial supplier system
+additionally system infrastructure technology prohibitive smaller suppliers develop implement
+p provides environment users will increasingly wider selection lmr suppliers including smaller suppliers relm
+description products p cap compliance design manufacture market wireless communications equipment consisting way land mobile radios repeaters base stations related compnts subsystems
+ provide complete integrated communications systems infrastructure
+way land mobile radios can units hand held portable installed vehicles mobile
+repeaters expand range way land mobile radios enabling communicate wider area
+base station compnts subsystems installed radio transmitter sites improve performance enhancing signal reducing eliminating signal interference enabling use antenna transmission reception
+ employ analog digital technologies products
+ digital products compliant p specifications
+ p digital products analog products function vhf mhz mhz uhf mhz mhz mhz mhz mhz bands
+ p kng series mobile portable digital radios validated p cap p compliant interoperable communications nerk infrastructure six competitors
+since provide communications nerk infrastructure believe cap validation provides confidence federal state local emergency response agencies products viable attractive alternative use infrastructure competitors
+ p cap voluntary program allows land mobile radio equipment suppliers formally demonstrate products compliance p requirements
+ purpose program provide federal state local emergency response agencies evidence communications equipment purchasing satisfies p standards performance conformance interoperability
+ program result legislation passed u s
+congress improve communication interoperability first responders partnership dhs command control interoperability division national institute standards technology radio equipment manufacturers emergency response community
+description markets government public safety market government public safety market includes military fire rescue law enforcement homeland security emergency responder personnel
+ instances bk radio branded products serve market sold either directly end users way communications dealers
+government public safety sales represented approximately total sales respectively
+government public safety users currently use products employ either p digital analog technology
+however public safety users federal state local government agencies certain countries migrating digital p products
+ evolution standard compliant digital products explained industry overview section beginning report
+business industrial market market includes enterprises sizes require fast affordable push talk communication among discrete group users corporate disaster recovery hotels construction firms schools transportation service providers
+users market continue predominantly utilize analog products
+ offer products market relm brand name
+ sales market may direct end users dealers distributors resell products
+ sales market represented approximately total sales respectively
+engineering research development engineering product development activities conducted team employees combined contract engineering resources
+ primary development focus design line next generation p digital products kng series related capabilities
+ first models kng line introduced included primary federal contract vehicles
+subsequently added uhf mhz products well p phase fdma frequency division multiple access trunking p phase ii tdma time division multiple access trunking
+ p products also provide encrypted operation gps location services nerk authentication services
+ segment engineering team responsible product specifications based customer requirements supervising quality assurance activities
+ also primary responsibility applied engineering production engineering specification compliance contract manufacturers
+ engineering development expenses approximately million million million respectively
+intellectual property presently united states patents force
+ hold several trademarks related names relm bk radio certain product names
+ also rely trade secret laws employee third party non disclosure agreements protect intellectual property rights
+manufacturing raw materials manufacturing strategy utilize highest quality cost effective resources available every aspect manufacturing
+consistent strategy many years successfully utilized outside contract arrangements different segments manufacturing operations
+ arrangements offshore concerns managed updated meet present requirements continue instrumental controlling product costs allowing us competitive manage gross margins
+contract manufacturers produce various subassemblies products behalf
+generally contract manufacturers procure raw materials relm approved sources complete manufacturing activities accordance specifications
+manufacturing agreements purchase orders govern business relationship contract manufacturers
+ agreements purchase orders various terms conditions may renewed modified upon agreement parties
+ scope may also expanded include new products future
+ plan continue utilizing contract manufacturing furthers business objectives
+ strategy allows us focus core technological competencies product design development reduce substantial capital investment required manufacture products
+ also believe use experienced high volume manufacturers will provide greater manufacturing specialization expertise higher levels flexibility responsiveness faster delivery product contribute toward product cost control
+ ensure products manufactured others meet quality standards production engineering team works closely iso industry qualified contract manufacturers key aspects production process
+ establish product specifications select compnts cases suppliers
+ retain document control
+ also work contract manufacturers improve process control product design conduct periodic site inspections
+ rely upon limited number domestic foreign suppliers several key products compnts
+ place purchase orders time time suppliers guaranteed supply arrangements
+ addition certain compnts obtained single sources
+ operations materially impaired due delays single source suppliers
+however absence single source compnt potentially delay manufacture finished products
+ manage risk delays securing secondary sources possible redesigning products response compnt shortages obsolescence
+ strive maintain strong relationships suppliers
+ anticipate current relationships others comparable will available us future
+seasonal impact experience seasonality quarterly results part due governmental customer spending patterns influenced government fiscal year budgets appropriations
+ also experience seasonality quarterly results part due concentration sales federal state agencies participate wildland fire suppression efforts typically greatest summer season forest fire activity heightened
+ years factors may cause increase sales second third quarters compared first fourth quarters fiscal year
+ increases sales may cause quarterly variances cash flow operations overall financial results
+significant customers sales united states government represented approximately total sales years ended december respectively
+ sales primarily various government agencies including within united states department defense dod united states forest service usfs united states department interior doi
+backlog backlog unshipped customer orders approximately million million december respectively
+ increase attributed primarily previously announced order department homeland security
+competition compete domestic foreign companies primarily north american market also internationally
+dominant competitor motorola solutions estimated well excess half market lmr products
+ compete capitalizing advantages strengths include price product quality customer responsiveness
+government regulation subject various international u s
+federal state local laws affecting business
+ finding noncompliance laws result among things governmental penalties
+ changes existing laws new laws may adversely affect business also effect limiting capital expenditures customers material adverse effect business financial condition results operations
+ connection u s
+government contracts subject u s
+federal government procurement regulations may provide buyer right audit review performance well compliance applicable laws regulations
+ addition business subject government regulation based products sell may subject government requirements obtaining export license end user certificate buyer certain circumstances
+ government audit uncovers improper illegal activities alleged violated laws regulations governing products sell government contracts may subject civil criminal penalties administrative sanctions including termination contracts forfeiture profits suspension payments fines suspension debarment business u s
+federal government agencies
+ products regulated fcc u s
+ similar agencies countries offer products
+consequently customers positively negatively affected rules regulations adopted time time fcc regulatory agencies countries
+ example wireless communications products including way land mobile radios subject fcc regulations related radio frequency spectrum
+ result limited spectrum availability fcc mandated new land mobile radio equipment utilize technology spectrum efficient effectively meant industry migrate digital technology
+ types mandates may provide us new business opportunities may require us modify products can continue manufactured marketed may lead increase capital expenditures research development expenses
+ public company also subject regulations sec stock exchange listed nyse mkt
+ operations use substances regulated various federal state local international laws governing environment worker health safety including governing discharge pollutants ground air water management disposal hazardous substances wastes cleanup contaminated sites well relating protection environment
+certain products subject various federal state local international laws governing chemical substances electronic products
+ compliance u s
+federal state local international laws material effect capital expenditures earnings competitive position
+employees december full time employees located west melbourne florida facility employees engaged direct manufacturing manufacturing support engineering sales marketing headquarters accounting human resources activities
+ employees represented collective bargaining agreements ever labor related work stoppage
+ believe relations employees good
+information relating domestic export sales following table summarizes sales lmr products customer location millions united states international total additional financial information provided financial statements pages f f

@@ -1,0 +1,192 @@
+item business incorporated applied materials applied delaware corporation
+ global company broad set capabilities materials engineering applied provides manufacturing equipment services software semiconductor display related industries
+ diverse technology capabilities applied delivers products services improve device performance yield cost
+applied s customers include manufacturers semiconductor chips liquid crystal organic light emitting diode oled displays electronic devices
+ customers may use manufacture end products sell item companies use advanced electronic compnts
+applied s fiscal year ends last sunday october
+applied operates reportable segments semiconductor systems applied global services display adjacent markets
+ summary financial information reportable segment found note notes consolidated financial statements
+ discussion factors affect operations set forth risk factors item incorporated herein reference
+semiconductor systems applied s semiconductor systems segment develops manufactures sells wide range manufacturing equipment used fabricate semiconductor chips also referred integrated circuits ics
+ semiconductor systems segment includes semiconductor capital equipment used many steps chip making process including transfer patterns device structures transistor interconnect fabrication metrology inspection review packaging technologies connecting finished ic die
+applied s patterning systems technologies address challenges resulting shrinking pattern dimensions growing complexity vertical stacking found today s advanced semiconductor devices
+applied s transistor interconnect products technologies enable continued device scaling d transistors
+applied s metrology inspection review systems imaging capabilities algorithms employ optical e beam technologies meet advanced technical demands self aligned double quad patterning extreme ultraviolet layers measurement intensive optimal proximity correction mask qualification new d architectures
+applied s packaging technologies address challenges resulting increasing integration multiple ic dies single package
+applied delivers leading edge capabilities enable chipmakers establish accurate statistical process control ramp production runs rapidly achieve consistently high production yields
+ majority applied s new equipment sales leading integrated device manufacturers foundries worldwide
+technologies product s epitaxy epitaxy epi technique growing silicon e g
+silicon another element uniform crystalline structure wafer form high quality material device circuity
+epi technology used device transistors enhance chip speed
+centura rp epi ion implant ion implantation key technology forming transistors used many times chip fabrication
+ ion implantation wafers bombarded beam electrically charged ions called dopants can change electrical properties exposed semiconductor material
+viista systems oxidation nitridation applied s systems provide critical oxidation steps like memory gate oxide shallow trench isolation liner oxide advanced device scaling
+vantage radiance centura systems rapid thermal processing rtp rtp used primarily annealing modifies properties deposited films
+applied s single wafer rtp systems also used growing high quality oxide oxynitride films
+vantage systems physical vapor deposition pvd pvd used deposit high quality metal films
+applications include metal gate silicides contact liner barrier interconnect copper barrier seed metal hard mask
+endura systems chemical vapor deposition cvd cvd used deposit dielectric metal films wafer
+ cvd process gases contain atoms material deposited react wafer surface forming thin film solid material
+endura centura producer systems chemical mechanical planarization cmp cmp used planarize wafer surface process allows subsequent photolithography patterning material deposition steps occur greater accuracy resulting uniform film layers minimal thickness variations
+reflexion systems electrochemical deposition ecd ecd process metal atoms chemical fluid electrolyte deposited surface immersed object
+raider nokota platforms atomic layer deposition ald ald technology enables ultra thin film growth either conducting insulating material uniform coverage nanometer sized structures
+olympia system etch etching used many times throughout ic manufacturing process selectively remove material surface wafer
+applied offers systems etching dielectric metal silicon films meet requirements advanced processing
+centris producer systems selective removal selective removal new etch technology intended remove material particular composition without damaging materials different composition coexist wafer
+producer systems metrology inspection metrology inspection tools used locate measure analyze defects features wafer various stages fabrication processes
+applied enables customers characterize control critical dimension cd defect issues especially advanced generation technology nodes
+semvision g defect analysis provision ebeam inspection uvision inspection veritysem metrology aera mask inspection applied global services applied global services ags segment provides integrated solutions optimize equipment fab performance productivity including spares upgrades services remanufactured earlier generation equipment factory automation software semiconductor display products
+customer demand products services fulfilled global distribution system locations trained service engineers located close proximity customer sites dozen countries support installed applied semiconductor display manufacturing systems worldwide
+applied offers following general types services products applied global services segment
+ags solutions technology technology enabled services comprehensive service product portfolio combines service technology tool specific performance commitments order optimize customer factory productivity
+fab consulting experts using advanced analytical tools solve production problems greatest impact customer fab productivity
+supply chain assurance programs spare parts product portfolio offers options balance inventory cost risk efficiently meet fab requirements
+subfab equipment applied subfab solutions lower costs save energy reduce environmental impact meet environmental protection agency reporting regulations greenhouse gas emissions
+legacy equipment comprehensive mm equipment upgrades portfolio address full spectrum production needs extend tool lifetime
+applied mm equipment supports market inflections new technology broad variety devices including analog power mems
+automation software applied smartfactory automation software portfolio coordinates streamlines every aspect factory processes equipment people provide competitive advantage customers
+display adjacent markets display adjacent markets segment comprised products manufacturing liquid crystal displays lcds organic light emitting diodes oleds display technologies tvs monitors laptops personal computers pcs electronic tablets smart phs consumer oriented devices well equipment processing flexible substrates
+ similarities exist technologies utilized semiconductor display fabrication significant differences size composition substrate
+substrates used manufacture display panels devices typically glass although newer flexible materials entering market
+display adjacent markets industry growth depends primarily consumer demand increasingly larger advanced tvs high resolution displays mobile devices well new form factors including thin light curved displays new applications virtual reality
+ display adjacent markets segment offers variety technologies products including display adjacent markets technologies product s array test lcd display substrates inspected many stages production maximize yield minimize scrap optimize equipment utilization monitor manufacturing processes
+ completion array stage performance millions individual pixels display tested
+electron beam array tester defect review defects identified inspection steps reviewed scanning electron microscope analyses determine defect root cause composition
+electron beam review ebr chemical vapor deposition cvd cvd processing gases containing atoms molecules introduced process chamber
+ gases form reactive radicals ions undergo chemical reactions form thin films heated substrate
+akt pecvd systems physical vapor deposition pvd pvd used deposit high quality films metals alloys transparent conductors semiconductors
+ display films used contact interconnect transparent electrodes transistor materials tft lcd oled display backplanes well transparent electrodes color filters touch panels
+akt aristo pivot systems flexible technologies flexible coating systems utilize physical vapor deposition thermal evaporation chemical vapor deposition e beam technology deposit thin layers metal onto flexible substrates
+topbeam topmet smartweb systems backlog applied manufactures systems meet demand represented order backlog customer commitments
+backlog october consisted orders written authorizations accepted assigned shipment dates within next months shipment occurred revenue recognized contractual service revenue maintenance fees earned within next months
+backlog reportable segment october follows millions except percentages semiconductor systems applied global services display adjacent markets corporate total anticipation adoption new revenue recognition standard first quarter fiscal applied removed month threshold relation backlog order closely align backlog performance obligations defined new revenue recognition standard
+ backlog october consists orders written authorizations accepted shipment occurred revenue recognized contractual service revenue maintenance fees
+backlog reportable segment october follows millions except percentages semiconductor systems applied global services display adjacent markets corporate total total backlog october approximately reasonably expected filled within next months
+applied s backlog particular date necessarily indicative actual sales future periods due potential customer changes delivery schedules order cancellations
+customers may delay delivery products cancel orders prior shipment subject possible cancellation penalties
+delays delivery schedules reduction backlog particular period material adverse effect applied s business results operations
+manufacturing raw materials supplies applied s manufacturing activities consist primarily assembly test integration various proprietary commercial parts compnts subassemblies used manufacture systems
+applied implemented distributed manufacturing model manufacturing supply chain activities conducted various countries including germany israel italy singapore taiwan united states countries asia
+applied uses numerous vendors including contract manufacturers supply parts assembly services manufacture support products including systems completed customer sites
+although applied makes reasonable efforts assure parts available multiple qualified suppliers always possible
+accordingly key parts may obtained single supplier limited group suppliers
+applied seeks reduce costs lower risks manufacturing service interruptions selecting qualifying alternate suppliers key parts monitoring financial condition key suppliers maintaining appropriate inventories key parts qualifying new parts timely basis ensuring quality performance parts
+research development engineering applied s long term growth strategy requires continued development new materials engineering capabilities including products platforms enable expansion new adjacent markets
+applied s significant investments research development engineering rd e must generally enable deliver new products technologies emergence strong demand thus allowing customers incorporate products manufacturing plans early stage technology selection
+applied works closely global customers ecosystem partners design systems processes meet planned technical production requirements
+applied s product development engineering organizations located primarily united states well canada china europe india israel singapore taiwan
+ addition certain outsourced rd e activities process support customer demonstrations performed united states india china singapore taiwan
+marketing sales highly technical nature products applied markets sells products worldwide almost entirely direct sales force
+applied operations many countries business activities concentrated certain geographic areas global regional economic conditions can impact company s business financial results
+applied s business based capital equipment investments major semiconductor display manufacturers subject significant variability customer demand applied s products
+customers expenditures depend many factors including general economic conditions anticipated market demand pricing semiconductors display technologies electronic devices development new technologies customers factory utilization capital resources financing government policies incentives
+ addition significant driver semiconductor display industries end demand mobile consumer products characterized seasonality impacts timing customer investments manufacturing equipment turn applied s business
+information net sales unaffiliated customers long lived assets attributable applied s geographic regions included note notes consolidated financial statements
+ following companies accounted least percent applied s net sales fiscal year products services multiple reportable segments
+samsung electronics taiwan semiconductor manufacturing company limited micron technology intel corporation less competition industries applied operates highly competitive characterized rapid technological change
+applied s ability compete generally depends ability commercialize technology timely manner continually improve products develop new products meet constantly evolving customer requirements
+significant competitive factors include technical capability differentiation productivity cost effectiveness ability support global customer base
+ importance factors varies according customers needs including product mix respective product requirements applications timing circumstances purchasing decisions
+substantial competition exists areas applied s business
+competitors range small companies compete single region may benefit policies regulations favor domestic companies global diversified companies
+applied s ability compete requires high level investment rd e marketing sales global customer support activities
+management believes many applied s products strong competitive positions
+ competitive environment segment described 
+ semiconductor industry driven demand advanced electronic products including smartphs mobile devices servers personal computers automotive devices storage products
+ growth data emerging end market drivers artificial intelligence augmented virtual reality internet things smart vehicles also creating new opportunities industry
+ result products within semiconductor systems segment subject significant changes customer requirements including transitions smaller dimensions increasingly complex chip architectures new materials increasing number applications
+ certain existing technologies may adapted new requirements applications create need entirely different technological approach
+ rapid pace technological change can quickly diminish value current technologies products create opportunities existing new competitors
+applied offers variety technologically differentiated products must continuously evolve satisfy customers requirements compete effectively marketplace
+applied allocates resources among numerous product offerings therefore may decide invest individual product degree competitors specialize fewer products
+ number competitors serving semiconductor manufacturing equipment industry experienced increasing consolidation
+ competitors offer single product line others offer multiple product lines range suppliers serving single region global diversified companies
+products services within applied global services segment complement semiconductor systems display adjacent markets segments products markets characterized demanding worldwide service requirements diverse group numerous competitors
+ compete effectively applied offers products services improve tool performance lower overall cost ownership increase yields productivity customers fab operations
+significant competitive factors include productivity cost effectiveness level technical service support
+ importance factors varies according customers needs type products services offered
+products display adjacent markets segment generally subject strong competition number major competitors primarily asia
+applied holds established market positions technically differentiated lcd oled manufacturing solutions pecvd color filter pvd pvd array pvd touch panel tft array testing although market position change quickly due customers evolving requirements
+important factors affecting competitive position applied s display adjacent markets products include industry trends applied s ability innovate develop new products extent applied s products technically differentiated well customers within highly concentrated customer base making capital equipment investments applied s existing position customers
+patents licenses applied s competitive position significantly depends upon research development engineering manufacturing marketing capabilities well patent position
+protection applied s technology assets enforcement intellectual property rights including patents important
+applied s practice file patent applications united states countries inventions considers significant
+applied approximately patents united states countries additional applications pending new inventions
+although applied consider business materially dependent upon patent rights applied products made sold patents taken whole significant element business
+ addition patents applied possesses intellectual property including trademarks know trade secrets copyrights
+applied enters patent technology licensing agreements companies determined best interest
+applied pays royalties existing patent license agreements use several products certain patented technologies
+applied also receives royalties licenses granted third parties
+royalties received paid third parties material applied s consolidated results operations
+ normal course business applied periodically receives makes inquiries regarding possible patent infringement
+ responding inquiries may become necessary useful applied obtain grant licenses rights
+however can assurance licenses rights will available applied commercially reasonable terms 
+ applied able resolve settle claims obtain necessary licenses commercially reasonable terms successfully prosecute defend position applied s business financial condition results operations materially adversely affected
+environmental matters applied maintains number environmental health safety programs primarily preventative nature
+ part programs applied regularly monitors ongoing compliance applicable laws regulations
+ addition applied trained personnel conduct investigations environmental health safety incidents including limited spills releases possible contamination
+compliance federal state local environmental health safety laws regulations including regulating discharge materials environment remedial agreements actions relating environment expected material effect applied s capital expenditures competitive position financial condition results operations
+ recent report applied s environmental health safety activities can found applied s latest citizenship report website http www appliedmaterials com news citizenship report html
+ citizenship report updated periodically
+ website address intended inactive textual reference 
+n information accessible applied s website part form k incorporated reference herein
+employees october applied employed approximately regular employees
+ high technology industry competition highly skilled employees intense
+applied believes future success highly dependent upon continued ability attract retain motivate qualified employees
+executive officers registrant following table notes set forth information applied s executive officers name individual position gary e
+dickerson president chief executive officer ginetto addiego senior vice president engineering operations quality daniel j
+durn senior vice president chief financial officer steve ghanayem senior vice president new markets alliances group thomas f
+larkins senior vice president general counsel omkaram nalamasu senior vice president chief technology officer prabu raja senior vice president semiconductor products group ali salehpour senior vice president services display flexible technology charles read corporate vice president corporate controller chief accounting officer mr
+dickerson age named president applied june appointed chief executive officer member board directors september joining applied served chief executive officer director varian semiconductor equipment associates varian acquisition applied november prior varian mr
+dickerson served years kla tencor corporation kla tencor supplier process control yield management solutions semiconductor related industries held variety operations product development roles including president chief operating officer
+mr
+dickerson started semiconductor career manufacturing engineering management general motors delco electronics division t technologies
+dr
+addiego age senior vice president engineering operations quality since june
+ served senior vice president engineering march june
+ previously applied leading various product groups well global organizations including global operations facilities real estate foundation engineering information technology
+ march march dr
+addiego president chief operating officer ultra clean technology corp
+ public company listed nasdaq supplier critical subsystems semiconductor capital equipment medical device energy research flat panel industries
+ february march dr
+addiego worked novellus systems provider advanced process equipment semiconductor industry served executive vice president corporate global operations responsible central engineering facilities real estate human resources information technology chief administrative officer
+mr
+durn age senior vice president chief financial officer applied since august
+previously mr
+durn executive vice president chief financial officer nxp semiconductors n v
+ semiconductor manufacturer nxp december august
+mr
+durn served senior vice president finance chief financial officer freescale semiconductor june merger nxp december
+prior freescale mr
+durn chief financial officer executive vice president finance administration globalfoundries semiconductor foundry joined december mr
+ghanayem age senior vice president new markets alliances group applied since november
+ served various senior management product development operational roles since joining applied including group vice president general manager transistor interconnect group
+mr
+larkins age senior vice president general counsel applied since november corporate secretary november march
+previously mr
+larkins employed hywell international diversified global technology manufacturing company vice president corporate secretary deputy general counsel joining applied
+mr
+larkins served various positions hywell formerly alliedsignal joining company 
+dr
+nalamasu age senior vice president chief technology officer since june president applied ventures llc applied s venture capital arm since november served group vice president chief technology officer january june corporate vice president chief technology officer january january upon joining applied june january dr
+nalamasu appointed vice president research served deputy chief technology officer general manager advanced technologies group
+ dr
+nalamasu nystar distinguished professor materials science engineering rensselaer polytechnic institute also served vice president research 
+prior rensselaer dr
+nalamasu served several leadership roles bell laboratories
+dr
+raja age senior vice president semiconductor products group applied since november
+ previously served various senior management product development operational roles since joining applied including group vice president general manager patterning packaging group
+mr
+salehpour age senior vice president services display flexible technology since september previously served group vice president general manager energy environmental solutions display business groups since joining applied november prior applied mr
+salehpour worked kla tencor years served senior vice president general manager worked years senior management positions schlumberger test systems
+mr
+read age corporate vice president corporate controller chief accounting officer applied since joining company september prior applied mr
+read worked brocade communications systems provider semiconductor software based nerk solutions since october recently served vice president corporate controller
+prior brocade mr
+read worked kpmg llp audit tax advisory firm available information applied s website http www appliedmaterials com
+applied makes available free charge website annual quarterly current reports amendments reports soon reasonably practicable electronically filing reports furnishing sec
+ sec s website www sec gov contains reports proxy information statements information regarding issuers file electronically sec
+ website addresses intended inactive textual references 
+n information accessible websites part form k incorporated reference herein
+item 

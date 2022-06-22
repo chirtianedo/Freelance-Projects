@@ -1,0 +1,467 @@
+item business company overview analog devices analog devices company world leader design manufacture marketing broad portfolio solutions leverage high performance analog mixed signal digital signal processing technology including integrated circuits ics algorithms software subsystems
+since inception focused solving customers toughest signal processing engineering challenges playing fundamental role converting conditioning processing real world phenomena temperature pressure sound light speed motion electrical signals used wide array electronic devices
+ combine sensors data converters amplifiers linear products radio frequency rf ics power management products signal processing products technology platforms meet specific customer market needs leveraging engineering investment across broad base markets customers
+ new generations applications evolve autonomous vehicles internet things new needs analog devices high performance analog signal processing digital signal processing dsp products technology emerging
+ focus key strategic markets signal processing technology often critical differentiator customers products particular industrial automotive consumer communications markets
+used customers worldwide products embedded inside many different types electronic equipment including industrial process control systems medical imaging equipment factory automation systems patient vital signs monitoring devices instrumentation measurement systems wireless infrastructure equipment energy management systems nerking equipment aerospace defense electronics optical systems automobiles portable consumer devices incorporated massachusetts 
+ headquarters near boston norwood massachusetts
+ addition manufacturing facilities massachusetts ireland philippines thirty design facilities worldwide
+ common stock listed nasdaq global select market symbol adi included standard poor s index
+recent developments july entered definitive agreement merger agreement acquire linear technology corporation linear independent manufacturer high performance linear integrated circuits
+ terms merger agreement linear stockholders will receive outstanding share linear common stock cash share common stock closing
+based number outstanding shares linear common stock july day volume weighted average price july value total consideration paid us estimated approximately billion funded issuance approximately million new shares common stock approximately billion new short long term indebtedness
+ october linear stockholders approved merger agreement
+ october received antitrust clearance united states germany
+subsequently also received antitrust clearances japan israel
+ currently expect transaction completed end second quarter fiscal year ended october fiscal subject receipt remaining required regulatory clearances satisfaction waiver conditions contained merger agreement
+available information maintain website address www analog com
+ including information contained website part incorporating reference annual report form k
+ make available free charge website annual reports form k quarterly reports form q current reports form k including exhibits amendments reports soon reasonably practicable electronically file material furnish material securities exchange commission sec
+ also make available website corporate governance guidelines charters audit committee compensation committee nominating corporate governance committee equity award granting policies code business conduct ethics applies directors officers employees related person transaction policy information available print free charge shareholder analog devices requests 
+ addition intend disclose website amendments waivers code business conduct ethics required publicly disclosed pursuant rules sec nasdaq
+industry background semiconductor compnts electronic building blocks used electronic systems equipment
+ compnts classified either discrete devices individual transistors ics number transistors elements combined form complicated electronic circuit
+ics may divided general categories digital analog
+digital circuits memory devices microprocessors generally process electrical signals represented binary digits 
+ contrast analog ics monitor condition amplify transform continuous analog signals associated physical properties temperature pressure weight light sound motion play important role bridging real world phenomena variety electronic systems
+analog ics also provide voltage regulation power control electronic systems
+principal products design manufacture market broad line high performance ics incorporate analog mixed signal digital signal processing technologies
+ ics designed address wide range real world signal processing applications
+ sell ics tens thousands customers worldwide many use products spanning core technologies wide range applications
+ ic product portfolio includes general purpose products used broad range customers applications well application specific products designed specific clusters customers key target markets
+ using readily available high performance general purpose products systems customers can reduce time need bring new products market
+given high cost developing customized ics standard products often provide cost effective solution many low medium volume applications
+ also focus working leading customers design application specific solutions
+ begin existing core technologies leverage data conversion amplification rf microwave mems power management dsp capabilities devise solution closely meet needs specific customer group customers
+ already developed core technology platform general purpose products can create application specific solutions quickly
+ produce market broad range ics operate reportable segment based aggregation seven operating segments
+ ics sold operating segments manufactured using similar semiconductor manufacturing processes raw materials either production facilities third party wafer fabricators using proprietary processes
+ ics sold customers globally direct sales force third party distributors independent sales representatives via website
+ technology offerings aligned predominant markets served order facilitate decision making throughout organization
+ ten highest revenue products aggregate accounted approximately revenue fiscal year ended october fiscal
+analog products analog mixed signal ic technology foundation business five decades world s largest suppliers high performance analog ics
+ analog signal processing ics primarily high performance devices offering higher dynamic range greater bandwidth enhanced features
+ believe principal advantages products compared competitors products include higher accuracy higher speed lower cost per function smaller size lower power consumption fewer compnts resulting improved performance reliability
+ product portfolio includes several thousand analog ics can many several hundred customers
+ analog ics typically long product life cycles
+ analog ic customers include original equipment manufacturers oems customers build electronic subsystems integration larger systems
+converters leading supplier data converter products
+data converters translate real world analog signals digital data also translate digital data analog signals
+data converters remain largest diverse product family area continuously innovating enable customers redefine differentiate products
+ converter products combine sampling rates accuracy low noise power price small package size required industrial automotive consumer communications electronics
+amplifiers radio frequency also leading supplier high performance amplifiers
+amplifiers used condition analog signals
+high performance amplifiers emphasize performance dimensions speed precision
+within product portfolio provide precision instrumentation high speed intermediate frequency rf broadband amplifiers
+ also offer extensive portfolio precision voltage references used wide variety applications
+ analog product line also includes broad portfolio high performance rf ics covering entire rf signal chain industry leading stand al rf function blocks phase locked loops frequency synthesizers mixers modulators demodulators power detectors highly integrated broadband short range single chip transceiver solutions
+ high performance rf ics support high performance requirements cellular infrastructure broad range applications target markets
+ analog also within analog technology portfolio products based mems technology
+ technology enables us build extremely small sensors incorporate electromechanical structure supporting analog circuitry conditioning signals obtained sensing element
+ mems product portfolio includes accelerometers used sense acceleration gyroscopes used sense rotation inertial measurement units used sense multiple degrees freedom combining multiple sensing types along multiple axes
+ majority current revenue mems products derived automotive end market
+ addition mems products analog product category includes isolators enable designers implement isolation designs without cost size power performance reliability constraints found optocouplers
+ isolators designed hundreds applications universal serial bus isolation patient monitors allows hospitals physicians adopt latest advances computer technology supervise patient health wirelessly transmit medical records
+ smart metering applications isolators provide reliable electrostatic discharge performance helps reduce meter tampering
+likewise satellites malfunction can catastrophic isolators help protect power system enabling designers achieve small form factors
+power management reference power management reference products make balance analog sales
+ products include functions power conversion driver monitoring sequencing energy management developed complement analog signal chain compnts across core market segments micro power energy sensitive battery applications efficient high performance power systems infrastructure industrial applications
+digital signal processing products digital signal processing products dsps complete product portfolio
+dsps optimized high speed numeric calculations essential instantaneous real time processing digital data generated cases analog digital signal conversion
+ dsps designed fully programmable efficiently execute specialized software programs algorithms associated processing digitized real time real world data
+programmable dsps designed provide flexibility modify device s function quickly inexpensively using software
+ general purpose dsp ic customers typically write algorithms using software development tools provided us third party suppliers
+ dsps designed families products share common architectures therefore can execute software across range products
+ support products easy use development tools designed reduce customers product development costs time market
+ customers use products solve wide range signal processing challenges across core market segment focus areas within industrial automotive consumer communications end markets
+ integrated part customers signal chain typically many analog devices products connected processors including converters audio video codecs power management solutions
+markets applications breakdown fiscal revenue end market set table 
+percent fiscal end market revenue industrial automotive consumer communications following describes characteristics customer products within major end markets industrial industrial market includes following sectors industrial instrumentation industrial automation applications generally require ics offer performance greater available commodity level ics generally production volumes warrant custom ics
+ trend towards development products focused particular sub applications incorporate combinations analog mixed signal dsp ics achieve necessary functionality
+ instrumentation customers differentiate using highest performance analog mixed signal ics available
+ industrial instrumentation market includes applications process control systems oscilloscopes robotics lab chemical environmental analyzers environmental control systems weigh scales defense aerospace defense commercial avionics space markets require high performance ics meet rigorous environmental reliability specifications
+many analog ics can supplied versions meet standards
+ addition many products can supplied meet standards required broadcast satellites commercial space applications
+ products sold market specially tested versions products derived standard product offering
+ end systems becoming complex many customers market also look sub systems
+ supply sub systems many customers
+customer products include navigation systems radar systems space satellite communications security devices communication systems energy management desire improve energy efficiency conservation reliability cleanliness driving investments renewable energy power transmission distribution systems electric meters innovative areas
+ common characteristic behind efforts addition sensing measurement communication technologies electrical infrastructure
+ offerings include standard application specific products used applications utility meters wind turbines meter communication modules solar inverters substation relays automation equipment building energy automation control healthcare significant trends healthcare market today increasing need higher channel counts medical imaging systems improve resolution throughput achieving lower cost per channel movement highly accurate patient monitoring devices hospital environment home improving patient care reducing overall healthcare costs
+ innovative technologies designed variety high performance imaging patient monitoring medical instrumentation home health devices
+ offerings include standard application specific products used applications ultrasound infusion pumps ct scanners clinical lab instrumentation digital x ray surgical instrumentation multi parameter patient monitors blood analyzers pulse oximeters activity monitors automotive develop differentiated high performance signal processing solutions enable sophisticated automotive systems greener safer smarter
+ collaboration manufacturers worldwide achieved significant market share broad portfolio analog digital mems ics increase fuel efficiency enhance vehicle stability safety improve cabin audio video experience
+specifically developed products used applications greener safer smarter hybrid electric electric vehicles crash sensors airbag systems car audio voice processing connectivity battery monitoring management systems electronic stability systems video processing connectivity advanced driver assistance systems car telematics consumer address market demand state art personal professional entertainment systems consumer demand high quality user interfaces music movies photographs developed analog digital mixed signal solutions meet rigorous cost time market requirements consumer electronics market
+ emergence high performance feature rich consumer products created market high performance ics high level specific functionality enables best class user experience
+ products include portable devices smart phs tablets wearable devices media vital signs motoring applications prosumer audio video equipment communications development broadband wireless internet infrastructures around world created important market communications products
+communications technology involves processing signals converted analog digital digital analog form process transmitting receiving data
+ need higher speed reduced power consumption coupled reliable bandwidth efficient communications creates demand products used full spectrum signal processing internet protocol video streaming voice communication machine type communications
+ wireless broadband communication applications products incorporated cellular basestation equipment wired nerking data center equipment wireless backhaul systems satellite systems see note industry segment geographic information notes consolidated financial statements contained item annual report form k information products end market
+research development markets characterized rapid technological changes advances
+accordingly make substantial investments design development new products manufacturing processes improvement existing products manufacturing processes
+ spent approximately million fiscal design development improvement new existing products manufacturing processes compared approximately million fiscal year ended october fiscal approximately million fiscal year ended november fiscal
+ research development strategy focuses building technical leadership core technology platforms include converters amplifiers rf microwave mems power management dsp
+ support research development activities employ thousands engineers involved product manufacturing process development throughout world
+patents intellectual property rights seek establish maintain proprietary rights technology products use patents copyrights mask works trademarks trade secrets
+ program file applications obtain patents copyrights mask works trademarks united states selected foreign countries believe filing protection appropriate
+ also seek maintain trade secrets confidential information nondisclosure policies use appropriate confidentiality agreements
+ obtained substantial number patents trademarks united states countries
+ october held approximately u s
+patents approximately non provisional pending u s
+patent applications expiration dates ranging 
+ can assurance however rights obtained can successfully enforced infringing products every jurisdiction
+ patents copyrights mask works trademarks trade secrets provide advantage protection believe competitive position future success largely determined factors system application knowledge innovative skills technological expertise management ability experience personnel range success new products developed us market brand recognition ongoing marketing efforts customer service technical support
+ generally policy seek patent protection significant inventions may patented though may elect certain cases seek patent protection even significant inventions determine protection maintaining invention trade secret advantageous
+ also trademarks used conduct business distinguish genuine analog devices products maintain cooperative advertising programs promote brands identify products containing genuine analog devices compnts
+sales channels sell products globally direct sales force third party distributors independent sales representatives via website
+ direct sales offices sales representatives distributors countries outside north america
+ support worldwide sales efforts website extensive promotional programs include editorial coverage paid advertising online printed trade publications webinars social media communities promotional training videos direct mail programs technical seminars participation trade shows
+ publish share distribute technical content data sheets application guides catalogs
+ maintain staff field application engineers aid customers incorporating products products
+ addition offer variety web based tools ease product selection aid design process customers
+ derived approximately fiscal revenue sales made distributors
+ distributors typically maintain inventory products
+ also sell products compete products including alternate source
+ regions world defer revenue related cost sales shipments distributors distributors resell products customers
+ make sales distributors agreements allow distributors receive price adjustment credits return qualifying products credit determined us order reduce amounts slow moving discontinued obsolete product inventory
+ agreements limit returns certain percentage shipments distributor prior quarter
+ addition distributors allowed return unsold products terminate relationship distributor
+additional information relating sales distributors set forth note n revenue recognition notes consolidated financial statements contained item annual report form k
+segment financial information geographic information operate track results reportable segment based aggregation seven operating segments
+ subsidiaries affiliates conduct business numerous countries outside united states
+ fiscal derived approximately revenue customers international markets
+ international business subject risks customarily encountered foreign operations including fluctuations foreign currency exchange rates controls import export controls laws policies regulations foreign governments
+although engage hedging transactions reduce exposure currency exchange rate fluctuations competitive position may adversely affected changes exchange rate united states dollar currencies
+revenue geographic region based primary location customers design activity products fiscal follow percent fiscal geographic area revenue united states rest north south america europe japan china rest asia sum individual percentages equal due rounding detail regarding revenue financial information industry segment geographic areas see consolidated financial statements note industry segment geographic information notes consolidated financial statements contained item annual report form k
+ discussion important risk factors may materially affect us see risk factors contained item annual report form k
+customers customers worldwide
+ largest single customer represented approximately fiscal revenue fiscal revenue
+ sales individual customer accounted fiscal revenue
+ customers use hundreds different types products wide range applications spanning industrial automotive consumer communication markets
+ largest customers accounted approximately fiscal revenue
+seasonality sales customers first fiscal quarter may lower quarters due plant shutdowns customers holiday season
+ general seasonality specific period time material impact results operations
+ addition explained risk factors contained item annual report form k revenue likely influenced quarter quarter basis cyclicality semiconductor industry
+production raw materials monolithic ic compnts manufactured sequence semiconductor production steps include wafer fabrication wafer testing cutting wafer individual chips dice assembly dice packages electrical testing devices final packaged form
+ raw materials used manufacture devices include silicon wafers processing chemicals including liquefied gases precious metals ceramic plastic used packaging
+ develop employ wide variety proprietary manufacturing processes specifically tailored use fabricating high performance analog dsp mixed signal mems ics
+ also use bipolar complementary metal oxide semiconductor cmos wafer fabrication processes
+ ic products fabricated production facilities third party wafer fabricators
+ products manufactured wafer fabrication facilities using proprietary processes third party wafer fabrication foundries using sub micron digital cmos processes
+ currently source approximately wafer requirements annually third party wafer fabrication foundries primarily taiwan semiconductor manufacturing company tsmc
+ operate wafer fabrication facilities wilmington massachusetts limerick ireland
+ also operate test facilities located philippines use third party subcontractors assembly testing products
+capital spending approximately million fiscal compared approximately million fiscal
+ expect capital expenditures fiscal year ending october fiscal range million million
+ products require wide variety compnts raw materials external foundry services purchase third party suppliers
+ multiple sources many compnts materials purchase incorporate products
+however large portion external wafer purchases foundry services limited number suppliers primarily tsmc
+ tsmc key suppliers unable unwilling manufacture deliver sufficient quantities compnts us time schedule quality require may forced seek engage additional replacement suppliers result significant expenses disruptions delays manufacturing product development shipment product customers
+although experienced shortages compnts materials external foundry services time time item generally available us needed
+backlog backlog end fiscal approximately million approximately million end fiscal
+ define backlog particular date mean firm orders customer distributor requested delivery date within thirteen weeks
+backlog impacted tendency customers rely shorter lead times available suppliers including us periods depressed demand
+ periods increased demand tendency towards longer lead times effect increasing backlog instances may manufacturing capacity sufficient fulfill orders
+ customary semiconductor industry allow orders canceled deliveries delayed customers without significant penalty
+accordingly believe backlog time used indication future revenue
+ typically long term sales contracts customers
+ markets end user demand may particularly volatile difficult predict customers place orders require us manufacture product available shipment even though customer unwilling make binding commitment purchase even product
+ instances manufacture product based forecasts customer demand
+ result may incur inventory manufacturing costs advance anticipated sales subject risk cancellation orders leading sharp reduction sales backlog
+ orders forecasts may products meet customer s unique requirements canceled orders addition result inventory unsaleable products resulting potential inventory write offs
+ result lengthy manufacturing cycles products subject uncertainties amount unsaleable product substantial
+government contracts less fiscal revenue attributable sales u s
+government u s
+government contractors subcontractors
+ government contract business predominantly form negotiated firm fixed price subcontracts
+ contracts subcontracts contain standard provisions relating termination election u s
+government
+acquisitions divestitures investments element business strategy involves expansion acquisition businesses assets products technologies allow us complement existing product offerings expand market coverage increase engineering workforce enhance technological capabilities
+ time time consider acquisitions divestitures may strengthen business
+ noted july entered merger agreement acquire linear
+ terms merger agreement linear stockholders will receive outstanding share linear common stock cash share company s common stock closing
+based number outstanding shares linear common stock july company s day volume weighted average price july value total consideration paid us estimated approximately billion funded issuance approximately million new shares company s common stock approximately billion new short long term indebtedness
+ transaction subject customary closing conditions including remaining required regulatory clearances
+ july completed acquisition hittite microwave corporation hittite company designed developed high performance integrated circuits modules subsystems instrumentation radio frequency microwave millimeterwave applications
+ total consideration paid acquire hittite approximately billion financed combination existing cash hand day term loan facility billion
+additional information relating acquisition activities fiscal years set forth note acquisitions notes consolidated financial statements contained item annual report form k
+ divestitures fiscal years presented
+competition believe competitive performance marketplace signal processing products depends upon multiple factors including technological innovation strength brand diversity product portfolio product performance technical support delivery capabilities customer service quality reliability price relative importance factors varying among products markets customers
+ compete number semiconductor companies markets highly competitive
+ competitors include limited robert bosch gmbh maxim integrated products broadcom limited microchip technology infineon technologies nxp semiconductors linear technology corporation texas instruments believe technical innovation emphasizing product performance reliability supported commitment strong customer service technical support enables us make fundamental difference customers competitiveness chosen markets
+environment health safety committed protecting environment health safety employees customers public
+ endeavor adhere applicable environmental health safety ehs regulatory industry standards across facilities encourage pollution prevention reduce water energy consumption reduce waste generation strive towards continual improvement
+ strive achieve excellence ehs management practices integral part total quality management system
+ ehs management systems certified iso environmental ohsas occupational health safety
+ member electronic industry citizenship coalition eicc
+ sustainability report first published states commitment reducing greenhouse gas ghg emissions conserving resources consuming less energy water complying code business conduct ethics applying fair labor standards among things
+ including information contained sustainability report incorporating reference annual report form k
+ manufacturing facilities subject numerous increasingly strict federal state local foreign ehs laws regulations particularly respect transportation storage handling use emission discharge disposal certain chemicals used produced semiconductor manufacturing process
+ products subject increasingly stringent regulations regarding chemical content jurisdictions sell products including restriction hazardous substances rohs directive european union china registration evaluation authorization restriction chemicals reach directive european union
+contracts many customers reflect additional ehs compliance standards
+compliance laws regulations material impact capital expenditures earnings financial condition competitive position
+ can assurance however current future environmental laws regulations will impose costly requirements upon us
+ failure us comply applicable environmental laws regulations contractual obligations result fines suspension production need alter manufacturing processes legal liability
+employees october employed approximately individuals worldwide
+ future success depends large part continued service key technical senior management personnel ability continue attract retain motivate qualified employees particularly highly skilled design process test applications engineers involved design support manufacture new existing products processes
+ believe relations employees good however competition personnel intense loss key personnel material adverse impact results operations financial condition
+item 
+risk factors set forth elsewhere report documents file sec descriptions risks uncertainties cause actual results differ materially results contemplated forward looking statements contained report
+risks related proposed acquisition linear technology corporation ability complete acquisition linear technology corporation linear subject various closing conditions including receipt consents approvals governmental authorities may impose conditions adversely affect us cause acquisition abandd
+ linear must make certain filings obtain certain consents approvals various governmental regulatory authorities
+ yet obtained regulatory consents approvals required complete acquisition
+governmental regulatory agencies seek block challenge acquisition
+even regulatory consents approvals obtained governmental authorities approvals required may impose conditions completion acquisition including requiring significant divestitures placing restrictions conduct combined company s business adverse effect combined company following acquisition
+ merger agreement may require us accept certain conditions regulators adversely impact combined company
+ agree undertake divestitures comply operating restrictions order obtain approvals required complete acquisition may less able realize anticipated benefits acquisition business results operations combined company acquisition may adversely affected
+ required regulatory consents approvals received received terms satisfy conditions set forth merger agreement neither linear will obligated complete acquisition
+ merger agreement required certain circumstances pay linear termination fee million
+ termination fee payable payment fee material adverse consequences financial condition operations
+ applicable waiting period acquisition hart scott rodino antitrust improvements act amended expired october result acquisition cleared u s
+antitrust purposes
+ addition received clearances acquisition antitrust regulators germany japan israel
+ can provide assurance various closing conditions will satisfied necessary approvals will obtained required conditions will materially adversely affect combined company following acquisition
+ addition can provide assurance conditions will result abandonment delay acquisition
+ occurrence events individually combination material adverse effect results operations trading price common stock
+ will incur significant acquisition related costs connection linear acquisition combined company incur substantial expenses related integration linear
+ expect incur costs associated combining operations linear s operations well transaction fees costs related acquisition
+many costs will borne us even acquisition completed
+ will incur completion acquisition combined company will incur following completion acquisition substantial expenses connection integrating company s respective businesses policies procedures operations technologies systems
+ integration expenses may result significant charges taken earnings us prior completion acquisition combined company following completion acquisition
+ will incur significant indebtedness connection merger reduce flexibility operate business increase interest expense
+ connection planned acquisition entered commitment letter dated july commitment letter jpmorgan chase bank n 
+bank america n 
+merrill lynch pierce fenner smith incorporated credit suisse ag credit suisse securities usa llc subsequently joined august bank tokyo mitsubishi ufj together commitment parties pursuant commitment parties committed arrange provide subject terms conditions commitment letter day senior unsecured bridge facility aggregate principal amount billion day senior unsecured bridge facility aggregate principal amount billion
+ september entered term loan facility composed billion year unsecured term loan facility billion five year unsecured term loan facility collectively term loan facility amended restated revolving credit agreement revolving credit facility expires july
+borrowings term loan facility available upon consummation planned acquisition linear
+additionally upon consummation planned acquisition linear aggregate commitments revolving credit facility will increase million billion certain amendments revolving credit facility will become effective
+ result entry term loan facility commitments day senior unsecured bridge facility reduced billion billion
+upon consummation merger ability make payments principal interest indebtedness due depends upon future performance will subject general economic conditions industry cycles financial business factors affecting consolidated operations many beyond control
+ addition amount cash required make principal interest payments increased indebtedness levels following completion merger thus demands cash resources will greater amount cash flows required service indebtedness prior completion merger
+ increased indebtedness also effect among things reducing flexibility respond changing business economic conditions reducing funds available working capital capital expenditures acquisitions general corporate purposes may create competitive disadvantages relative companies lower debt levels
+ achieve expected benefits cost savings merger financial performance combined company meet current expectations ability service indebtedness may adversely impacted
+ market value common stock decline large amounts common stock sold following linear acquisition
+following acquisition shareholders former linear stockholders will interests combined company operating expanded business assets different mix liabilities
+ current shareholders current linear stockholders may wish continue invest combined company may wish reduce investment combined company order comply institutional investing guidelines increase diversification track rebalancing stock indices linear s common stock included
+ following acquisition large amounts common stock sold price common stock decline
+ pendency linear acquisition adversely affect us
+ connection pending acquisition suppliers customers may delay defer sales purchasing decisions negatively impact revenues earnings cash flows regardless whether acquisition completed
+following linear acquisition combined company may encounter difficulties integrating linear s businesses realizing anticipated benefits acquisition
+ acquisition involves combination companies currently operate independent public companies
+ combined company will required devote management attention resources integrating business practices operations prior acquisition management attention resources will required plan integration
+potential difficulties combined company may encounter integration process include following inability successfully integrate respective businesses companies manner permits combined company achieve cost savings operating synergies anticipated result acquisition result anticipated benefits acquisition realized partly wholly time frame currently anticipated lost sales customers result certain customers either companies deciding business combined company deciding decrease amount business order reduce reliance single company integrating personnel systems companies maintaining focus providing consistent high quality products services potential unknown liabilities unforeseen increased expenses delays regulatory conditions associated acquisition performance shortfalls companies result diversion management s attention caused completing acquisition integrating companies operations
+ factors result combined company failing realize anticipated benefits acquisition expected timeline 
+risks relating business disruptions global credit financial markets materially adversely affect business results operations
+ significant continuing uncertainty regarding stability global credit financial markets
+ economic uncertainties may lead consumers businesses postp spending may cause customers cancel decrease delay existing future orders products make difficult us accurately forecast plan future business activities
+significant disruption global credit financial markets may also adversely affect ability access external financing sources acceptable terms
+financial difficulties experienced customers result nonpayment payment delays previously purchased products thereby increasing credit risk exposure
+uncertainty regarding future stability global credit financial markets cause value currency affected markets deteriorate thus reducing purchasing power customers
+ addition financial difficulties experienced suppliers distributors result product delays increased accounts receivable defaults inventory challenges
+ past years many governments adopted stimulus spending programs designed ease economic impact crisis
+ businesses benefited stimulus programs can assurance programs will continue future
+ economic conditions deteriorate may record additional charges relating restructuring costs impairment assets business results operations materially adversely affected
+ future revenue gross margins operating results net income earnings per share difficult predict may materially fluctuate
+ future revenue gross margins operating results net income earnings per share difficult predict may materially affected number factors including effects adverse economic conditions markets sell products changes customer demand products end products incorporate products timing delay reduction cancellation significant customer orders ability manage inventory fluctuations customer order patterns seasonality ability effectively manage cost structure short term longer duration changes geographic product customer mix changes effective tax rates united states ireland worldwide timing new product announcements introductions us customers competitors market acceptance products competitive pricing pressures fluctuations manufacturing yields adequate availability wafers raw materials manufacturing assembly test capacity ability third party suppliers subcontractors manufacturers supply us sufficient quantities raw materials products compnts decline infrastructure spending foreign governments including china decline u s
+government defense budget changes spending budgetary priorities prolonged u s
+government shutdown delays contract awards significant decline backlog ability recruit hire retain motivate adequate numbers engineers qualified employees meet demands customers ability generate new design opportunities win competitive bid selection processes increasing costs providing employee benefits including health insurance retirement plan pension plan contributions retirement benefits ability utilize manufacturing facilities efficient levels potential significant litigation related costs product warranty indemnity claims including covered suppliers insurers difficulties inherent forecasting future operating expense levels including respect costs associated labor utilities transportation raw materials costs related compliance increasing worldwide government environmental social responsibility regulations new accounting pronouncements changes existing accounting standards practices effects public health emergencies natural disasters widespread travel disruptions security risks terrorist activities international conflicts government sanctions events beyond control
+ addition semiconductor market historically cyclical subject significant economic upturns downturns
+ business certain end markets serve also subject rapid technological changes material fluctuations demand based end user preferences
+ can assurance products stocked inventory will rendered obsolete ship ii will able design develop produce products timely fashion accommodate changing customer demand
+ result factors may experience material fluctuations future revenue gross margins operating results net income earnings per share quarterly annual basis
+ historical financial performance results operations relied upon indicators future performance results
+ addition revenue gross margins operating results net income earnings per share results expectations meet expectations securities analysts investors market price common stock may decline
+increases effective tax rate exposure additional tax liabilities may adversely impact results operations
+ effective tax rate reflects applicable tax rate effect various tax jurisdictions around world income earned
+ effective tax rate u s
+federal statutory tax rate primarily due lower statutory tax rates applicable operations foreign jurisdictions earn income
+ number factors may increase future effective tax rate including new revised tax laws legislation interpretation laws legislation governmental authorities increases tax rates various jurisdictions variation mix jurisdictions profits earned taxed repatriation non u s
+earnings adverse resolution ongoing tax audits adverse rulings taxing authorities worldwide changes valuation deferred tax assets liabilities adjustments income taxes upon finalization various tax returns increases expenses deductible tax purposes including executive compensation subject limitations section m internal revenue code amortization assets acquired connection strategic transactions decreased availability tax deductions stock based compensation awards worldwide changes available tax credits
+ significant increase future effective tax rate adversely impact net income future periods
+ october organization economic cooperation development oecd international association thirty four countries including u s
+ uk released final reports base erosion profit shifting beps action plans
+ beps recommendations covered number issues including country country reporting permanent establishment rules transfer pricing rules tax treaties
+future tax reform resulting development may result changes long standing tax principles adversely affect effective tax rate result higher cash tax liabilities
+long term contracts typical us incorrect forecasts reductions cancellations delays orders products adversely affect operating results
+ typically long term sales contracts customers
+ certain markets end user demand may particularly volatile difficult predict customers place orders require us manufacture product available shipment even though customer unwilling make binding commitment purchase even product
+ instances manufacture product based forecasts customer demands may fluctuate significantly quarterly annual basis
+additionally u s
+government contracts subcontracts may funded increments number government budget periods typically can terminated government convenience
+ result may incur inventory manufacturing costs advance anticipated sales subject risk lower expected orders cancellations orders leading sharp reduction sales backlog
+ orders forecasts products meet customer s unique requirements canceled unrealized orders addition result inventory unsaleable products causing potential inventory write offs may unable recover costs incurred committed
+ result lengthy manufacturing cycles certain products subject uncertainties amount unsaleable product substantial
+incorrect forecasts reductions cancellations delays orders products adversely affect operating results
+ future success depends upon ability execute business strategy continue innovate improve existing products design develop produce market new products identify enter new markets
+ future success significantly depends continued ability execute business strategy continue improve existing products design develop produce market innovative new products
+product design development innovation enhancement often complex time consuming costly process involving significant investment research development assurance return investment
+ can assurance will able develop introduce new improved products timely efficient manner new improved products developed will achieve market acceptance
+ products generally must conform various evolving sometimes competing industry standards may adversely affect ability compete certain markets require us incur significant costs
+ addition customers generally impose high quality reliability standards products often change may difficult costly satisfy
+ inability satisfy customer quality reliability standards comply industry standards technical requirements may adversely affect demand products results operations
+ addition growth dependent ability generate new design opportunities win competitive bid selection processes
+failure obtain particular design win may prevent us obtaining design wins subsequent generations particular product weaken position future competitive selection processes
+ growth also dependent ability identify penetrate new markets limited experience competition intense
+ customers new markets less established subject us increased credit risk
+ can assurance markets serve target based business strategy will grow future existing new products will meet requirements markets products products products used will achieve customer acceptance markets competitors will force price reductions take market share us can achieve maintain adequate gross margins profits markets
+additionally developing markets developing internet things iot market require significant investments resources technological advancement order compete effectively can assurance will achieve success markets
+furthermore decline demand several end user markets material adverse effect demand products results operations
+ may able compete successfully markets within semiconductor industry future
+ face intense competition semiconductor industry expect competition increase future including companies located outside united states
+competition generally based innovation design quality reliability products product performance features functionality product pricing availability capacity technological service support availability integrated system solutions relative importance factors varying among products markets customers
+many companies sufficient financial manufacturing technical sales marketing resources develop market products compete products
+ competitors may advantageous supply development relationships current potential customers suppliers
+ competitors also include emerging companies selling specialized products markets serve entities outside u s
+including entities associated efforts foreign governments create indigenous semiconductor industries
+existing new competitors may develop products technologies effectively address demands customers markets enhanced performance features functionality lower power requirements greater levels integration lower cost
+ addition seek expand business including design production products services iot market may encounter increased competition current competitors new competitors
+increased competition certain markets resulted may continue result declining average selling prices reduced gross margins loss market share markets
+ can assurance will able compete successfully future existing new competitors operating results will adversely affected increased competition
+ addition semiconductor industry experienced significant consolidation past several years
+consolidation among competitors lead changing competitive landscape negatively impact competitive position market share harm results operations
+ rely third party suppliers subcontractors manufacturers industry standard wafers manufacturing processes assembly test services transportation generally control availability conditions supply
+ rely plan continue rely third party suppliers assembly test subcontractors freight carriers wafer fabricators collectively suppliers supply wafers can manufactured using industry standard submicron processes
+ reliance involves several risks including reduced control availability capacity utilization delivery schedules manufacturing yields costs
+ currently source approximately wafer requirements annually third party wafer fabrication foundries primarily taiwan semiconductor manufacturing company tsmc
+ addition suppliers often provide manufacturing services competitors therefore periods increased industry demand may result capacity constraints
+ certain instances third party supplier sole source highly specialized processing services
+ suppliers unable unwilling manufacture deliver compnts us time schedule quality quantity require provide us required manufacturing processes may forced seek engage additional replacement suppliers result additional expenses delays product development shipment product customers
+ additional replacement suppliers manufacturing processes available may also experience delays product development shipment turn result temporary permanent loss customers
+ markets semiconductor products cyclical increased production may lead overcapacity lower prices conversely may able satisfy unexpected demand products
+ cyclical nature semiconductor industry resulted periods demand products increased decreased rapidly
+ demand products subject strength four major end markets industrial communications infrastructure automotive consumer
+ expand operations workforce rapidly procure excessive resources anticipation increased demand products demand materialize pace expect declines overbuild inventory period decreased demand operating results may adversely affected result increased operating expenses reduced margins underutilization capacity asset impairment charges
+ capacity expansions us semiconductor manufacturers also lead overcapacity target markets lead price erosion adversely impact operating results
+conversely periods rapid increases demand available capacity may sufficient satisfy demand
+ addition may able expand workforce operations sufficiently timely manner procure adequate resources raw materials locate suitable third party suppliers respond effectively changes demand existing products demand new products requested customers current future business materially adversely affected
+ semiconductor products complex may subject product warranty indemnity claims result significant costs damage reputation adversely affect market acceptance products
+semiconductor products highly complex may contain defects first introduced new versions developed
+ generally warrant products customers year date title passes us
+ invest significant resources testing products however products contain defects may required incur additional development remediation costs pursuant warranty indemnification provisions customer contracts purchase orders
+ problems may divert technical resources product development efforts result claims us customers others including liability costs associated product recalls may adversely impact operating results
+ may also subject customer indemnity claims
+ customers occasion sued may sued future third parties alleging infringement intellectual property rights damages resulting use products
+ customers may seek indemnification us terms conditions sales contracts 
+ certain cases potential indemnification liability may significant
+ products contains defects reliability quality compatibility problems reputation may damaged make difficult us sell products existing prospective customers also adversely affect operating results
+ manufacturing processes utilize substantial amount technology fabrication integrated circuits highly complex precise process
+minute impurities contaminants manufacturing environment difficulties fabrication process defects masks used wafer manufacturing process manufacturing equipment failures wafer breakage factors can cause substantial percentage wafers rejected numerous dice wafer nonfunctional
+ significant expertise semiconductor manufacturing possible processes become unstable
+ instability result manufacturing delays product shortages material adverse effect operating results
+ involved frequent litigation including claims regarding intellectual property rights costly bring defend require us redesign products pay significant royalties
+ semiconductor industry characterized frequent claims litigation involving patent intellectual property rights including claims arising contractual obligations indemnify customers
+ companies individuals obtained patents covering variety semiconductor designs processes might required obtain licenses patents precluded making selling infringing products patents found valid infringed us
+ event third party makes valid intellectual property claim us license available us commercially reasonable terms forced either redesign stop production products incorporating intellectual property operating results materially adversely affected
+litigation may necessary enforce patents intellectual property rights defend us claims infringement litigation costly divert attention key personnel
+ also subject litigation arbitration disputes arising contractual obligations well indemnity warranty product liability claims lead significant costs expenses defend claims pay damage awards
+ can assurance adequately insured protect claims potential liabilities may elect self insure respect certain matters
+ may incur costs expenses relating recall customers products due alleged failure compnts supply
+ adverse outcome litigation arbitration material adverse effect financial position operating results cash flows period dispute resolved
+ may unable adequately protect proprietary intellectual property rights may limit ability compete effectively
+ future success depends part ability protect intellectual property
+ primarily rely patent mask work copyright trademark trade secret laws well nondisclosure agreements methods protect proprietary technologies processes
+despite efforts protect intellectual property possible competitors unauthorized third parties may obtain copy reverse engineer use disclose technologies products processes
+moreover laws foreign countries design manufacture market sell products may afford little effective protection proprietary intellectual property
+ can assurance claims allowed issued patents will sufficiently broad protect technology
+ addition existing future patents may challenged invalidated circumvented
+ rights granted patents may provide us adequate protection
+ may able obtain foreign patents pending applications corresponding u s
+patents applications
+even foreign patents granted effective enforcement foreign countries may available
+ patents mask works adequately protect technology competitors may able offer products similar 
+ competitors may also able develop similar technology independently design around patents
+ generally enter confidentiality agreements employees consultants strategic partners
+ also try control access distribution technologies documentation proprietary information
+despite efforts internal external parties may attempt copy disclose obtain use products technology without authorization
+also former employees may seek employment business partners customers competitors can assurance confidential nature proprietary information will maintained course future employment
+ significant disruption breach security information technology systems materially adversely affect business reputation
+ rely information technology systems throughout company keep financial records customer data process orders manage inventory coordinate shipments customers maintain confidential proprietary information assist semiconductor engineering technical activities operate critical functions internet connectivity nerk communications email
+ information technology systems may susceptible damage disruptions shutdowns due power outages hardware failures telecommunication failures user errors catastrophes unforeseen events
+ experience prolonged disruption information technology systems involve internal communications interactions customers suppliers result loss sales customers significant incremental costs adversely affect business
+ may also subject security breaches caused computer viruses illegal break ins hacking sabotage acts vandalism third parties
+ security measures third party service providers may detect prevent security breaches
+ addition provide confidential proprietary information strategic partners certain cases necessary conduct business
+ employ confidentiality agreements protect information ntheless third parties may also subject security breaches otherwise compromise protection information
+security breaches information technology systems partners result misappropriation unauthorized disclosure confidential proprietary information belonging us employees partners customers suppliers result suffering significant financial reputational damage
+ retain key personnel ability execute business strategy will adversely affected
+ continued success depends significant extent upon recruitment retention effective succession executive officers key management technical personnel particularly experienced engineers
+ competition employees intense
+ loss services key personnel material adverse effect operating results
+ addition material adverse effect business turnover rates engineers key personnel increase significantly unable continue attract retain qualified personnel
+ maintain key person life insurance policy officers employees
+ remain competitive may need invest acquire companies purchase license technology third parties enter strategic transactions order introduce new products enhance existing products
+ element business strategy involves expansion acquisitions businesses assets products technologies allow us complement existing product offerings diversify product portfolio expand market coverage increase engineering workforce enhance technological capabilities
+ may able find businesses technology resources need find businesses may able invest purchase license technology resources commercially favorable terms 
+acquisitions investments technology licenses difficult identify complete number reasons including cost potential transactions competition among prospective buyers licensees need regulatory approvals difficulties related integration efforts
+ addition investments early late stage private companies subject risk partial total loss investment
+ u s
+ abroad governmental regulation acquisitions including antitrust reviews approvals become complex increasing costs risks undertaking consummating significant acquisitions
+ order finance potential transaction may need raise additional funds issuing securities borrowing 
+ may able obtain financing favorable terms sale stock may result dilution existing shareholders issuance securities rights superior rights common shareholders
+acquisitions also involve number risks including difficulty delay integrating acquired technologies operations personnel existing businesses diversion management s attention connection negotiating transaction integrating assets strain managerial operational resources management tries oversee larger complex operations future funding requirements acquired companies may significant potential loss key employees exposure unforeseen liabilities acquired companies higher expected unexpected costs relating associated acquisition integration assets difficulty realizing synergies growth prospects acquisition timely manner increased risk costly time consuming litigation
+ unable successfully address risks may realize expected benefits acquisition may adverse effect business strategy plans operating results
+ rely supplies services manufacturing capacity located geologically unstable areas affect ability produce products
+ like many companies semiconductor industry rely supplies services internal manufacturing capacity wafer fabrication foundries subcontractors geologically unstable locations around world
+earthquakes tsunamis flooding natural disasters may disrupt local semiconductor related businesses adversely affect manufacturing capacity availability cost key raw materials utilities equipment availability key services including transport products worldwide
+ insurance may adequately cover losses resulting disruptions
+ prolonged inability utilize manufacturing facilities subcontractors third party wafer fabrication foundries result fire flood natural disaster unavailability utilities otherwise result temporary permanent loss customers affected products material adverse effect results operations financial condition
+ exposed business economic political legal regulatory risks significant worldwide operations adversely affect business financial condition results operations
+ significant operations manufacturing facilities outside united states including ireland philippines
+ significant portion revenue derived customers international markets expect international sales will continue account significant portion revenue future
+risks associated international business operations include following political legal economic changes instability civil unrest foreign markets currency conversion risks exchange rate interest rate fluctuations limitations repatriation earnings trade travel restrictions government sanctions including restrictions imposed u s
+government trading parties foreign countries complex varying government regulations legal standards particularly respect price protection competition practices export control regulations restrictions customs tax requirements anti boycott regulations data privacy intellectual property anti corruption environmental compliance including u s
+customs export regulations restrictions including international traffic arms regulations foreign corrupt practices act economic disruption terrorism threats terrorism response u s
+ allies increased managerial complexities including different employment practices labor issues greater difficulty enforcing intellectual property rights weaker laws protecting rights natural disasters pandemics transportation disruptions delays increases labor transportation costs changes foreign taxes tariffs freight rates fluctuations raw material costs energy costs greater difficulty accounts receivable collections longer collection periods costs associated foreign defined benefit pension plans
+ risks risks related international business operations materially adversely affect business financial condition results operations
+many risks present china
+ expect continue expand business operations china success chinese markets may adversely affected china s continuously evolving policies laws regulations including relating taxation import export tariffs restrictions currency controls antitrust environment indigenous innovation promotion domestic semiconductor industry intellectual property rights enforcement protection rights
+enforcement existing laws agreements may inconsistent
+ addition changes political environment governmental policies international trade policies relations u s
+china relations result revisions laws regulations interpretation enforcement exposure proprietary intellectual property increased taxation restrictions imports import duties currency revaluations adverse effect business plans operating results
+ october principal source liquidity billion cash cash equivalents short term investments approximately million held united states remaining balance held outside united states various foreign subsidiaries
+ intend reinvest substantially foreign earnings indefinitely cash held outside united states available meet certain aspects cash requirements united states
+ require substantial amount cash united states operating requirements stock repurchases cash dividends acquisitions
+ unable address u s
+cash requirements operations borrowings current credit facility future debt equity offerings sources cash obtained acceptable cost may necessary us consider repatriation earnings indefinitely reinvested may required pay additional taxes current tax laws material adverse effect results operations financial condition
+ operating results dependent performance independent distributors
+ significant portion sales independent distributors control
+ independent distributors generally represent product lines offered several companies thus reduce sales efforts applied products terminate representation us
+ generally require letters credit distributors protected accounts receivable default declarations bankruptcy distributors
+ inability collect open accounts receivable adversely affect operating results
+termination significant distributor group distributors whether initiative distributor s initiative consolidation distribution industry disrupt current business unable find suitable replacements operating results adversely affected
+ subject environmental health safety ehs regulations increase expenses affect operating results
+ industry subject ehs requirements particularly environmental requirements control restrict sourcing use transportation emission discharge storage disposal certain chemicals minerals elements materials used produced semiconductor manufacturing process
+public attention environmental sustainability social responsibility concerns continues increase customers routinely include stringent environmental standards contracts us
+changes ehs laws regulations may require us invest costly equipment alter way products made may adversely affect sourcing supply pricing materials used products
+ addition use hazardous regulated materials subject us risks strict liability damages caused potential actual releases materials
+ failure control materials adequately comply existing future ehs statutory regulatory standards requirements contractual obligations result liability damages remediation imposition regulatory penalties civil criminal fines suspension termination development manufacture sale use certain products changes manufacturing processes need substitute materials may cost less available damage reputation increased expenses associated compliance material adverse effect business operating results
+ fail comply government contracting regulations suffer loss revenue incur price adjustments penalties
+ revenue derived contracts agencies united states government subcontracts prime contractors
+ united states government contractor subcontractor subject federal contracting regulations including federal acquisition regulations govern allowability costs incurred us performance united states government contracts
+certain contract pricing based estimated direct indirect costs subject change
+additionally united states government entitled final payment certain negotiated contracts examine cost records respect contracts seek downward adjustment price contract determines failed furnish complete accurate current cost pricing data connection negotiation price contract
+ connection united states government business also subject government audits review approval policies procedures internal controls compliance procurement regulations applicable laws
+ certain circumstances comply terms contract regulations statutes subject downward contract price adjustments refund obligations extreme circumstances assessed civil criminal penalties debarred suspended obtaining future contracts specified period time
+ suspension debarment sanction adverse effect business
+ government subcontracts required maintain secure facilities obtain security clearances personnel involved performance contract compliance applicable federal standards
+ unable comply requirements personnel critical performance contracts unable obtain maintain security clearances might unable perform contracts compete projects nature adversely affect revenue
+ unable generate sufficient cash flow may able service debt obligations including making payments outstanding senior unsecured notes
+ june issued public offering million aggregate principal amount senior unsecured notes due june notes
+ december issued public offering million aggregate principal amount senior unsecured notes due december notes million aggregate principal amount senior unsecured notes due december notes together notes notes notes
+ ability make payments principal interest indebtedness due depends upon future performance will subject general economic conditions industry cycles financial business factors affecting consolidated operations many beyond control
+ unable generate sufficient cash flow operations future service outstanding debt may required among things seek additional financing debt equity markets refinance restructure portion indebtedness including notes borrow existing revolving credit facility divert funds otherwise invested operations repatriate earnings higher tax rates indefinitely reinvested foreign locations sell selected assets reduce delay planned capital expenditures operating expenditures
+ measures might sufficient enable us service debt including notes negatively impact financial results
+ addition financing refinancing sale assets might possible economically favorable terms
+restrictions revolving credit facility outstanding debt instruments may limit activities
+ current revolving credit facility notes impose future debt instruments may become subject may impose restrictions limit ability engage activities otherwise benefit company including undertake certain transactions create certain liens assets incur certain subsidiary indebtedness
+ ability comply financial restrictions covenants dependent future performance subject prevailing economic conditions factors including factors beyond control foreign exchange rates interest rates changes technology changes level competition
+ addition revolving credit facility requires us maintain compliance specified financial ratios
+ breach covenants revolving credit facility indentures governing notes term loan facility future debt instruments may become subject obtain appropriate waivers subject applicable cure periods outstanding indebtedness thereunder declared immediately due payable may restricted borrowing revolving credit facility
+ stock price may volatile
+ market price common stock volatile past may volatile future may significantly affected factors including global economic conditions generally crises global credit debt financial markets actual anticipated fluctuations revenue operating results changes financial estimates statements made securities analysts others analyst reports publications failure perform line estimates statements published guidance changes market valuations semiconductor companies rumors speculation press investment community social media us companies industry announcements us competitors significant new products technical innovations material transactions acquisitions dispositions litigation capital commitments revised earnings estimates departures key personnel alleged noncompliance laws regulations ethics standards us employees officers directors negative media publicity targeting us suppliers customers competitors
+ stock market historically experienced volatility especially within semiconductor industry often unrelated performance particular companies
+ market fluctuations may cause stock price fall regardless operating results
+ directors executive officers periodically sell shares common stock market including pursuant rule b trading plans
+regardless individual s reasons sales securities analysts investors view sales negative indicator stock price adversely affected result
+item b
+unresolved staff comments n item item properties

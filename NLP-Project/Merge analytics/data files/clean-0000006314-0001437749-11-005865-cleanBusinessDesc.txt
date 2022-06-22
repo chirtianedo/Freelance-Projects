@@ -1,0 +1,220 @@
+item business company overview unless context otherwise requires references annual report form k company anaren us refers anaren new york corporation incorporated consolidated subsidiaries
+ executive offices located kirkville road east syracuse new york
+ teleph number 
+anaren leading provider microelectronics microwave compnts assemblies wireless space defense electronics markets
+ distinctive engineering manufacturing packaging techniques enable us cost effectively produce compact lightweight microwave products use wireless communication space defense systems covering broad range frequencies mhz ghz power levels small signal watts
+using focused research development efforts design compnts subsystems wireless communication systems including wireless infrastructure wireless consumer medical applications well advanced radar beam forming jamming motion control receiver applications space defense markets
+ conduct business business segments wireless group space defense group
+ financial statements included annual report provide additional information relating segments company s last fiscal years
+see note segment related information management s discussion analysis financial condition results operations financial information operating segments including net sales outside united states
+ common stock listed nasdaq global market symbol anen
+distribution company information maintain website www anaren com
+ make available free charge website annual reports form k quarterly reports form q current reports form k proxy statement amendments reports statements filed furnished pursuant section d securities exchange act amended soon reasonably practicable electronically file reports furnish securities exchange commission sec
+ sec s website www sec gov contains reports proxy information statements information regarding issuers file electronically sec
+ content website referred form k incorporated reference annual report form k unless specifically noted
+wireless group industry overview company s wireless products used primarily communication systems either user equipment wireless local area nerk wlan cellular handsets bluetooth devices satellite television reception applications nerk infrastructure side cellular teleph base stations television broadcast equipment applications
+ typical wireless communications nerk comprised geographic region containing number cells contains base stations linked nerk form service provider s coverage area
+ base station comprised equipment receives transmits teleph calls data traffic wireless users within cell
+ base station can process fixed number radio channels use multiple transceivers power amplifiers filters combiners along antennas transmit receive signals wireless user
+gsm predominant second generation g wireless nerk
+third generation nerks g introduced higher data rates support greater mobile applications standards umts wcdma
+enhanced g nerks implemented umbrellas lte long term evolution include gsm edge
+presently move advanced lte will provide data rates close minimum requirements true fourth generation g standard often marketed 
+ years come expected needs higher data rates greater bandwidth will continue put pressure wireless nerks drive need new equipment
+strategy company s strategy wireless group continue use microwave expertise proprietary technologies extensive microwave design libraries low cost manufacturing capabilities expand penetration wireless industry
+key compnts company s strategy include following pursue large addressable markets
+ company successfully penetrated mobile wireless infrastructure market using market position pursue wireless industrial markets wireless data transmission mobile handsets bluetooth satellite television low power wireless medical consumer electronics markets
+ enabled advances made company s design manufacturing sub miniature multi layer stripline compnts
+focus value added products
+ company continues expand compnt offerings enable company increase number products addressing wireless application
+ addition multi layer stripline thick film ceramic manufacturing technologies company will continue increase functionality products thereby enabling wireless customers reduce size cost platforms
+strengthen expand customer relationships
+today limited number large original equipment manufacturers oems drive wireless market
+ company developed plans continue expand customer relationships many manufacturers including ericsson huawei nokia siemens nerks zte samsung
+ company intends strengthen customer relationships offering complete outsourcing solutions research development product design production thereby increasing customers reliance company
+pursue price leadership position
+ company aspires use technological leadership low cost manufacturing sourcing capabilities lowest cost provider compnts higher level assemblies wireless markets
+pursue strategic acquisitions
+ company intends continue pursue opportunistic acquisitions companies product lines technologies
+ company will focus acquisitions compliment technical expertise business development resources provide competitive advantage targeted markets
+products technologies company provides compnts assemblies leading oems wireless industry
+ products range standard sub miniature compnts consumer electronics custom assemblies high power wireless infrastructure applications
+ last years company focused research development investments standard compnt product lines products now make wireless group net sales
+ company developed product offerings enable customers reduce size cost enhancing performance equipment
+ company continually invests capital human resources enhance existing products develop new products address current future market demands
+ company developed continues market full line standard products well limited custom products wireless oems
+ brief description company s major product categories follows passive surface mount compnts
+ company s xinger line products consists shelf surface mount microwave compnts provide passive microwave signal distribution functions
+ products developed provide low cost high performance signal distribution compnt placed standard printed circuit boards automated production equipment
+ primary applications products equipment cellular base stations wlan bluetooth satellite television
+ cellular base stations company s xinger surface mount products utilized radio frequency rf power amplifiers also found low noise amplifiers radios
+based research company believes currently market leader product area supplying industry leading oems leading power amplifier manufacturers
+ company continues invest expansion product line well addressable market
+ company s surface mount product line offers significantly improved rf performance power handling package supports latest global environmentally friendly initiatives
+ company also several products specifically designed address wlan cellular teleph handsets bluetooth applications
+ innovative products th size typical xinger type products offer performance cost advantages traditional consumer electronic compnts
+resistive products
+ company s resistive product line includes resistors power terminations attenuators use high power wireless industrial medical applications
+ products range small compnts implantable medical devices high power products used power amplifiers
+ company s resistive products frequently used conjunction xinger surface mount compnts
+custom assembled products
+ addition large array standard compnt product offerings company traditionally developed portfolio custom splitting combining products distribution signals wireless base station applications
+ included splitting signals receive antennas radios combining amplifiers prior transmit antennas splitting combining signals internal power amplifiers
+ assemblies include rf backplanes incorporate direct current power digital signal distribution ferrite based power combiners low power radio receive splitter assemblies custom ferrite compnts
+ company s strategy continue support legacy products customer platforms needed generally pursue new opportunities
+ due large part trend towards smaller base stations limited splitting combining requirements fact products generally meet company s gross margin targets
+ fiscal year custom assembled products represented less wireless group revenue
+customers company believes strength customer support depth customer relationships provide company competitive advantage
+ end company endeavors become integral part key customers operations working closely entire development production process
+ company assigns dedicated multi disciplined team including project engineering design engineering customer service customer ensure high level responsiveness customer service
+ team assists customer conceptual design stages development manufacturing process
+ maintaining close contact customers design engineering manufacturing purchasing project management personnel company can better understand needs rapidly develop customer specific solutions effectively design company s solutions customers systems nerks
+ company sells standard line xinger compnts custom products resistive compnts leading oems wireless industry broad range wireless equipment contract manufacturers industry
+ general customers purchased company s products directly company distributors sales representatives
+ fiscal year ended june wireless group accounted approximately company s total revenues
+ wireless group customers accounted company s fiscal net sales
+ following list customers generated million net sales company fiscal year ended june avnet electronics motorola solutions eg compnts nokia siemens nerks huawei technologies richardson electronics competition microwave compnt assembly industry continues highly competitive
+direct competitors company wireless market include aeroflex smith industries sdp soshin electric direct supplier oems company also faces significant competition house capabilities customers
+however current trend wireless marketplace oems outsource design production work
+ principal competitive factors foreign domestic markets technical performance reliability ability produce volume time delivery critically price
+ anticipated pricing pressure will continue indefinitely
+based factors company believes competes favorably within markets wireless industry
+ company believes particularly strong area technical performance wireless marketplace
+ manufacturing capability suzhou china innovative design techniques company believes also competes favorably price
+backlog company s backlog orders wireless group million june versus million june resulting primarily stronger demand company s wireless infrastructure compnts
+ backlog wireless group primarily represents firm orders compnt products signed purchase orders e
+orders specific custom sub assemblies custom compnts due ship within eight twelve weeks
+ company s backlog june expected shipped within current year
+ company believe wireless backlog particular date representative actual sales succeeding period
+typically large oems including ericsson huawei nokia siemens nerks use company s compnt custom products negotiate set prices estimated annual volumes
+ company receives firm delivery commitment prior shipment
+ company recognize backlog received firm order
+ part company s close working relationships major wireless communications customers customers expect company respond quickly changes volume delivery schedule orders necessary inventory products facilities just time delivery
+therefore although contracts customers typically specify aggregate dollar volumes products purchased extended time period contracts also provide delivery flexibility short notice
+ addition customers may cancel orders financial penalty defer orders without significant penalty
+space defense group products technology space defense group principally designs manufactures advanced microwave based hardware use advanced radar systems advanced jamming systems smart munitions electronic surveillance systems satellite ground based communication systems
+radar countermeasure subsystems
+defense radar countermeasure subsystems digitally measure locate counter enemy radar systems
+ digital radio frequency measurement drfm devices used storing retrieving rf signals part military aircraft self protection systems
+ digital frequency discriminators dfd employed electronic warfare ew systems detect measure rf signals emitted enemy radar systems
+ also manufacture suite electronic subassemblies designed process radar signals detected receiver
+ technology major compnt electronic support measure esm systems used helicopters fixed winged aircraft detect locate identify enemy radar
+ technology called passive ranging subsystem
+beamformers
+beamformers determine number size quality beams produced antenna array
+ company supplies passive active beamformers unique expertise designing manufacturing high performance beamformers industry leading small size packages
+passive beamformers produce fixed beam locations active beamformers allow real time reconfiguration beam pattern
+beamforming technology implemented military commercial phased array communication systems radar systems
+switch matrices
+switch matrices route rf signals single location multiple end user locations
+ products allow system operators allocate capacity required
+radar feed nerks
+radar feed nerks distribute rf energy antenna elements radar
+radar feed nerks integrated radar platforms airborne ship borne ground base radars missile guidance applications
+analog hybrid modules
+analog hybrid modules used electronic control power supply systems commercial military aircraft satellites communication systems sensor platforms
+analog compnts used accurately control movement flight surfaces aircraft missiles steer antennas communication systems provide highly accurate regulated voltages board power systems
+ product portfolio consists motor controllers amplifiers power supply compnts
+mixed signal printed circuit boards
+mixed signal printed circuit boards essential operation commercial military aircraft satellite systems communication systems sensor platforms
+mixed signal printed circuits route rf analog digital power signals mission critical compnts systems
+industry overview us department defense dod major us defense oems committed ensuring high state military readiness
+ dod funding priorities focus safety effectiveness us troops national defense homeland security battlefield command communication systems
+advanced radar systems jamming systems smart munitions electronic surveillance communication systems important dod capabilities
+ company s products technologies well positid support critical dod systems
+strategy company s strategy space defense group continued use microwave expertise proprietary design libraries technologies manufacturing capabilities continually expand customer penetration
+key compnts company s strategy include following strengthen expand strategic customer relationships
+today limited number large oems drive space defense group s business
+ company developed plans continue expand customer relationships many oems including raytheon lockheed martin northrop grumman itt harris rockwell thales srctec boeing
+ company intends strengthen customer relationships offering complete solutions research development product design manufacturing
+focus value added products
+ company will continue expand product technology offerings increase added value next generation space defense systems
+ company will continue leveraging investments advanced microwave packaging technologies meet demands customers increased levels integration functionality
+pursue strategic acquisitions
+ company will continue pursue opportunistic acquisitions companies similar m
+s
+kennedy corp
+msk unicircuit unicircuit acquired fiscal well product lines technologies provide synergistic opportunities space defense group
+ company will focus acquisitions compliment technical expertise business development resources provide competitive advantage targeted markets
+customers company currently sells passive compnts electronic subsystems prime contractors serving united states foreign governments
+ fiscal year ended june space defense group accounted approximately company s revenues
+lockheed martin accounted raytheon company accounted company s net sales
+ following list space defense customers generated million revenues fiscal year ended june itt corporation northrop grumman corporation lockheed martin corporation raytheon company boeing company welking electronics competition direct supplier large defense contractors company faces significant competition house capabilities customers
+ cases approached supply solution parallel internal effort form risk mitigation
+direct competitors company space defense market include ems technologies cobham kratos kor electronics smith industries ttm technologies crane international rectifier aeroflex
+backlog order backlog space defense group million june versus million june due stronger customer demand
+approximately company s backlog expected shipped within current fiscal year
+ orders included space defense group backlog covered signed contracts purchase orders
+however backlog necessarily indicative future sales
+accordingly company believe backlog particular date indicator actual sales succeeding period
+government contracts company s space defense group contracts subject termination election u s
+government
+however event termination company entitled termination fee recover certain costs incurred
+ material contracts subject renegotiation profits election u s
+government
+company operations sales marketing company markets products worldwide oems industry participants wireless space defense markets primarily sales marketing force people june company regional sales offices located sacramento california waterlooville england suzhou shenzen china
+ addition june company contracts major distributors manufacturers representatives united states canada international representatives located western europe middle east asia
+ part marketing efforts company advertises major trade publications attends major industry shows
+ company invested significantly internet website contains electronic version entire catalog
+ addition website enables users download important device parameter files
+ files contain performance information catalog compnts format compatible commonly used computer aided design computer aided modeling cad cam equipment
+ company also provides mechanical drawings applications notes proper use parts
+ service allows designers get information require easily incorporate company s parts designs
+ identifying key potential customers company makes sales calls sales management engineering personnel manufacturers representatives
+ promote widespread acceptance company s products provide customers support technical commercial needs company s sales engineering teams work closely customers develop solutions tailored particular requirements
+ company believes engineering team comprised design engineering professionals june provides company key competitive advantage
+ company uses distributors standard products notably xinger surface mount compnts
+richardson electronics worldwide distributor anaren products
+avnet distributes compnts asia meanwhile acal technology formerly bfi optilus distributes company s products europe
+ scandinavian countries serviced e g
+compnts subsidiary elektronikgruppen
+additionally anaren s new air product line distributed globally arrow mouser avnet distributes line north south america
+using independent distributors market sell products become important part company s sales efforts providing company larger sales force promote catalog product offerings
+employees june company employed people
+ employees members engineering staff manufacturing positions sales marketing positions management support functions
+n employees represented labor union company experienced work stoppages
+ company considers employee relations excellent
+manufacturing company currently maintains manufacturing locations east syracuse new york salem new hampshire liverpool new york littleton colorado suzhou china
+msk currently occupies square foot facility liverpool new york unicircuit littleton colorado owns square feet leases square feet manufacturing space
+ company s china subsidiary currently leases square foot facility suzhou china expected taken chinese government sometime fiscal company s suzhou operations process working landlord move new square foot facility
+ move new facility expected take place fiscal year square foot east syracuse facility houses company s legacy wireless group space defense group s manufacturing engineering areas support current future growth
+ company s square foot facility located salem new hampshire houses wholly owned subsidiary anaren ceramics facility includes significantly space future expansion state art class clean room manufacturing
+ company continues develop capability capacity produce highly engineered complex microwave subassemblies support space defense business
+ fiscal acquisition msk added high reliability hybrid module manufacturing company s manufacturing capabilities
+ company expects leverage capability company s existing rf design expertise provide highly integrated multi function rf microwave modules major space defense oems
+ addition unicircuit provides company state art rf microwave printed circuit board capability supporting design print manufacturing direct oem business well design specification capability combined company s existing rf design expertise
+ company committed providing lowest cost manufacturing solutions
+part strategy evolved continued investment suzhou china operation
+ high volume labor intensive wireless product lines syracuse salem operations successfully transitid suzhou past years
+ company also successfully implemented material sourcing function suzhou facilitating identification qualification procurement lower cost raw materials support wireless infrastructure products manufactured suzhou
+ company s operational manufacturing facilities east syracuse new york salem new hampshire liverpool new york littleton colorado suzhou china iso certified
+ company manufactures products standard compnts well item manufactured vendors specifications
+ raw materials utilized company s various product areas generally accessible common company s business segments
+ company purchases raw materials variety vendors raw materials available number sources
+ fiscal year company single vendor purchased total raw materials company believes alternate sources supply generally available raw materials supplied company vendors
+research development company s research development efforts focused design development engineering products manufacturing processes
+ company s current development efforts include products use mobile fixed wireless infrastructure applications low power transceiver products wireless data transmission advanced manufacturing technologies produce high density microwave structures next generation military radars communication sensor systems thick film substrates capable replacing higher cost thick film circuits miniature compnts wireless nerking subscriber broadcast applications high performance analog microelectronics including custom hybrids power hybrids multi chip modules
+ activities include customer funded design development well efforts funded directly company
+research development expenses funded company million fiscal million fiscal million fiscal
+research development costs charged expense incurred
+environmental matters company subject increasingly stringent environmental laws regulations including relating air emissions wastewater discharges chemical hazardous waste management disposal
+ environmental laws hold owners operators land businesses liable previous owners operators releases hazardous toxic substances wastes
+ environmental laws regulations require obtainment compliance environmental permits
+ date costs complying environmental health safety requirements material
+ nature company s operations long history manufacturing activities certain current facilities well acquired potentially result material environmental liabilities
+ company must comply existing pending climate change legislation regulation international treaties accords current laws regulations material impact business capital expenditures financial position
+future events including relating climate change greenhouse gas regulation require company incur expenses related medication curtailment operations installation pollution control equipment investigation cleanup contaminated sites
+intellectual property company s success depends significant degree upon preservation protection proprietary product manufacturing process designs proprietary technology
+ protect proprietary technology processes company generally limits access processes technology treats portions processes technology trade secrets obtains confidentiality non disclosure agreements persons access proprietary processes technology
+ company enters agreements employees prohibiting disclosing confidential information technology developments business practices disclosing confidential information entrusted company parties
+consultants engaged company access confidential information generally sign agreement requiring keep confidential disclose non public confidential information
+ company currently active patents patent applications currently pending united states patent trademark office protect construction design products
+ company also registered trademarks covering certain products notably wireless group s xinger product family
+anaren xinger ll think next registered trademarks anaren rights reserved
+ agreement company employees initiate contribute patentable design process obligated assign interest patent potential patent company
+government regulation company s products incorporated wireless communications systems subject regulation domestically federal communications commission internationally foreign government agencies
+ addition participation defense industry company subject audit time time compliance government contract regulations various governmental agencies
+ company also subject variety local state federal government regulations relating environmental laws relate toxic hazardous substances used manufacture company s products
+ company believes operates business compliance applicable laws regulations however failure comply existing future laws regulations material adverse effect company s business financial condition results operations
+seasonal trends company historically experienced material seasonality business
+item 

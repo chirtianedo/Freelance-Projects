@@ -1,0 +1,559 @@
+general relm wireless corporation relm provides way radio communications equipment highest quality reliability
+ business years relm nyse amex rwc designs manufactures markets wireless communications products consisting way land mobile radios repeaters base stations related compnts subsystems
+way land mobile radios can units hand held portable installed vehicles mobile
+repeaters expand range way land mobile radios enabling operate wider area
+base station compnts subsystems installed radio transmitter sites improve performance enhancing signal reducing eliminating signal interference enabling use antenna transmission reception
+ employ analog digital technologies products
+ digital technology compliant project standard association public communications officials apco project p
+ p digital products analog products function t vhf mhz mhz uhf mhz mhz mhz mhz mhz bands
+ offer products brand names bk radio relm
+generally bk radio branded products serve government public safety market relm branded products serve business industrial market
+bk radio branded products consist high specification land mobile radio equipment professional radio users primarily government public safety applications
+ products extensive features capabilities offered relm relm bk lines
+ p digital products marketed bk radio brand includes next generation kng product line launched currently expanded
+relm branded products provide basic inexpensive yet feature rich reliable way communications commercial industrial concerns hotels construction firms schools transportation services
+typically users radio professionals require easy fast inexpensive communication among defined group users
+ provide superior products value wide array customers demanding requirements including example emergency public safety homeland security military customers federal state government agencies well various commercial enterprises
+ way radio products excel applications harsh hazardous conditions
+ offer high specification performance durability reliability low cost relative comparable offerings
+ principal executive offices located technology drive west melbourne florida teleph number 
+available information internet website address www relm com
+ make available internet website free charge annual reports form k quarterly reports form q current reports form k amendments reports soon practicable electronically file furnish material securities exchange commission
+ addition code business conduct ethics audit committee charter corporate governance guidelines available website
+ information contained website incorporated reference report
+ copy materials also may obtained free charge upon request investor relations department
+significant events february announced successful completion p interoperability tests p trunking infrastructure provided tait eads corporations
+testing completed taitnet p eads cor p nerk tait electronics teltest laboratories facility houston tx
+teltest recognized u s
+department homeland security conduct p interoperability testing part p compliance assessment program cap
+ november march also announced successful completion p interoperability tests motorola s ef johnson s p infrastructure
+ testing conducted part formal p compliance assessment program cap
+ p cap result legislation passed u s
+congress improve communication interoperability first responders partnership department homeland security s dhs command control interoperability division national institute standards technology radio equipment manufacturers emergency response community
+ p cap establishes process ensuring equipment complies p standards capable interoperating across manufacturers
+ january newest p digital mobile radios bk radio kng m m received equipment authorization federal communications commission fcc use united states
+ kng m m provide interoperability apco project
+ january received million contract order u s
+department agriculture forest service usfs portable mobile radio units
+ order includes d series digital p radios will fulfilled first quarter november received blanket purchase agreement bpa u s
+navy
+ bpa includes trunked kng portable radios mobile radios repeaters related accessories operating vhf uhf mhz frequency bands
+ bpa maximum value million term commenced october expires october
+ bpa specify purchase dates quantities equipment
+ october amended revolving credit facility silicon valley bank svb
+among changes maximum borrowing availability increased million million maturity date extended december variable rate borrowings bear interest reduced prime rate plus basis points
+ september introduced first trunked versions kng line digital p radio models
+trunked units immediately available vhf uhf mhz frequencies
+ products expand addressable market enable us compete wider range opportunities
+ august september received orders totaling approximately million several different branches u
+s
+military approximately million new p trunked portable mobile radios
+ orders included products major frequencies vhf uhf mhz
+ july kng m mobile radio received equipment authorization fcc use united states
+ kng m provides interoperability apco project
+ april awarded contract usfs service repair way land mobile radios
+ initial period contract year commenced april may extended four additional year periods
+ estimated maximum value contract may vary depending agency s needs
+ contract provides service needed needed basis
+ april selected several suppliers p digital way radio subscriber equipment city phoenix az
+ initial period contract spans five years commenced march may extended five additional year periods
+ estimated total value initial contract period million may higher lower depending city s needs budgets
+ contract specify purchase dates quantities equipment particular supplier
+ february received order totaling approximately million usfs d series digital p portable mobile radios
+ fulfilled order first second quarter 
+industry overview land mobile radio lmr communications consist hand held portable mobile vehicle mounted way radios commonly used public safety sector e g
+police fire emergency responders commercial business concerns e g
+corporate disaster recovery hotels airports farms transportation service providers construction firms government agencies within united states abroad
+lmr systems constructed meet organization s specific communication needs
+ cost complete system can vary widely depending size configuration
+likewise cost radio sets can range basic analog portable thousands dollars fully featured p digital unit
+typically recurring airtime usage charges
+accordingly lmr usage patterns considerably different cellular wireless communications tools
+lmr usage characterized frequent calls short duration
+ typical user may transmit receive calls per day calls lasting less seconds
+ average useful life unit can vary depending upon application whi ch unit deployed handling
+lmr systems widely used longest used form wireless dispatch communications united states first placed service lmr initially used almost exclusively law enforcement radio communications transmitted analog format
+analog transmissions typically consist voice signal modulated directly onto continuous radio carrier wave
+ time advances technology decreased cost lmr products increased popularity usage businesses agencies
+ respond growing usage additional radio frequency spectrum allocated federal communications commission fcc lmr use
+ recent years lmr industry typically characterized slow growth reflecting several factors lmr mature industry existence almost years lmr users mature industry segments experienced slow growth rates significantly growth hampered lack available radio frequency spectrum prevented existing users expanding systems hindered efforts many potential new users obtaining licenses new systems
+years ago result limited spectrum availability fcc mandated new lmr equipment utilize technology spectrum efficient
+ effectively meant industry migrate digital technology
+responding mandate association public safety communications officials apco concert several lmr manufacturers including relm recommended standard digital lmr devices meet fcc spectrum efficiency requirements provide solutions several problems experienced primarily public safety users
+ standard called project
+ primary objectives project allow effective reliable communication among users compliant equipment regardless manufacturer known interoperability ii maximize radio spectrum efficiency iii promote competition among lmr providers open system architecture
+although fcc require public safety agencies radio users purchase p equipment otherwise adopt standard compliance standard primary consideration government public safety purchasers
+accordingly although lmr spending many federal government agencies increased slightly following declines anticipate demand p equipment will steadily meaningfully increase ultimately fuel lmr market growth users upgrade equipment achieve interoperability comply fcc mandate
+presently migration p equipment primarily limited government public safety agencies
+radio users business industrial market continue utilize predominantly analog lmr products
+ estimates north american lmr market infrastructure subscriber units approximately billion annual sales
+presently market dominated supplier motorola solutions however open architecture p standard designed eliminate ability suppliers lockout competitors
+formerly proprietary characteristics incorporated many analog lmr systems customer effectively precluded purchasing additional lmr products supplier initial supplier system
+additionally system infrastructure technology prohibitive smaller suppliers develop
+p provides environment users will increasingly wider selection lmr suppliers including smaller suppliers relm
+description products design manufacture market wireless communications equipment consisting way land mobile radios repeaters base stations related compnts subsystems
+ provide complete integrated communications systems infrastructure
+way land mobile radios can units hand held portable installed vehicles mobile
+repeaters expand range way land mobile radios enabling communicate wider area
+base station compnts subsystems installed radio transmitter sites improve performance enhancing signal reducing eliminating signal interference enabling use antenna transmission reception
+ employ analog digital technologies products
+ digital products compliant p specifications
+ p digital products analog products function vhf mhz mhz uhf mhz mhz mhz mhz mhz bands
+description markets government public safety market government public safety market includes military fire rescue law enforcement homeland security emergency responder personnel
+ instances bk radio branded products serve market sold either directly end users way communications dealers
+government public safety sales represented approximately total sales respectively
+government public safety users currently use products employ either p digital analog technology
+however public safety users federal state local government agencies certain countries migrating increasing rate digital p products
+ evolution standard compliant digital products explained industry overview section starting page report
+business industrial market market includes enterprises sizes require fast affordable push talk communication among discrete group users corporate disaster recovery hotels construction firms schools transportation service providers
+users market continue predominantly utilize analog products
+ offer products market relm brand name
+ sales market may direct end users dealers distributors resell products
+ sales market represented approximately total sales respectively
+engineering research development engineering product development activities conducted team employees combined contract engineering resources
+ primary development focus design line next generation p digital products kng series related capabilities
+ first models kng line introduced included primary federal contract vehicles
+subsequently added uhf mhz products well p trunking 
+ first p digital product named dph introduced market shortly thereafter dph added contract supply agencies u s
+department interior digital way communications equipment
+ segment engineering team responsible product specifications based customer requirements supervising quality assurance activities
+ also primary responsibility applied engineering production engineering specification compliance contract manufacturers
+ engineering development expenses approximately million million million respectively
+intellectual property presently united states patents force
+ hold several trademarks related names relm bk radio certain product names
+ also rely trade secret laws employee third party non disclosure agreements protect intellectual property rights
+manufacturing raw materials manufacturing strategy utilize highest quality cost effective resources available every aspect manufacturing
+consistent strategy many years successfully utilized outside contract arrangements different segments manufacturing operations
+ arrangements offshore concerns managed updated meet present requirements continue instrumental controlling product costs allowing us improve competitive position manage gross margins
+contract manufacturers produce various subassemblies products behalf
+generally contract manufacturers procure raw materials relm approved sources complete manufacturing activities accordance specifications
+original equipment manufacturer oem agreements govern business relationship contract manufacturer
+ agreements typically various terms may renewed upon agreement parties
+ scope agreements may also expanded include new products future
+ plan continue utilizing contract manufacturing furthers business objectives
+ strategy allows us focus core technological competencies product design development reduce substantial capital investment required manufacture products
+ also believe use experienced high volume manufacturers will provide greater manufacturing specialization expertise higher levels flexibility responsiveness faster delivery product contributes toward minimized product costs
+ ensure products manufactured others meet quality standards production engineering team works closely iso industry qualified contract manufacturers key aspects production process
+ establish product specifications select compnts cases suppliers
+ retain document control
+ also work contract manu facturers improve process control product design conduct periodic site inspections
+ rely upon limited number domestic foreign suppliers several key products compnts
+ place purchase orders time time suppliers guaranteed supply arrangements
+ addition obtain certain compnts single source
+ operations materially impaired due delays single source suppliers
+however absence single source compnt potentially delay manufacture finished products
+ manage risk delays securing secondary sources redesigning products response compnt shortages obsolescence
+ strive maintain strong relations suppliers
+ anticipate current relationships others comparable will available us future
+seasonal impact experience seasonality results part due governmental customer spending patterns influenced government fiscal year end budgets appropriations
+ also experience seasonality results part due concentration sales federal state agencies participate fire suppression efforts typically greatest summer season forest fire activity heightened
+ years factors may cause increase sales second third quarters compared first fourth quarters fiscal year
+ increases sales may cause quarterly variances cash flow operations overall financial condition
+significant customers sales united states government represented approximately total sales years ended december respectively
+ sales primarily various government agencies including within united states department defense dod united states forest service usfs united states department interior doi
+backlog backlog unshipped customer orders approximately million million million december respectively
+competition compete many domestic foreign companies primarily north american market
+dominant competitor motorola solutions holds significant market share
+ compete capitalizing advantages strengths include price product quality customer responsiveness
+employees december full time employees located west melbourne florida facility employees engaged direct manufacturing manufacturing support engineering sales marketing headquarters accounting human resources activities
+ employees represented collective bargaining agreements ever labor related work stoppage
+ believe relations employees good
+information relating domestic export sales following table summarizes sales lmr products customer location millions united states international total nb sp item 
+risk factors various portions report contain forward looking statements involve risks uncertainties
+actual results performance achievements differ materially anticipated forward looking statements result certain risk factors including set forth elsewhere report
+ industry characterized rapidly changing technology business suffer unable keep pace rapid technological changes product development industry
+ market lmr products characterized ongoing technological development evolving industry standards frequent product introductions
+ lmr industry experiencing transition analog lmr products digital lmr products
+ addition apco project standard increasingly adopted
+ depend success lmr product line currently depend lmr products sole source sales
+ decline price demand lmr products result competition technological change introduction new products us others failure manage product transitions successfully material adverse effect business financial condition results operations
+ addition future success will largely depend successful introduction sale new digital lmr products
+even successfully develop products guarantee will achieve market acceptance
+ engaged highly competitive industry face intense competition lmr suppliers failure compete effectively materially adversely affect market share financial condition results operations
+ largest supplier lmr products world motorola solutions currently estimated well excess half market lmr products
+ supplier also world s largest supplier p products
+ competitors significantly larger longer operating histories greater name recognition larger customer bases significantly greater financial technical marketing resources 
+ also established reputations success developing supplying lmr products
+ advantages may allow respond quickly new emerging technologies changes customer requirements may render products obsolete less marketable engage extensive research development undertake far reaching marketing campaigns able take advantage acquisitions opportunities adopt aggressive pricing policies attractive potential employees strategic partners advertisers
+many competitors established extensive nerks sales locations multiple distribution channels thus enjoy competitive advantage us areas well
+ may able compete successfully competitive pressures may materially adversely affect business results operations financial condition
+ increase demand p products benefit competitors better financed inventories hand will meet demand
+p products brought market increasing number competitors
+ first p portable radio brought market introduced new line p products kng series starting since expanded product line expect continue future
+bringing products market achieving significant market penetration products will continue require time expenditures funds
+ can assurance will successful developing marketing timely basis fully functional product enhancements new products respond technological advances new products will accepted customers
+ inability successfully develop market products material adverse effect business results operations financial condition
+ face number risks related current economic conditions current economic conditions united states remain uncertain
+ uncertain economic conditions materially adversely impact business liquidity financial condition number ways including potential deferment reduction purchases customers significant budget deficits limited appropriations confronting federal state local government customers may cause defer reduce purchases products
+furthermore uncertainty current future economic conditions may cause customers defer purchases products response tighter credit decreased cash availability
+customers inability obtain financing fund operations customers require substantial financing order fund operations
+insolvencies customers materially adversely impact business financial condition
+negative impact increased financial pressures third party dealers distributors make sales certain customers third party dealers distributors
+ credit pressures financial difficulties result insolvencies third parties unable successfully transition end customers purchase products third parties directly us materially adversely impact operating results financial condition
+limited access us credit capital although anticipate needing additional capital near term constrained credit markets may limit access credit impair ability raise capital needed acceptable terms 
+ availability credit facility conditid upon compliance certain covenants million secured credit facility silicon valley bank svb
+ december date report million borrowings outstanding facility
+ loan security agreement amended governing credit facility contains certain financial maintenance restrictive covenants
+ instance required maintain times tested last day month ratio quick assets current liabilities minus deferred revenue defined loan security agreement least tangible net worth defined loan security agreement least million increasing quarterly net profits ii net proceeds derived issuances equity issuances subordinated debt
+failure comply covenants constitute event default permit svb accelerate repayment outstanding borrowings time occurrence
+ currently compliance covenants
+however assurance will able comply covenants future event fail will able either obtain waiver svb refinance credit facility timely manner acceptable terms 
+ depend limited number manufacturers limited number suppliers compnts produce products contract manufacturers produce products dependence limited number contract manufacturers exposes us certain risks including shortages manufacturing capacity reduced control delivery schedules quality assurance production yield costs
+ manufacturers terminate production meet production requirements may rely contract manufacturing sources identify qualify new contract manufacturers
+ lead time required qualify new manufacturer range approximately six months
+despite efforts may able identify qualify new contract manufacturers timely cost effective manner new manufacturers may allocate sufficient capacity us order meet requirements
+ significant delay ability obtain adequate quantities products current alternative contract man ufacturers material adverse effect business financial condition results operations
+ addition dependence limited sole source suppliers compnts involves several risks including potential inability obtain adequate supply compnts price increases late deliveries poor compnt quality
+approximately material subassembly product procurements sourced supplier
+disruption termination supply compnts delay shipments products
+ lead time required orders compnts much six months
+ addition lead time required qualify new suppliers compnts much six months
+ unable accurately predict compnt needs compnt supply disrupted may miss market opportunities able meet demand products
+ may damage relationships current prospective customers thus material adverse effect business financial condition results operations
+ depend heavily sales u s
+government subject risks associated reliance sales u s
+government
+ year ended december approximately sales agencies departments u s
+government
+ sales primarily agencies dod usfs doi
+ can assurance will able maintain government business
+ ability maintain government business will depend many factors outside control including competitive factors changes government personnel making contract decisions spending limits political factors
+ loss sales u s
+government material adverse effect business financial condition results operations
+ deferred tax assets may able utilize certain circumstances incur future operating losses may required provide deferred tax assets valuation allowance resulting additional non cash income tax expense
+ change valuation may material impact future results
+ achieve sufficient federal taxable income future years utilize net operating loss carry forwards will expire
+retention executive officers key personnel critical business success largely dependent personal efforts president chief executive officer chief financial officer chief technology officer well key executives employees
+ employment agreements individuals sure will retain services
+ carry key man life insurance million life president chief executive officer
+notwithstanding life insurance loss services executive officers key employees due reason whatsoever material adverse effect business financial condition results operations
+ success also dependent upon ability hire retain qualified operations development personnel
+competition qualified personnel industry intense
+ can assurance will able hire retain necessary personnel
+ inability attract retain qualified personnel material adverse effect business financial condition results operations
+ may able manage growth acquisitions business transactions may disrupt otherwise negative impact business results operations
+ can assurance will complete asset purchases business transactions transactions completed will prove favorable business
+ intend seek stockholder approval transactions required applicable law regulation
+ hope grow rapidly failure manage growth materially adversely affect business operations financial condition
+ business plan contemplates among things continued development product lines internal development growth customer base
+ growth continued development materializes significantly challenge management employees operations financial capabilities
+ event expansion continue t o implement improve operating systems expand train manage employee base
+ unable manage integrate expanding operations effectively business results operations financial condition materially adversely affected
+ subject government regulation failure comply government regulations applicable business result penalties
+ products regulated fcc
+ public company subject regulations securities exchange commission
+ believe substantial compliance applicable federal regulations governing business believe obtained licenses necessary operation business
+failure comply requirements regulations respond changes requirements regulations result penalties us fines restrictions operations temporary permanent closure facility
+ penalties material adverse effect business operating results financial condition
+ addition can assurance will materially adversely affected existing new regulatory requirements interpretations
+ engage business manufacturers located countries engage business manufacturers located countries
+approximately material subassembly product procurements sourced internationally
+accordingly subject special considerations risks typically associated companies operating solely united states
+ include risks associated political economic legal environments among others
+ business operating results financial condition may materially adversely affected among things changes political social conditions foreign countries maintain sourcing relationships changes government policies respect laws regulations anti inflation measures method taxation
+ carry substantial quantities inventory carry significant amount inventory service customer requirements timely manner
+ unable sell inventory commercially reasonable time future may required take inventory markdowns reduce net sales gross margins
+ addition critical success accurately predict trends customer demand including seasonal fluctuations future overstock unpopular products fail sufficiently stock popular products
+ scenarios materially harm business operating results financial condition
+ rely combination contract trademark trade secret laws protect intellectual property rights currently hold united states patents
+ hold several trademarks related relm bk radio names certain product names
+ part confidentiality procedures generally enter non disclosure agreements employees distributors customers limit access distribution proprietary information
+ also rely trade secret laws protect intellectual property rights
+although believe trademark protection trade secret laws non disclosure agreements prevent another party manufacturing selling competing products trademarks otherwise violating intellectual property rights can assurance steps taken protect intellectual property rights will successful
+ may also particularly difficult protect products intellectual property laws certain countri es products may manufactured sold
+ fluctuating quarterly operating results cause volatility stock price quarterly operating results may fluctuate significantly quarter quarter may expectations securities analysts investors resulting volatility market price common stock
+ factors affecting volatility stock price include future announcements concerning us competitors announcement introduction technological innovations new products us competitors changes product pricing policies us competitors changes earnings estimates us competitors securities analysts additions departures key personnel sales common stock
+acts war terrorism material adverse effect operations financial condition terrorist acts acts war wherever located around world may cause damage disruption business employees suppliers manufacturers customers material adverse effect operations financial condition
+ predict impact prolonged war terrorism will united states economy plan prudently manage expenses continuing invest business make capital expenditures will increase productivity profitably sales
+ infringement claim us material adverse affect financial condition although believe products technology infringe proprietary rights others number competing products available market increases functions products overlap potential infringement claims may increase
+ claims without merit may result costly litigation require us redesign affected product avoid infringement require us obtain license future sales affected product
+ foregoing material adverse effect upon business results operations financial condition
+ litigation resulting claim require us incur substantial costs divert significant resources including efforts management engineering personnel
+certain provisions charter documents nevada law may discourage potential takeover certain provisions articles incorporation nevada law discourage prevent potential acquisitions company stockholders may consider favorable
+ articles incorporation authorize issuance shares blank check preferred stock designations rights preferences may determined time time board directors
+preferred stock issued certain circumstances method discouraging delaying preventing change control company unfavorable stockholders
+ may able maintain nyse amex listing common stock listed nyse amex formerly known american stock exchange since october
+ assurance will able satisfy nyse amex s continued listing standards include among others minimum stockholders equity market capitalization pre tax income per share sales price
+ common stock de listed nyse amex forced list common stock otc bulletin board quotation medium depending ability meet specific requirements quotation systems
+selling common stock difficult smaller quantities shares likely bought sold transactions delayed
+ factors result lower prices larger spreads bid ask prices shares common stock
+ happens will greater difficulty accessing capital markets r aise additional necessary capital
+future sales shares common stock may negatively affect stock price impair ability raise equity capital approximately million shares outstanding common stock december owned certain executive officers directors affiliates may resold publicly time subject volume restrictions rule securities act approximately outstanding shares common stock december freely tradable without restriction
+sales substantial amounts shares common stock even potential sales lower market price common stock impair ability raise capital sale equity securities
+item b
+unresolved staff comments n item item properties owned real estate
+leased lease approximately square feet industrial space technology drive west melbourne florida
+ original lease expired june renewed additional five years
+ december executed first amendment lease reduces amount monthly base rent payment extends expiration date june
+rental maintenance tax expenses facility approximately respectively
+ also lease square feet office space lawrence kansas accommodate segment engineering team
+ lease expired december renewed additional five years expiration date december
+rental maintenance tax expenses facility approximately respectively
+item item legal proceedings time time may involved various claims legal actions arising ordinary course business
+ pending material claims legal matters december
+item
+removed reserved item
+market registrant s common equity related stockholders matters issuer purchases equity securities market information
+ common stock trades nyse amex formerly known american stock exchange symbol rwc
+ following tables set forth high low closing sales price common stock quarterly periods years ended december reported nyse amex
+common stock high low quarter ended first quarter second quarter third quarter fourth quarter high low quarter ended first quarter second quarter third quarter fourth quarter b holders
+ february holders record common stock
+c dividends
+ pay cash dividends common stock intention foreseeable future
+ declaration payment cash dividends subject board directors discretion final determination based upon consideration operating results financial condition anticipated capital requirements well factors may deem relevant
+ addition credit facility prohibits us paying cash dividends common stock
+d securities authorized issuance equity compensation plans
+ information required item s incorporated reference definitive proxy statement filed within days fiscal year end connection solicitation proxies meeting stockholders
+e performance graph
+ following graph compares five year cumulative total stockholder return common stock five year cumulative total return nyse amex composite index nyse amex composite nyse arca technology index nyse arca technology
+ comparisons cover five years ended december based assumed investment december reinvestment dividends
+ comparisons graph based upon historical data indicative intended forecast future performance common stock
+nyse amex composite nyse arca technology relm foregoing stock performance information including graph shall deemed soliciting material filed securities exchange commission shall information incorporated reference filings securities act securities exchange act 
+item
+selected financial data following table summarizes selected financial data balance sheet data relm last five fiscal years derived historical financial statements read conjunction consolidated financial statements management s discussion analysis financial condition results operations included elsewhere report statement operations data thousands except per share data years ended december sales net loss income income taxes net loss income net loss income per share basic net loss income per share diluted n bsp non cash tax expense approximately included results respectively
+tax benefit approximately included results 
+ tax expense benefits related deferred tax asset fully explained management s discussion analysis financial condition results operations income taxes included elsewhere report
+share based employee compensation expense totaling approximately included results respectively
+ september board directors authorized declared special cash dividend per share common stock paid october stockholders record october
+balance sheet data thousands december working capital total assets long term debt total stockholders equity item
+management s discussion analysis financial condition results operations executive summary financial operating results declined compared prior year
+ included decreases total sales gross margins selling general administrative expenses increased
+ factors resulted operating loss compared operating income 
+ year marked completion introduction number new products significant p trunking
+ believe new products position us sales growth future
+total sales decreased approximately million compared approximately million prior year
+lower sales u s
+department defense dod well federal state agencies partially offset sales gains legacy customers products
+sales p digital products increased approximately million million 
+improved p sales fueled new products customers associated expanding kng line radios including new p trunking products enabled us enter segments market previously outside scope capabilities
+gross margins percentage sales compared prior year
+ decline gross margins reflects combination factors including additional manufacturing costs relate new product production competitive pricing pressures
+selling general administrative expenses increased approximately million approximately million compared last year
+ increase primarily result engineering expenses development p trunking new kng products
+ also incurred additional sales marketing expenses primarily promote kng line
+kng products expected increase addressable markets
+ anticipate adding new products kng line future
+ reported pretax loss compared pretax income approximately million last year
+ recognized income tax expense approximately compared income tax expense approximately million last year
+ income tax benefit expense largely non cash relating deferred item ncluding nol carryforwards
+net loss approximately per basic share compared net income approximately million per basic per diluted share prior year
+ december working capital totaled approximately million million comprised cash trade receivables
+ end prior year working capital totaled approximately million million comprised cash trade receivables
+also december million borrowings outstanding revolving credit facility compared borrowings outstanding end prior year
+ experience seasonality results part due governmental customer spending patterns influenced government fiscal year end budgets appropriations
+ also experience seasonality results part due concentration sales federal state agencies participate fire suppression efforts typically greatest summer season forest fire activity heightened
+ years factors may cause increase sales second third quarters compared first fourth quarters fiscal year
+ increases sales may cause quarterly variances cash flow operations overall financial condition
+results operations aid understanding operating results following table shows item consolidated statements operations expressed percent sales percent sales years ended december sales cost products gross margin selling general administrative expenses net interest expense income loss income income tax expense benefit income tax expense benefit net loss income fiscal year compared fiscal year sales net sales decreased million approximately million compared million prior year
+sales p digital products increased million approximately million compared million 
+ decrease total sales compared prior year attributed primarily decline orders agencies dod well federal state agencies
+various agencies dod remain important part strategic plans growth
+ overall decrease total sales partially offset increased sales legacy customers usfs doi purchasing d series p digital radios
+ added several products kng line p digital radios
+ important fourth quarter launch p digital trunked products first products relm s history
+ now enables us address significant portion land mobile radio market previously beyond scope product line
+ anticipate bringing market additional new p products features coming quarters
+ believe products will increase addressable market accordingly improve prospects gaining market share sales growth
+cost products gross margins cost products percentage sales compared 
+ cost products gross margins primarily related product mix manufacturing volumes pricing
+compared last year gross margins year reflected reduced sales impact additional manufacturing costs relate start new product production
+competitive pricing considerations change mix products sold also contributing factors
+ continue utilize contract manufacturing relationships maximize production efficiencies minimize material labor costs
+ also regularly consider manufacturing alternatives improve quality speed reduce product costs
+ anticipate current contract manufacturing relationships comparable alternatives will available us future
+leveraging increased sales volumes p product sales combined improved effectiveness production new products believe result cost improvements efficiencies
+ anticipate product cost competitive pricing pressures will continue future however extent impact gross margins uncertain
+selling general administrative expenses selling general administrative sg expenses consist marketing sales commissions engineering product development management information systems accounting headquarters expenses non cash share based employee compensation expense
+ sg expenses increased approximately million approximately million sales compared approximately million sales prior year
+engineering product development expenses increased million compared last year
+ increase largely result efforts advance completion launch p trunking capability well p radios features expanding kng product line
+additional new products kng line development process planned introduction future
+marketing selling expenses increased approximately compared last year
+ year increased sales staffing incurred additional sales marketing expenses focused raising profile new kng product line capabilities penetrating new markets customers
+general administrative expenses increased approximately compared last year primarily due non cash share based employee compensation expense
+operating loss income reported operating loss approximately compared operating income approximately million last year
+ total sales decreased million previous year additional manufacturing costs associated production new products
+also mix product sales less favorable
+interest expense net incurred approximately net interest expense compared approximately prior year
+ earn interest income cash balances incur interest expense borrowings revolving line credit
+ million borrowings outstanding credit facility december compared borrowings outstanding end prior year
+ interest rate revolving credit facility december per annum
+ rate variable based prime rate plus basis points
+income tax expense recorded net income tax expense approximately compared approximately million last year
+ income tax expense largely non cash result deferred tax asset related primarily federal state net operating loss carryforwards
+ december deferred tax assets approximately million materially unchanged start year
+ assets primarily composed net operating loss carry forwards nols available offset federal state taxable income
+ nols expire starting 
+ order fully utilize net deferred tax assets will need generate sufficient taxable income future years utilize nols prior expiration
+asc topic income taxes requires us analyze positive negative evidence determine based weight available evidence likely realize benefit net deferred tax assets
+ recognition net deferred tax assets related tax benefits based upon conclusions regarding among considerations estimates future earnings based information currently available current anticipated customers contracts product introductions well recent operating results certain tax planning strategies
+ evaluated available evidence likelihood realizing benefit net deferred tax assets
+ evaluation concluded based weight available evidence likely realize portion benefit net deferred tax assets recorded december
+accordingly established valuation allowance totaling approximately portion benefit deferred tax assets likely will realized
+ presently estimate changes valuation deferred tax assets may deemed appropriate future
+ incur future losses may necessary record valuation allowance related deferred tax assets recognized december
+accounting income taxes account income taxes using asset liability method specified asc topic income taxes modified asc topic
+deferred tax assets liabilities recognized future tax consequences attributable differences financial statement carrying amounts existing assets liabilities respective tax bases
+deferred tax assets liabilities measured using enacted tax rates expected apply period deferred tax asset liability expected realized
+ effect changes net deferred tax assets liabilities recognized consolidated balance sheets consolidated statements income period change recognized
+valuation allowances provided extent impairment tax assets likely 
+ determining whether tax asset realizable consider among things esti mates future earnings based information currently available current anticipated customers contracts new product introductions well recent operating results certain tax planning strategies
+ fail achieve future results anticipated calculation valuation net deferred tax assets may required adjust valuation allowance related deferred tax assets future
+fiscal year compared fiscal year sales net sales increased million approximately million compared million prior year
+sales p digital products increased million approximately million compared million 
+orders announced primarily p digital products u s
+departments defense dod agriculture interior year contributed sales growth
+ orders dod particularly important represent sales new customers products frequencies historically offer
+ larger orders supplemented strengthened flow smaller run rate procurements expanded addressable market made possible line kng products
+ believe late inclusion blanket purchase agreement bpa u s
+general services administration contributing factor
+ total estimated value bpa million various suppliers maximum term five years utilized various federal government agencies purchase wide range analog p digital radio equipment
+ realized market share gains several federal agencies
+according procurement information published federal government total spending agencies decreased compared however purchases relm products increased
+ year significantly expanded p digital product offerings introduction new radio models addressed customers markets previously outside scope products
+cost products gross margins cost products percentage sales compared 
+ cost products gross margins primarily related product mix manufacturing volumes pricing
+ gross margins year reflected increased manufacturing volumes improved sales mix higher margin p digital products
+ consequence higher manufacturing volumes fully utilized absorbed base manufacturing support expenses favorably impacting product unit costs gross margins
+ improvements partially offset competitive pricing pressures
+ utilized contract manufacturing relationships maximize production efficiencies minimize material labor costs
+ also regularly considered manufacturing alternatives improve quality speed reduce product costs
+ anticipate contract manufacturing relationships comparable alternatives will available us future
+selling general administrative expenses selling general administrative sg expenses consist marketing sales commissions engineering product development management information systems accounting headquarters expenses non cash share based employee compensation expense
+ sg expenses declined million approximately million sales compared approximately million sales prior year
+engineering product development expenses declined compared last year
+ completion several digital development initiatives related new product introductions enabled us reduce associated engineering costs compared 
+additional new products kng line development process introduced 
+marketing selling expenses decreased approximately compared last year
+ second half first quarter reduced selling expenses payroll response sluggish sales uncertain forecast
+ maintained lower expense structure remainder year
+ invested selling marketing initiatives focused raising profile new kng product line expanding new markets customers
+general administrative expenses decreased approximately compared last year primarily due reductions professional fees headquarters expenses
+operating income reported operating income approximately million compared operating loss approximately million last year
+ total sales increased previous year mix product sales favorable larger volume p digital sales 
+additionally operating expenses declined approximately million compared 
+ factors combined increase operating income
+interest income expense net incurred approximately net interest expense compared net interest income approximately prior year
+ earned interest income cash balances incurred interest expense borrowings revolving line credit
+ decline net interest income increase interest expense derived lower cash position first half year lower interest rates
+also incurred interest borrowings revolving credit facility first quarters 
+ borrow
+ borrowings outstanding credit facility december
+ interest rate revolving credit facility december per annum
+ rate variable based prime rate plus basis points subject reduction basis points anytime quarterly net income greater million
+p income taxes benefits recorded net income tax expense approximately million compared income tax benefit million last year
+ income tax expenses benefits largely non cash result deferred tax asset related primarily federal state net operating loss carryforwards
+ december deferred tax assets approximately million compared million start year
+ assets primarily composed net operating loss carry forwards nols available offset federal state taxable income
+ nols expire starting 
+ order fully utilize net deferred tax assets must generate sufficient taxable income future years utilize nols prior expiration
+asc topic income taxes requires us analyze positive negative evidence determine based weight available evidence likely realize benefit net deferred tax assets
+ recognition net deferred tax assets related tax benefits based upon conclusions regarding among considerations estimates future earnings based information currently available current anticipated customers contracts product introductions well recent operating results certain tax planning strategies
+ evaluated available evidence likelihood realizing benefit net deferred tax assets
+ evaluation concluded based weight available evidence likely realize benefit net deferred tax assets recorded december
+accordingly valuation allowance established
+ estimate changes valuation deferred tax assets may deemed appropriate future
+ incur future losses may necessary record valuation allowance related deferred tax assets recorded december
+changing prices inflation years ended december material impact operations
+ instances product unit prices reduced enhance competitive position sales prospects reduced gross margins
+ anticipate competitive pricing pressure will continue future
+ extent impact uncertain
+liquidity capital resources year ended december net cash used operating activities totaled approximately million compared net cash provided operating activities approximately million last year
+cash used operating activities primarily result million increase net inventories compared decrease million last year
+net inventories increased year stocked newly introduced models kng product line total sales decreased
+also realized net loss compared net income approximately million last year
+due slower collection cycle accounts receivable increased compared million increase last year due sales growth
+deferred tax assets remained materially unchanged prior year tax benefit associated pretax loss year offset valuation allowance established amount deferred tax assets likely will realize
+last year deferred tax assets decreased approximately million due utilization net operating losses cover pretax income year
+depreciation amortization totaled approximately compared last year
+ increase driven primarily amortization p trunking software commenced 
+accounts payable increased approximately million related primarily increased inventory purchases
+ prior year accounts payable decreased approximately million
+cash used investing activities primarily fund acquisition assets new digital products
+ incurred approximately million capitalized software compared approximately million prior year
+capital expenditures primarily purchase test equipment tooling new products totaling approximately compared approximately 
+ anticipate future capital expenditures will funded existing cash balance operating cash flow revolving credit facility
+cash provided financing activities totaled approximately million representing million borrowings revolving credit facility proceeds issuance common stock
+last year used million fully repay amounts outstanding revolving credit facility
+ secured revolving credit facility silicon valley bank svb
+ october loan security agreement governs revolving credit facility amended
+ amended loan security agreement revolving credit facility s maximum borrowing availability increased million million maturity date extended december october variable rate borrowings bear interest reduced prime rate plus basis points prime rate plus basis points company s minimum tangible net worth requirement reset million minimum requirement still continuing subject increase quarterly net profits ii net proceeds received issuances equity issuances subordinated debt
+ maximum borrow y given time based among things eligible accounts receivable inventory cash
+ subject substantially customary borrowing terms conditions svb credit facility prior amending loan security agreement including accuracy representations warranties compliance financial maintenance restrictive covenants absence events default
+ foregoing description svb credit facility amended loan security agreement qualified reference note consolidated financial statements included elsewhere report
+ compliance covenants amended loan security agreement december date report
+ december date report borrowings outstanding svb credit facility totaled million date report approximately million additional borrowing availability
+ cash balance december approximately million
+ believe funds combined anticipated cash generated operations borrowing availability credit facility svb sufficient meet working capital requirements liquidity needs foreseeable future
+however although believe sufficient sources liquidity current financial economic conditions limit access credit impair ability raise capital needed acceptable terms 
+ also face risks impact business liquidity financial condition
+ description risks see item 
+risk factors included elsewhere report
+ following table sets forth company s future contractual obligations next five years aggregate december payments due period total less year years years years thousands operating leases purchase obligations senior credit facility total description senior credit facility operating leases reference made notes consolidated financial statements included elsewhere report
+ balance sheet arrangements balance sheet arrangements
+recent accounting pronouncements october financial accounting standard board fasb issued accounting standard update asu amended accounting requirements software topic asc revenue recognition
+ objective update address accounting revenue arrangements contain tangible products software
+specifically products contain software incidental product whole will removed scope accounting standard codification asc subtopic previously aicpa statement position
+ amendments align accounting revenue transaction types amendments asu guidance provided within asu effective fiscal years beginning june allows either prospective retrospective application early adoption permitted
+ company s adoption guidance material impact consolidated financial statements
+ october fasb issued asu revenue recognition multiple deliverable revenue arrangements
+asu updates existing multiple element revenue arrangements guidance currently included asc
+ revised guidance provides significant changes existing multiple element revenue arrangements guidance
+ first change relates determination individual deliverables included multiple element arrangement may treated separate units accounting
+ change will result requirement separate deliverables within arrangement ultimately leading less revenue deferral
+ second change modifies manner transaction consideration allocated across separately identified deliverables
+together changes will result earlier recognition revenue related costs multipl e element arrangements previous guidance
+ guidance expands disclosures required multiple element revenue arrangements effective interim annual reporting periods beginning june
+ company adopted guidance 
+ january fasb issued asu requires new fair value disclosures pertaining significant transfers level level fair value measurements reasons transfers activity
+ level fair value measurements purchases sales issuances settlements must reported gross basis
+ additional disclosures required class assets liabilities well inputs used measure fair value valuation techniques
+asu effective interim annual reporting periods beginning december except disclosures purchases sales issuances settlements gross basis effective fiscal years beginning december
+ company s adoption guidance material impact consolidated financial statements
+ february fasb issued asu amends subsequent event disclosure requirements sec filers
+ entity sec filer required disclose date subsequent events evaluated
+ asu effective upon issuance company s adoption asu result material impact consolidated financial statements
+critical accounting policies estimates response sec s financial reporting release fr cautionary advice regarding disclosure critical accounting policies selected discussion revenue recognition process subjective accounting estimation processes
+ processes affect reported revenues current assets therefore critical assessing financial operating status relm
+ processes determining allowance collection trade receivables reserves excess obsolete inventory software development income taxes involve certain assumptions incorrect create adverse impact relm s operations financial position
+revenue sales revenue recognized earnings process complete collection reasonably assured
+ earnings process generally complete product shipped company delivered customer depending upon whether title goods well risks benefits ownership transferred customer point shipment point delivery
+however sales federal government recognized products delivered
+ extended warranties sales revenue associated warranty deferred time sale later recognized straight line basis extended warranty period
+ periodically review revenue recognition procedures assure procedures accordance asc topic revenue recognition
+allowance doubtful accounts allowance doubtful accounts approximately gross trade receivables approximately million december
+ allowance used state trade receivables net realizable value amount estimate will collected gross receivables december
+ amount will actually collect receivables outstanding december known certainty report s date rely prior experience
+ historical collection losses typically infrequent write offs trade receivables less sales past years
+accordingly maintained general allowance approximately gross trade receivables balance order allow future collection losses arise customer accounts indicate inability pay turn ability
+currently general allowance trade receivables approximately gross receivables
+ revenues total receivables increase allowance balance may also increase
+ also maintain specific allowance customer accounts know may collectible due various reasons bankruptcy customer liquidity issues
+ analyze trade receivable portfolio based age customer s invoice
+ way can identify accounts likely collection problems
+ may reserve portion customer s balance
+excess obsolete inventory allowance obsolete slow moving inventory approximately million december compared approximately million december
+ reserve slow moving excess obsolete inventory used state inventories lower cost market
+ amount inventory will actually recoup sales known certainty particular time rely past sales experience future sales forecasts strategic business plans
+generally analyzing inventory levels classify inventory used unused past year establish reserve based upon several factors including limited business forecasts inventory quantities historic usage profile
+supplemental aforementid analysis specific inventory item reviewed individually management
+based review considering business levels future prospects new products technology changes valuation specific inventory item may adjusted reflect accurate valuation business judgment management
+management also performs determination net realizable value finished goods selling price cost
+ item inventory valued selling price
+software development account costs software within products accordance asc topic costs software sold leased marketed certain software costs incurred subsequent establishment technological feasibility capitalized amortized estimated lives related products
+ determine technological feasibility established upon internal release detailed program design specified topic
+upon general release product customers development costs product amortized periods exceeding five years based current future revenue product
+net capitalized software costs totaled approximately million december
+income taxes account income taxes using asset liability method specified asc topic income taxes modified asc topic
+deferred tax assets liabilities recognized future tax consequences attributable differences financial statement carrying amounts existing assets liabilities respective tax bases
+deferred tax assets liabilities measured using enacted tax rates expected apply period deferred tax asset liability expected realized
+ effect changes net deferred tax assets liabilities recognized consolidated balance sheets consolidated statements operations period change recognized
+valuation allowances provided extent impairment tax assets likely 
+ determining whether tax asset realizable consider among othe r things estimates future earnings based information currently available current anticipated customers contracts new product introductions well recent operating results certain tax planning strategies
+ fail achieve future results anticipated calculation valuation net deferred tax assets may required adjust valuation allowance related deferred tax assets future
+forward looking statements believe important communicate future expectations security holders public
+ report therefore contains statements future events expectations forward looking statements within meaning sections securities act e securities exchange act including statements plans objectives expectations prospects heading management s discussion analysis financial condition results operations
+ can expect identify statements forward looking words may might will anticipate believe plan estimate project expect intend seek similar expressions
+ statement contained r eport statement historical fact may deemed forward looking statement
+although believe plans objectives expectations prospects reflected suggested forward looking statements reasonable statements involve risks uncertainties factors may cause actual results performance achievements materially different future results performance achievements expressed implied forward looking statements can give assurance plans objectives expectations prospects will achieved
+important factors might cause actual results differ materially results contemplated forward looking statements contained item 

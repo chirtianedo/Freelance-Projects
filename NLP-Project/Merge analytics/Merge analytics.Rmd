@@ -1,0 +1,362 @@
+---
+title: "TASK 1"
+author: "JESSE TOCHUKWU"
+date: "2/13/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(pacman)
+p_load(tidyverse, tm, tidytext, wordcloud, wordcloud2, stargazer, vtable)
+#####Load all doc files from folder
+QA_all = choose.files()
+context = c(lapply (QA_all, readLines))
+
+##Unlist collected files
+filtered_docs = unlist(context, use.names =  F)
+
+#convert to dataframe
+filtered_docs = data.frame(filtered_docs, stringsAsFactors = F)
+
+#generate unigrams, bigrams and trigrams with unnest_tokens from tidytext library
+
+filtered_unigrams = filtered_docs%>%
+  unnest_tokens(output =words, input =filtered_docs) %>% count(words, sort = T)
+##
+
+filtered_bigrams = filtered_docs %>% unnest_tokens(output =words, input =filtered_docs, token = "ngrams", n = 2) %>% count(words, sort = T)%>% na.omit()
+###
+
+filtered_trigrams = filtered_docs  %>% unnest_tokens(output =words, input =filtered_docs, token = "ngrams", n = 3) %>% count(words, sort = T) %>% na.omit()
+
+#combine head of the tokenized data into a summary file
+Summary = rbind(head(filtered_unigrams, 15), head(filtered_bigrams, 20), head(filtered_trigrams, 40))
+
+#combine all data of tokenized unigrams, bigrams and trigrams.
+filtered_docs = rbind(filtered_unigrams,filtered_bigrams,filtered_trigrams) 
+
+#combination of unfiltered unigrams, bigrams, trigrams
+#load clmd2 file into the global enviroment
+clmd2 <- read.xlsx(file.choose(), sheetIndex = 1)
+
+#clmd2 = select(clmd2, -c( SrNo, NA., NA..1))
+#filter data to retain only marketing words/Phrases from clmd2 files
+filtered_docs1 = filtered_docs[which(filtered_docs$words %in% tolower(clmd2$Marketing.Dicitionary.Word)),]
+
+#summary showing top unigrams bigrams and trigrams for filtered data
+Test_exp = Corpus(VectorSource(filtered_docs1)) 
+
+Test_exp = tm_map(Test_exp, removeWords,c("http", stopwords("english")))
+
+Test_exp<- tm_map( Test_exp, removePunctuation)
+Test_exp<- tm_map( Test_exp, removeNumbers)
+#Eliminate  extra white spaces
+Test_exp<- tm_map(Test_exp, stripWhitespace)
+
+Test_exp<- DocumentTermMatrix(Test_exp)
+
+#Illustrate word frequencies with wordcloud
+wordcloud2(filtered_docs1,  color = "gold", size =1)
+wordcloud2(Summary, color = "black", backgroundColor = "white", size = 1)
+
+color = grDevices::colors()[grep('gr(a|e)y', grDevices::colors(), invert =T)]
+
+filtered_docs1[filtered_docs1$n<=500,]$color <- sample(color, 192)
+
+filtered_docs1[filtered_docs1$n>=700,]$color <- "#db0030"
+
+wordcloud2(data=filtered_docs1, color = filtered_docs1$color, backgroundColor = "white",rotateRatio=0,shape = 'circle',fontFamily = 'Helvetica')
+```
+
+
+
+```{r}
+#Filter words in clmd2 
+mkt_dtm =filtered_docs[(which(filtered_docs$words %in% tolower(clmd2$Marketing.Dicitionary.Word))),]
+
+#Order dataframe
+mkt_dtm <- mkt_dtm[order(mkt_dtm$words),]
+
+
+##match data
+filtr_lst = clmd2[which(tolower(clmd2$Marketing.Dicitionary.Word) %in% mkt_dtm$words),]
+
+#Create list relating to marketing focus words from matched data
+cm_list <- filtr_lst[filtr_lst$Marketing.Capability.Classification== "Channel Management", ] 
+pd_list <- filtr_lst[filtr_lst$Marketing.Capability.Classification == "Product Development",]
+p_list <- filtr_lst[filtr_lst$Marketing.Capability.Classification == "Pricing",]
+mc_list <- filtr_lst[filtr_lst$Marketing.Capability.Classification == "Marketing Communication",]
+mi_list <- filtr_lst[filtr_lst$Marketing.Capability.Classification == "Marketing Implementation",]
+mim_list <- filtr_lst[filtr_lst$Marketing.Capability.Classification== "Marketing Information Management",]
+mp_list <- filtr_lst[filtr_lst$Marketing.Capability.Classification == "Marketing planing",]
+s_list <- filtr_lst[filtr_lst$Marketing.Capability.Classification == "Selling",]
+omp_list <- filtr_lst[filtr_lst$Marketing.Capability.Classification == "Other Marketing Phenomenon",]
+
+
+```
+
+```{r}
+#create marketing focus dummy variables
+mkt_dtm$Channel.Management <- 0
+mkt_dtm$Product.Development <- 0
+mkt_dtm$Pricing <- 0
+mkt_dtm$Marketing.Communication <- 0
+mkt_dtm$Marketing.Implementation <- 0
+mkt_dtm$Marketing.Information.Management <- 0
+mkt_dtm$Marketing.Planning <- 0
+mkt_dtm$Selling <- 0
+mkt_dtm$Other.Marketing.Phenomenon <- 0
+mkt_dtm$Verb.Noun <- ifelse(mkt_dtm$words %in% tolower(clmd2$Marketing.Dicitionary.Word) , clmd2$Type..Verb...Noun., 0)
+```
+
+
+```{r}
+
+#Attach sum of words in each marketing focus dummy variables
+mkt_dtm$Channel.Management <- ifelse( mkt_dtm$words %in% tolower(cm_list$Marketing.Dicitionary.Word), mkt_dtm$n, 0)
+mkt_dtm$Product.Development <- ifelse( mkt_dtm$words %in% tolower(pd_list$Marketing.Dicitionary.Word), mkt_dtm$n, 0)
+mkt_dtm$Pricing <- ifelse( mkt_dtm$words %in% tolower(p_list$Marketing.Dicitionary.Word), mkt_dtm$n, 0)
+mkt_dtm$Marketing.Communication <- ifelse( mkt_dtm$words %in% tolower(mc_list$Marketing.Dicitionary.Word), mkt_dtm$n, 0)
+mkt_dtm$Marketing.Implementation <- ifelse( mkt_dtm$words %in% tolower(mi_list$Marketing.Dicitionary.Word), mkt_dtm$n, 0)
+mkt_dtm$Marketing.Information.Management <- ifelse( mkt_dtm$words %in% tolower(mim_list$Marketing.Dicitionary.Word), mkt_dtm$n, 0)
+mkt_dtm$Marketing.Planning <- ifelse( mkt_dtm$words %in% tolower(mp_list$Marketing.Dicitionary.Word), mkt_dtm$n, 0)
+mkt_dtm$Selling <- ifelse( mkt_dtm$words %in% tolower(s_list$Marketing.Dicitionary.Word), mkt_dtm$n, 0)
+mkt_dtm$Other.Marketing.Phenomenon <- ifelse( mkt_dtm$words %in% tolower(omp_list$Marketing.Dicitionary.Word), mkt_dtm$n, 0)
+
+#total marketing word count
+Mktg_WC = sum(mkt_dtm$n)
+Mktg_TC = sum(filtered_docs$n)
+
+mkt_focus = data.frame()
+```
+
+
+```{r}
+
+###Create noun/NounPhrase and Verb/Verbphrase dummy variables for each marketing classification
+mkt_dtm$Channel.Management.Noun =ifelse((mkt_dtm$Channel.Management > 0) & (mkt_dtm$Verb.Noun == "Noun"| mkt_dtm$Verb.Noun == "Noun Phrase"), mkt_dtm$n, 0)
+mkt_dtm$Channel.Management.Verb =ifelse((mkt_dtm$Channel.Management > 0) & (mkt_dtm$Verb.Noun == "Verb"| mkt_dtm$Verb.Noun == "Verb Phrase"), mkt_dtm$n, 0)
+
+mkt_dtm$Product.Development.Noun =ifelse((mkt_dtm$Product.Development > 0) & (mkt_dtm$Verb.Noun == "Noun"| mkt_dtm$Verb.Noun == "Noun Phrase"), mkt_dtm$n, 0)
+mkt_dtm$Product.Development.Verb =ifelse((mkt_dtm$Product.Development > 0) & (mkt_dtm$Verb.Noun == "Verb"| mkt_dtm$Verb.Noun == "Verb Phrase"), mkt_dtm$n, 0)
+
+
+mkt_dtm$Pricing.Noun =ifelse((mkt_dtm$Pricing > 0) & (mkt_dtm$Verb.Noun == "Noun"| mkt_dtm$Verb.Noun == "Noun Phrase"), mkt_dtm$n, 0)
+mkt_dtm$Pricing.Verb =ifelse((mkt_dtm$Pricing > 0) & (mkt_dtm$Verb.Noun == "Verb"| mkt_dtm$Verb.Noun == "Verb Phrase"), mkt_dtm$n, 0)
+
+
+mkt_dtm$Marketing.Communication.Noun =ifelse((mkt_dtm$Marketing.Communication > 0) & (mkt_dtm$Verb.Noun == "Noun"| mkt_dtm$Verb.Noun == "Noun Phrase"), mkt_dtm$n, 0)
+mkt_dtm$Marketing.Communication.Verb =ifelse((mkt_dtm$Marketing.Communication > 0) & (mkt_dtm$Verb.Noun == "Verb"| mkt_dtm$Verb.Noun == "Verb Phrase"), mkt_dtm$n, 0)
+
+mkt_dtm$Marketing.Implementation.Noun =ifelse((mkt_dtm$Marketing.Implementation > 0) & (mkt_dtm$Verb.Noun == "Noun"| mkt_dtm$Verb.Noun == "Noun Phrase"), mkt_dtm$n, 0)
+mkt_dtm$Marketing.Implementation.Verb =ifelse((mkt_dtm$Marketing.Implementation > 0) & (mkt_dtm$Verb.Noun == "Verb"| mkt_dtm$Verb.Noun == "Verb Phrase"), mkt_dtm$n, 0)
+
+mkt_dtm$Marketing.Information.Management.Noun =ifelse((mkt_dtm$Marketing.Information.Management > 0) & (mkt_dtm$Verb.Noun == "Noun"| mkt_dtm$Verb.Noun == "Noun Phrase"), mkt_dtm$n, 0)
+mkt_dtm$Marketing.Information.Management.Verb =ifelse((mkt_dtm$Marketing.Information.Management > 0) & (mkt_dtm$Verb.Noun == "Verb"| mkt_dtm$Verb.Noun == "Verb Phrase"), mkt_dtm$n, 0)
+
+mkt_dtm$Marketing.Planning.Noun =ifelse((mkt_dtm$Marketing.Planning > 0) & (mkt_dtm$Verb.Noun == "Noun"| mkt_dtm$Verb.Noun == "Noun Phrase"), mkt_dtm$n, 0)
+mkt_dtm$Marketing.Planning.Verb =ifelse((mkt_dtm$Marketing.Planning > 0) & (mkt_dtm$Verb.Noun == "Verb"| mkt_dtm$Verb.Noun == "Verb Phrase"), mkt_dtm$n, 0)
+
+mkt_dtm$Selling.Noun = ifelse((mkt_dtm$Selling > 0) & (mkt_dtm$Verb.Noun == "Noun"| mkt_dtm$Verb.Noun == "Noun Phrase"), mkt_dtm$n, 0)
+mkt_dtm$Selling.Verb =ifelse((mkt_dtm$Selling > 0) & (mkt_dtm$Verb.Noun == "Verb"| mkt_dtm$Verb.Noun == "Verb Phrase"), mkt_dtm$n, 0)
+
+
+mkt_dtm$Other.Marketing.Phenomenon.Noun = ifelse((mkt_dtm$Other.Marketing.Phenomenon > 0) & (mkt_dtm$Verb.Noun == "Noun"| mkt_dtm$Verb.Noun == "Noun Phrase"), mkt_dtm$n, 0)
+mkt_dtm$Other.Marketing.Phenomenon.Verb =ifelse((mkt_dtm$Other.Marketing.Phenomenon > 0) & (mkt_dtm$Verb.Noun == "Verb"| mkt_dtm$Verb.Noun == "Verb Phrase"), mkt_dtm$n, 0)
+
+
+```
+
+
+
+```{r}
+
+#Crete ratio for each class (not entirely necessary)
+mkt_dtm$Ratio_CM <- mkt_dtm$Channel.Management/Mktg_WC
+sum(mkt_dtm$Ratio_CM)
+hist(mkt_dtm$Ratio_CM)
+
+
+mkt_dtm$Ratio_PD <- mkt_dtm$Product.Development/Mktg_WC
+hist(mkt_dtm$Ratio_PD)
+
+mkt_dtm$Ratio_Pricing <- mkt_dtm$Pricing/Mktg_WC
+hist(mkt_dtm$Ratio_Pricing)
+
+mkt_dtm$Ratio_MC <- mkt_dtm$Marketing.Communication/Mktg_WC
+hist(mkt_dtm$Ratio_MC)
+
+mkt_dtm$Ratio_MI <- mkt_dtm$Marketing.Implementation/Mktg_WC
+hist(mkt_dtm$Ratio_MI)
+
+mkt_dtm$Ratio_MI <- mkt_dtm$Marketing.Implementation/Mktg_WC
+hist(mkt_dtm$Ratio_MI)
+
+mkt_dtm$Ratio_MIM <- mkt_dtm$Marketing.Information.Management/Mktg_WC
+hist(mkt_dtm$Ratio_MIM)
+
+mkt_dtm$Ratio_MP <- mkt_dtm$Marketing.Planning/Mktg_WC
+hist(mkt_dtm$Ratio_MP)
+
+mkt_dtm$Ratio_Selling <- mkt_dtm$Selling/Mktg_WC
+hist(mkt_dtm$Ratio_Selling)
+
+mkt_dtm$Ratio_OMP <- mkt_dtm$Other.Marketing.Phenomenon/Mktg_WC
+hist(mkt_dtm$Ratio_OMP)
+
+
+
+```
+
+```{r}
+####Create noun/nounphrase and Verb/verb phrase ratio to marketing focus word count
+Text_variable = data.frame(c(1:197))
+
+Text_variable$Ratio.CM.Noun = mkt_dtm$Channel.Management.Noun/Mktg_WC
+Text_variable$Ratio.CM.Verb = mkt_dtm$Channel.Management.Verb/Mktg_WC
+
+Text_variable$Ratio.S.Noun = mkt_dtm$Selling.Noun/Mktg_WC
+Text_variable$Ratio.S.Verb = mkt_dtm$Selling.Verb/Mktg_WC
+
+Text_variable$Ratio.OMP.Noun = mkt_dtm$Other.Marketing.Phenomenon.Noun /Mktg_WC
+Text_variable$Ratio.OMP.Verb = mkt_dtm$Other.Marketing.Phenomenon.Verb /Mktg_WC
+
+Text_variable$Ratio.MP.Noun = mkt_dtm$Marketing.Planning.Noun /Mktg_WC
+Text_variable$Ratio.MP.Verb = mkt_dtm$Marketing.Planning.Verb /Mktg_WC
+
+Text_variable$Ratio.MIM.Noun = mkt_dtm$Marketing.Information.Management.Noun /Mktg_WC
+Text_variable$Ratio.MIM.Verb = mkt_dtm$Marketing.Information.Management.Verb /Mktg_WC
+
+Text_variable$Ratio.MI.Noun = mkt_dtm$Marketing.Implementation.Noun /Mktg_WC
+Text_variable$Ratio.MI.Verb = mkt_dtm$Marketing.Implementation.Verb /Mktg_WC
+
+Text_variable$Ratio.MC.Noun = mkt_dtm$Marketing.Communication.Noun /Mktg_WC
+Text_variable$Ratio.MC.Verb = mkt_dtm$Marketing.Communication.Verb /Mktg_WC
+
+Text_variable$Ratio.P.Noun = mkt_dtm$Pricing.Noun /Mktg_WC
+Text_variable$Ratio.P.Verb = mkt_dtm$Pricing.Verb /Mktg_WC
+
+Text_variable$Ratio.PD.Noun = mkt_dtm$Product.Development.Noun /Mktg_WC
+Text_variable$Ratio.PD.Verb = mkt_dtm$Product.Development.Verb /Mktg_WC
+
+Text_variable = Text_variable %>% select(-c(c.1.197.))
+
+```
+
+```{r}
+glimpse(Text_variable)
+st(Text_variable)
+```
+
+
+```{r}
+load(file.choose())
+
+
+```
+
+
+```{r}
+cd_tech_regress1 =  sample_n(cd_tech_regress, 197)
+mkt_dtm1 = cbind(mkt_dtm, cd_tech_regress1)
+
+```
+
+```{r}
+regression<-lm(TQ~Channel.Management, data= as.data.frame(mkt_dtm1))
+which(is.na(mkt_dtm1$TQ)== TRUE)
+```
+
+
+
+
+```{r}
+
+lm(MV ~ Ratio_WC,data= Marketing_focus_final)
+lm(MV ~ Ratio_CM,data= Marketing_focus_final)
+lm(MV ~ Ratio_PD,data= Marketing_focus_final)
+lm(MV ~ Ratio_Pricing,data= Marketing_focus_final)
+lm(MV ~ Ratio_MC,data= Marketing_focus_final)
+lm(MV ~ Ratio_MI,data= Marketing_focus_final)
+lm(MV ~ Ratio_MIM,data= Marketing_focus_final)
+lm(MV ~ Ratio_MP,data= Marketing_focus_final)
+lm(MV ~ Ratio_Selling,data= Marketing_focus_final)
+lm(MV ~ Ratio_OMP,data= Marketing_focus_final)
+
+A <- summary(lm(MV ~ poly(Ratio_WC,2)+
+             poly(Ratio_CM,2)+ 
+             poly(Ratio_PD,2)+
+             poly(Ratio_Pricing,2)+
+             poly(Ratio_MC,2)+
+             poly(Ratio_MI,2)+
+             poly(Ratio_MIM,2)+
+             poly(Ratio_MP,2)+
+             poly(Ratio_Selling,2), data = mktg_focus_std))
+
+B <- summary(lm(MV ~ 0+poly(Ratio_PD,2)+
+             poly(Ratio_MC,2)+
+             poly(Ratio_MI,2)+
+             poly(Ratio_MP,2)+
+             poly(Ratio_Selling,2), data = mktg_focus_std))
+
+C <- summary(lm(MV ~ 0+Ratio_WC+
+             poly(Ratio_OMP,2), data = mktg_focus_std))
+
+D <- summary(lm(MV ~ 0+Ratio_WC+
+             poly(Ratio_OMP,2)+
+             poly(Ratio_MC,2),data = mktg_focus_std))
+
+E <- summary(lm(MV ~ 0+Ratio_WC+
+             poly(Ratio_OMP,2)+
+             poly(Ratio_MC,2)+
+             poly(Ratio_Pricing,2),data = mktg_focus_std))
+
+require("plm")||install.packages("plm")
+library(plm)
+
+p_data <- pdata.frame(mktg_focus_std, index = c("CIK","Year"))
+
+# pooled <- plm(MV ~ 0+Ratio_WC + poly(Ratio_OMP,2) + poly(Ratio_MC,2) + poly(Ratio_Pricing,2), data = p_data, index = c("CIK","Year"), model = "pooling")
+
+# pooled <- plm(MV ~ 0+Ratio_WC + Ratio_OMP + Ratio_MC + Ratio_Pricing + Ratio_CM +
+#                     Ratio_Selling + Ratio_PD + Ratio_MP + Ratio_MI , #+ Ratio_MIM, 
+#               data = p_data, index = c("CIK","Year"), model = "pooling")
+
+pooled <- plm(MV ~ 0+Ratio_WC + Ratio_OMP + Ratio_PD, #+
+                    #Ratio_Pricing + Ratio_CM + 
+                    # Ratio_Selling +  Ratio_MC + Ratio_MI ,#+ Ratio_MIM, 
+              data = p_data, index = c("CIK","Year"), model = "pooling")
+
+summary(pooled)
+
+# fixed <- plm(MV ~ Ratio_WC + Ratio_OMP + Ratio_MC + Ratio_Pricing, data = Marketing_focus_final, model = "within")
+
+fixed <- plm(MV ~ 0+lag(MV,1) + Ratio_WC + Ratio_OMP +
+               Ratio_MC + #Ratio_MP + Ratio_MI + Ratio_MIM +
+               IND_MV + GrowthOpp + Log.Emp,
+               #Ratio_Pricing + Ratio_CM + 
+                    # Ratio_Selling +  Ratio_MC + Ratio_MI ,#+ Ratio_MIM, 
+              data = p_data, index = c("CIK","Year"), model = "within")
+
+summary(fixed)
+
+fixef(fixed)
+
+pFtest(fixed, pooled) 
+
+random <- plm(MV ~ 0+Ratio_WC + Ratio_OMP + Ratio_PD, #+
+                    #Ratio_Pricing + Ratio_CM + 
+                    # Ratio_Selling +  Ratio_MC + Ratio_MI ,#+ Ratio_MIM, 
+              data = p_data, index = c("CIK","Year"), model = "random")
+
+summary(random)
+
+phtest(fixed,random)
+
+
+stargazer(pooled, random, fixed, type="html", style="default", title="Marketing_focus_final")
+
+```
+

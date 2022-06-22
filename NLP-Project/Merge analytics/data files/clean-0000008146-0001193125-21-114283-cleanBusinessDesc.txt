@@ -1,0 +1,129 @@
+item business item 
+risk factors item b
+unresolved staff comments item item properties item item legal proceedings item
+mine safety disclosures item
+market registrant s common stock related stockholder matters issuer purchases equity securities item
+selected financial data item
+management s discussion analysis financial condition results operations item 
+quantitative qualitative disclosures market risk item
+financial statements supplementary data item
+changes disagreements accountants accounting financial disclosure item 
+controls procedures item b
+ information ii item
+directors executive officers corporate governance item item executive compensation item item security ownership certain beneficial owners management related stockholder matters item item certain relationships related transactions director independence item
+principal accountant fees services v item
+exhibits financial statement schedule item
+form k summary astronova forward looking statements information included annual report form k may contain forward looking statements within meaning private securities litigation reform act 
+forward looking statements statements historical fact rather reflect current expectations concerning future events results
+ generally use words believes expects intends plans anticipates likely continues may will similar expressions identify forward looking statements
+ forward looking statements including concerning expectations involve risks uncertainties factors beyond control may cause actual results performance achievements materially different expressed implied forward looking statements
+ risks uncertainties factors include limited factors set forth annual report form k item 
+risk factors
+ undertake obligation publicly update revise forward looking statements whether result new information future events otherwise
+ reader cautid unduly rely forward looking statements evaluating information presented annual report form k
+item item
+business general unless otherwise indicated references astronova company us annual report form k refer astronova consolidated subsidiaries
+ design develop manufacture distribute broad range specialty printers data acquisition analysis systems including hardware software incorporate advanced technologies acquire store analyze present data multiple formats
+target markets hardware software products include aerospace apparel automotive avionics chemicals computer peripherals communications distribution food beverage general manufacturing packaging transportation
+ products distributed around world sales force authorized dealers independent dealers representatives
+ business consists segments product identification pi test measurement t m
+ pi segment includes specialty printing systems related supplies sold quicklabel trojanlabel getlabels brand names
+ t m segment includes line aerospace printers test measurement data acquisition systems sold astronova brand name
+refer note nature operations segment reporting geographical information audited consolidated financial statements elsewhere report financial information regarding segments
+ following description business read conjunction management s discussion analysis financial conditions results operations pages annual report form k
+description business product overview leverage expertise data visualization technologies design manufacture market specialty printing systems test measurement systems related services select growing markets global basis
+product identification products sold quicklabel trojanlabel getlabels brands used brand owner commercial applications provide product packaging marketing tracking branding labeling solutions wide array industries
+ pi segment offers variety digital color label tabletop printers high volume presses specialty oem printing systems well wide range label tag flexible packaging material substrates supplies including ink tr allowing customers mark track protect enhance appearance products
+ t m segment long history using technologies provide nerking systems high resolution light weight flight deck cabin printers aerospace market
+ addition t m segment includes data acquisition recorders sold astronova brand enable customers acquire record visual electronic signal data local nerked data streams sensors
+ recorded data processed analyzed stored presented various visual output formats
+product identification pi segment includes brands quicklabel trojanlabel getlabels
+ segment provides wide array digital end end product marking identification solutions including hardware software supplies oems commercial printers brand owners
+ customers typically label mark products short mid size run basis benefit efficiency flexibility cost savings digitally printing labels packaging facility demand ability accommodate multiple skus variable data bar codes lot numbers expiration dates
+quicklabel brand products include tabletop printers production ready digital color label printers specialty oem printing systems either standal output inline integration existing pre processing finishing systems
+customers use digital printing products wide variety industries including chemical cosmetics food beverage medical products nutraceutical pharmaceutical many others
+trojanlabel expands customer market providing range higher volume digital color printers oem printing systems supplies target demanding needs brand owners commercial printers label converters packaging manufacturers giving ability digitally mark encode products directly produce labels post printing applications
+getlabels brand products include full line media supplies including label materials tags inks trs thermal transfer ribbons designed optimal performance printing hardware also compatible wide variety competitive third party printing hardware
+current quicklabel models include selection professional tabletop digital color label printers
+ high speed ql x built piering successful kiaro platform
+introduced early high performance ql first color tr based electrophotographic tabletop production label printer market
+ addition quicklabel line printers includes ql next generation wide format inkjet color label printer ql ql series family high end monochrome printers qls xe unique solution ability digitally print full color labels tags using thermal transfer ribbon technology
+ trojanlabel portfolio includes range products professional digital color label mini presses large scale inline specialty printing systems brand owners oems commercial printers
+ t c compact digital mini press designed label production includes numerous differentiating features several end use market applications
+ t l narrow format digital press designed specifically flexible packaging substrates
+beyond label printing t opx introduced late allows printing directly onto range flat products including cardboard paper bags flat wood planks many item using pigment inks water resistant highly resistant uv exposure
+ professional label press finishing system t enables print die cut lamination machine much smaller footprint others market
+getlabels provides broad range high quality supplies printers third party printers including label tag materials inks tr thermal transfer material specifically designed constructed wide variety labeling applications
+label material substrates carefully qualified tested rhode island materials research laboratory ensure durability compatibility quicklabel trojanlabel branded products along variety third party printers
+ pi segment also develops licenses various specialized software programs design manage labels print images manage operate printers presses coordinate printing automated basis directly nerked systems
+pi also provides worldwide training support
+t m products sold t m segment designed manufactured airborne printing solutions data acquisition
+ aerospace products include flight deck printing solutions nerking hardware specialized aerospace grade thermal paper
+ data acquisition systems used research development flight testing missile rocket telemetry production monitoring power maintenance applications
+ products sold customers variety industries including aerospace defense automotive commercial airline energy manufacturing transportation meet need acquire record data local nerked data streams sensors
+airborne printers include flagship toughwriter series used flight decks cabins military commercial business aircraft print hard copies data required safe efficient operation aircraft
+examples printed data include navigation maps arrival departure information flight itineraries weather maps performance data passenger data air traffic control data
+toughswitch ethernet switches used primarily military aircraft military vehicles connect multiple computers ethernet devices
+ airborne printers ethernet switches ruggedized comply rigorous military commercial flight worthiness standards operation extreme environmental conditions
+ currently furnishing toughwriter airborne printers many aircraft made airbus boeing bombardier lockheed gulfstream others
+ addition toughwriter products manufacture flight deck printers including tp np series rtp series pta b series airborne printers
+ pta b subject asset purchase license agreement hywell international hywell agreement pursuant acquired exclusive perpetual world wide license manufacture support hywell s narrow format flight deck printers boeing airbus aircraft
+ time expect customers will replace pta b printers toughwriter products numerous technical features functional advantages significant weight savings
+ t m products include tmx high speed data acquisition system applications requiring high channel counts acquisition rates daxus dxs distributed data acquisition platform smartcorder ddx portable data acquisition system facility maintenance field testing everest ev digital strip chart recording system used mainly telemetry applications
+ daxus dxs can connected smartcorder increase channel count nerked part distributed measurement system spanning vast distances
+technology core technologies data visualization technologies relate acquiring data conditioning data displaying printing data hard copy monitor electronic storage media analyzing data
+ service data visualization maintain technological core competencies trade know concerning subject matter peculiar business unit
+ technological disciplines diverse include electronic software mechanical industrial engineering aspects
+additionally possess engineering expertise digital signal processing image processing fluidics color theory high speed material handling airworthiness design
+patents copyrights hold several product patents united states foreign countries
+ rely combination copyright patent trademark trade secret laws united states jurisdictions protect technology brand names
+ consider intellectual property critical operation business
+ particular believe loss trademarks quicklabel trojanlabel toughwriter toughswitch loss license provided hywell agreement material adverse impact business taken whole
+manufacturing supplies manufacture many products design sell
+raw materials supplies typically available wide variety sources
+ manufacture many sub assemblies parts house including certain specialty printed circuit board assemblies harnesses extensive electronic mechanical final assembly test operations
+many parts manufactured house standard electronic item available multiple sources
+ printers parts designed modified us manufactured outside vendors according specifications
+ purchase certain compnts assembled products supplies used manufacture products single source limited supplier sources
+although believe majority sole limited source compnts assembled products supplies sourced elsewhere appropriate changes design products design might feasible timely basis interruption compnts products supplies adversely affect business
+ circumstances cause us anticipate may able acquire compnts products supplies timely basis practice procure sufficient quantity advance
+ past made advance purchases primarily aerospace products quantities anticipate will suffice life aircraft program printers designed
+marketing competition compete worldwide multiple markets
+ expanding nerk manufacturing sales support facilities now business countries
+ believe market leader tabletop digital color label printing technology specialty printing field market leader flight deck printers innovator digital color mini press systems
+ data acquisition area leaders general purpose portable high speed data acquisition systems
+management believes market leadership position many markets serve
+ retain leadership position virtue proprietary technology product reputation delivery channels market technical assistance service customers
+ number competitors varies product line
+key competitive factors vary among product lines include technology quality service support distribution nerk breadth product service offerings
+ product identification products sold direct field salespersons well independent dealers representatives test measurement products sold predominantly direct sales manufacturers representatives
+ united states factory trained direct field salespeople located throughout country specializing product identification products
+ also direct field sales service centers canada china denmark france germany malaysia mexico singapore united kingdom staffed employees dedicated third party contractors
+additionally utilize independent dealers representatives selling marketing products countries
+ single customer accounted net revenue last fiscal years
+order backlog backlog varies regularly
+ consists blend orders end user customers well original equipment manufacturer customers
+manufacturing production designed meet forecasted demands built order customer requirements
+accordingly amount order backlog may indicate future sales trends
+backlog january million million respectively
+employees january employed people full time employees
+ full time employees united states europe canada seven asia mexico
+n employees represented labor union covered collective bargaining agreement except employees france collective bargaining agreements generally required local regulations
+successful execution business strategy depends ability retain several key employees individual contributor management roles
+ continuously assess risk losing key employees regular communications engagement surveys assessments labor market
+ retention strategy focused ensuring competitive compensation packages career professional development leadership coaching actions improve overall engagement key employees
+culture ingrained strong definable company culture shapes way operate engage stakeholders employees
+ culture consists four key compnts powerful set core values including customer first global team innovation continuous improvement building shareholder value
+ astronova operating system aos comprehensive business management process helps us manage business achieve continuous improvements quality delivery cost growth
+ commitment operating integrity compliance ensure business conducted hst legal environmentally responsible manner
+ passionate commitment quality drives goal achieve zero defects understand changing needs expectations customers
+ core values guide employees behavior dictate way business conducted
+ core values reinforced new hire orientation ongoing engagement surveys leadership development team development activities also demonstrated teamwork leadership everyday interactions
+diversity inclusion believe culture core values strengthened diversity inclusion
+ diversity initiatives include limited practices policies recruitment selection compensation benefits professional development training promotions transfers social recreational programs layoffs terminations ongoing development work environment built premise gender diversity equity
+ initiatives include periodic evaluation workforce demographics compared demographics workforce market affirmative effort attract recruit retain train diverse workforce representative populations regions business
+ information business seasonal nature
+however revenue impacted size certain individual transactions can cause fluctuations revenue quarter quarter
+available information make available website www astronovainc com annual report form k quarterly reports form q current reports form k applicable amendments reports filed furnished pursuant sections d securities exchange act soon reasonably practicable electronically file material furnishes securities exchange commission sec
+ filings also accessible sec s website http www sec gov
+item 

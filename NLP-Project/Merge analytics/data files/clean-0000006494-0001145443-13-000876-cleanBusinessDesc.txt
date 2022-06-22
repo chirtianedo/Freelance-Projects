@@ -1,0 +1,143 @@
+item business overview andrea electronics corporation andrea us designs develops manufactures state art microph technologies products enhancing speech based applications software communications require high quality clear voice signals
+ technologies eliminate unwanted background noise enable optimum performance various speech based audio applications
+ incorporated laws state new york engaged electronic communications industry since
+andrea s products technologies optimize performance speech based applications audio applications primarily following markets computer speech recognition applications computer voice internet protocol voip applications consumer electronics accessories
+andrea digital signal processing dsp microph audio software business patented patent pending digital noise canceling technologies enable speaker distance microph refer capability far field microph use free speaker use close talking microph digital super directional array dsda pure audio microph products convert sound received array microphs digital signals processed cancel background noise signal transmitted
+ adaptive technologies represent core technologies within portfolio far field technologies
+ addition dsda pure audio andrea developed commercialized several digital far field noise canceling technologies including among others andrea echostop high quality acoustic echo canceller enables speaker ph functionality technology canceling unwanted stationary noises
+ digital far field microph technologies software based operate using either dedicated dsp general purpose processor example intel pentium
+ software may encompass far field noise canceling technologies can applied improve performance single microph multiple microphs
+ addition digital far field noise canceling technologies can tailored implemented various form factors including example monitor pc personal digital assistant rear view mirror can used individually combined depending particular customer requirements
+ currently targeting far field technologies desktop laptop computing market video audio conferencing market market personal hands free communication designed use automobiles trucks buses control pcs cellular communication
+ far field digital noise canceling technologies related products together implementations high end audio technologies example software noise cancellation technology comprise andrea dsp microph audio software line business
+net revenues technologies products years ended december approximately respectively total net revenues
+ dedicate significant amount marketing research development resources business segment believe communication products will increasingly require high performance untethered hands free headset free microph technology
+andrea anti noise product business headset microph products help ensure clear speech personal computer voip headset applications
+ active noise cancellation microph technology uses electronic circuits distinguish speaker s voice background noise speaker s environment cancels noise signal transmitted microph active noise reduction headph technology uses electronic circuits distinguish signal coming earph background noise listener s environment reduces noise heard listener
+together standard noise canceling headset products products comprise andrea anti noise product operating segment
+ years ended december net revenues andrea anti noise product operating segment approximately respectively total net revenues
+ financial information regarding operating segments see note accompanying consolidated financial statements
+industry background primary mission provide emerging voice interface markets state art microph communication products
+ idea underlying markets natural language spoken human voice will become important means communicate control many types computing devices appliances equipment contain microprocessors
+ designing marketing products technologies used natural language human machine interfaces desktop laptop hand held computers mobile personal computing devices cellular phs video audio conferencing systems automotive communication systems
+ believe end users applications interfaces will require high quality microph earph products enhance voice transmission particularly noisy office mobile environments
+ also believe applications will increasingly require microphs located distance person speaking far field microph technology
+applications area include continuous speech dictation personal computers multiparty video teleconferencing software allow participants see jointly communicate cellular hands free interfaces automobiles home office automation
+ believe increasing number devices will introduced marketplace next several years
+ strategy strategy maintain extend market position andrea dsp microph audio software technologies products higher margin andrea anti noise products develop relationships companies significant distribution capabilities andrea dsp microph audio software technologies products andrea anti noise products broaden andrea dsp microph audio software product lines andrea anti noise product lines modest still healthy level internal research development design products satisfy specific end user requirements identified collaborative partners outsource manufacturing products order reduce fixed overhead achieve economies scale
+ important element strategy expanding channels distribution broadening base users products collaborative arrangements manufacturers computing communications equipment software publishers actively engaged various markets products application
+ addition increasing direct marketing efforts new market bases consumer electronics accessory distributors existing market bases companies increasingly using distance learning applications
+ success strategy will depend ability among things increase net revenues andrea dsp microph audio software products line existing andrea anti noise products continue contain costs introduce additional andrea dsp microph audio software products andrea anti noise products maintain competitiveness technologies focused targeted research development achieve widespread adoption products technologies ongoing marketing efforts
+ technologies design andrea dsp microph audio software andrea anti noise products transmit voice signals high level quality intelligibility reliability required broad range voice based applications computing telecommunications
+ achieve use several audio technologies employ software processes proprietary us
+software processes type commonly referred algorithms
+andrea dsp microph audio software technology set technologies generally based use array microphs analog signals converted digital form processed using digital electronic circuitry eliminate unwanted noise speaker s environment
+ andrea dsp microph audio software products provide clear acoustic audio input performance desired audio signal distance microph example person using notebook computer embedded web cam array microph wants video conference using voip friend another country
+ also engineered andrea dsp microph audio software products compatible universal serial bus usb computer architecture
+usb industry standard connecting peripherals microphs earphs headsets keyboards mice joysticks scanners printers personal computers
+ believe andrea dsp microph audio software technology achieve far field microph performance previously unattainable microphs based mechanical acoustic designs microphs based analog signal processing
+ andrea dsp microph audio software products include use following technologies among technologies techniques digital super directional array dsda
+andrea s patented dsda adaptive beam forming system powers andrea s superbeam microph enables intelligible audio forming beam toward speaker eliminating background noises outside beam
+dsda microph technology enables high quality far field communications centering microph sensitivity user s voice canceling noise outside signal
+dsda continuously samples ever changing acoustic properties within environment adaptively identifies interfering noises extraneous voice signal resulting increased intelligibility communications
+pureaudio
+andrea s pureaudio patented award winning noise reduction speech enhancement algorithm significantly improves intelligibility voice audio accuracy speech driven applications particularly high noise environments
+pureaudio especially effective use speech recognition mobile devices
+pureaudio noise canceling algorithm enhances applications controlled speech sampling ambient noise environment attenuating noise sources near around desired speech signals thus delivering clear audio signal
+designed specifically improve signal noise ratio pureaudio effective canceling stationary noises computer ventilation fans tires engines
+echostop
+andrea s patented echostop provides full duplex acoustic echo cancellation algorithm enabling speakers broadcast microph transmit simultaneously turning pc high quality speakerph echostop advanced acoustic echo canceller stereo version available developed use conferencing systems group audio videoconferencing systems cellular car ph kits
+echostop allows true way communication often referred full duplex conferencing system even system used large spatial environments may vulnerable extensive reverberation
+echostop incorporates noise reduction algorithms reduce background noise microph input loudspeaker output thus preventing accumulation interfering noise conferencing systems facilitate communication among multiple sites
+superbeam
+superbeam highly accurate digital algorithm forms acoustic beam extends microph speech source environment
+ believe superbeam provides fixed noise reduction microph solution typical acoustic environment found room environments speech used offices homes
+ microph beam generated processing multiple microph samples pre established digital filters adding outputs
+ result optimum speech enhancement noise reduction solution predefined setting
+ beam able adapt changes acoustic environment technology called adaptive beamforming
+andrea anti noise technologies noise cancellation nc microph technology
+ technology based use pressure gradient microphs reduce transmission noise speaker s location
+instead using electronic circuitry reduce noise pressure gradient microphs rely mechanical acoustic design 
+ nc microphs well suited applications less background noise speaker s environment
+active noise cancellation anc microph technology
+ technology based analog signal processing circuits electronically cancel transmission noise speaker s location
+anc particularly well suited environments speaker surrounded high levels ambient background noise
+ anc nc microphs effectively used near field applications microph next speaker s mouth headset environment
+active noise reduction anr earph technology
+ technology based analog signal processing circuits electronically reduce amount noise environment listener otherwise hear earph anr earphs improve quality speech audio heard listener noisy environments particularly characterized low frequency sounds aircraft machine rooms factories automobiles trucks ground transportation equipment
+ products markets applications andrea dsp microph audio software products andrea anti noise products designed applications controlled depend speech across broad range hardware software platforms
+ products incorporate dsp nc anc anr microph technologies designed cancel background noise range noisy environments homes offices factories automobiles
+ also manufacture line accessories products
+ consumer commercial markets designed andrea dsp microph audio software products andrea anti noise products following applications speech recognition word processing database similar applications distance learning education use internet based lessons training information audio videoconferencing internet telephony voice chat cellular wireless telecommunications telematics vehicle computing use computer controlled systems automobiles trucks
+ market sell products directly end users website computer product distributors value added resellers original equipment manufacturers software publishers
+ information collaborative arrangements please refer information caption collaborative arrangements
+andrea dsp microph audio software products develop andrea dsp microph audio software products primarily customer specific integration efforts either license related algorithms sell product incorporating related algorithms 
+ example developed technologies can embedded pc pc monitors high end videoconferencing units ip telephony applications automotive interiors hand held devices among others
+ addition developed stand al products specific customers sell products end users
+ result products available us directly
+however part strategy increase sales prospective customers desiring high quality microph performance certain customer specific environments developed following products may purchased directly andrea andrea superbeam array microph
+andrea s patented dsda adaptive beam forming system powers andrea s superbeam array microph enables intelligible audio forming beam toward speaker eliminating background noises outside beam
+dsda particularly effective small office home office use providing untethered noise cancelling microph experience gaining benefits regular headset
+andrea usb sa external digital sound card
+andrea s pureaudio usb sa patented noise reduction technology eliminates noise problems utilizing high quality digital circuitry state art noise reduction algorithm software
+ format bypasses desktop laptop computer s sound system providing increased intelligibility performance stereo microph input stereo speaker output user s digital audio applications including voip speech recognition programs
+andrea audiocommander
+andrea s pc audio control panel audiocommander includes speaker volume adjustment received pureaudio noise reduction control band graphic equalizer built presets customize sound user s listening preference
+ also includes microph volume adjustment noise reduction beam forming acoustic echo cancellation controls
+ software also includes audio wizard sets microph levels optimize pc audio speech enabled applications including speech recognition internet telephony command speech control functions
+andrea autoarray microph autoarray
+ autoarray digital high performance microph system designed computing applications vehicles automobiles trucks
+ first super directional audio input device designed specifically vehicle computing
+ autoarray incorporates several technologies including dsda pureaudio
+andrea voicecenter voicecenter
+ voicecenter multi functional digital voice recorder software application enables recorded speech files applied productivity well expressing personality
+ digital wav recorded files automatically labeled can compressed wma attachment e mail used voice memos voice alarms calendar reminder function even add voice annotation documents
+ voicecenter also includes andrea pureaudio noise reduction speech enhancement technology increasing recording sound quality microph andrea anti noise products andrea anti noise products include line headsets handsets related accessories incorporate nc anc anr technologies
+ headsets mostly differentiated various designs headband microph boom earph compnts available single earph monaural dual earph stereo models
+nc products
+ nc products sold internal contact center well original equipment manufacturers incorporation use products
+ headsets designed can get pc audio experience
+ addition new usb headset products andrea combined benefits pureaudio usb digital audio includes andrea s complete pureaudio voice solutions software suite including audio commander voice center pure audio technology noise cancelling pc headsets delivering high fidelity audio experience highest voice recognition industry rating
+bluetooth nc products
+andrea electronics now offering noise cancellation boom microph technology bt bluetooth headset
+ wireless headset solution enhances sound quality noisy environments provides user pureaudio experience well delivering superior speech dialing performance
+ added value products can combined usb audio adapter can used seamlessly communicate pc well cellular ph anc products
+anc products premium close talking microph platform enhancing speech recognition applications
+ anc products sold internal contact center
+anc headset products incorporate dual microph system design optimizes acoustic performance sound
+ collaborative arrangements important element strategy promote widespread adoption products technologies collaborating large enterprises market technology leaders telecommunications computer manufacturing software publishing
+ addition arrangements involved currently discussing additional arrangements companies assure discussions will result definitive agreements
+patents trademarks intellectual property rights rely combination patents patent applications trade secrets copyrights trademarks nondisclosure agreements contractual restrictions protect intellectual property proprietary rights
+ assure however measures will protect intellectual property prevent misappropriation circumvention intellectual property
+andrea maintains number patents united states covering claims certain products technology expire various dates ranging 
+ also patent applications currently pending however assure patents will issued respect currently pending future applications may file can assure strength scope existing patents new patents will sufficient scope strength provide meaningful protection commercial advantage us
+research development consider technology substantial importance competitiveness
+ maintain competitiveness organized research development efforts using market applications approach meeting requirements new existing customers
+consistent approach engineering staff interacts closely sales marketing personnel directly customers
+ engineering staff responsible research development new products improvement support existing products
+ years ended december total research development expenses respectively
+ expect research development expenses remain level compared expect will occur result overall plan improve cash flows containing expenses
+ assurance can given research development efforts will succeed
+see item management s discussion analysis financial condition results operations
+sales marketing employ sales staff well outside sales representatives sales organizations market andrea dsp microph audio software products andrea anti noise products
+andrea dsp microph audio software products andrea anti noise products marketed computer original equipment manufacturers oems distributors personal computers telecommunications equipment software publishers end users business household environments
+ products sold end users distributors value added resellers software publishers internet service providers internet content developers
+ existing collaborative agreements collaborators various marketing sales rights andrea dsp microph audio software andrea anti noise products
+ seeking enter additional collaborative arrangements marketing sale andrea dsp microph audio software products andrea anti noise products assure will successful efforts
+market acceptance andrea dsp microph audio software products andrea anti noise products critical success
+production operations assembly operations performed subcontractors asia united states
+ compnts andrea dsp microph audio software products andrea anti noise products available several sources characteristically short supply
+however certain specialized compnts microphs dsp boards available limited number suppliers subject long lead times
+ date able obtain sufficient supplies specialized compnts assure will continue able 
+shortages interruptions supply specialized compnts material adverse effect sales andrea dsp microph audio software products andrea anti noise products
+competition markets andrea dsp microph audio software products andrea anti noise products highly competitive
+competition markets based varying combinations product features quality reliability performance price sales marketing technical support ease use compatibility evolving industry standards systems equipment name recognition development new products enhancements
+ current potential competitors markets significantly greater financial marketing technical resources us
+consequently competitors may able respond quickly new emerging technologies changes customer requirements devote greater resources development marketing sale products can
+ assure competitors will independently develop technologies substantially equivalent superior technology
+ believe ability compete successfully will depend upon ability develop maintain advanced technology develop proprietary products attract retain qualified personnel obtain patent proprietary protection products technologies manufacture assemble market products either al third parties profitable manner
+employees december employees engaged production related operations six engaged research development nine engaged management administration sales customer support duties
+n employees unionized covered collective bargaining agreement
+ believe generally enjoy good relations employees
+ addition regular employees utilize independent consultants eight sales representatives engaged administration purposes engaged research development activities
+item 

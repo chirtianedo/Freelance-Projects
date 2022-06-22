@@ -1,0 +1,128 @@
+skyworks solutions together consolidated subsidiaries skyworks company empowering wireless nerking revolution
+ highly innovative analog semiconductors connecting people places things spanning number new previously unimagined applications within automotive broadband cellular infrastructure connected home industrial medical military smartph tablet wearable markets
+ key customers include arris bose cisco dell ericsson foxconn fujitsu general electric google hywell htc huawei landis gyr lenovo lg electronics microsoft nest netgear northrop grumman rockwell collins samsung sonos zte
+ competitors include analog devices avago technologies linear technology maxim integrated products murata manufacturing nxp qualcomm qorvo
+headquartered woburn massachusetts delaware corporation formed changed corporate name alpha industries skyworks solutions june following business combination
+ operate worldwide engineering manufacturing sales service facilities throughout asia europe north america
+ internet address www skyworksinc com
+ make available free charge website annual report form k quarterly reports form q current reports form k section filings forms amendments reports soon practicable electronically submit material sec
+ information contained website incorporated reference annual report
+ may read copy materials filed sec sec public reference room located f street n e
+washington d c
+
+please call sec sec information public reference room
+ sec filings also available public www sec gov
+ august entered joint venture panasonic corporation automotive industrial systems company panasonic design manufacture sale panasonic s surface acoustic wave saw temperature compensated tc saw filter products
+ controlling interest joint venture option acquire remaining interest august plan exercise
+ overall demand saw tc saw filters increasing technology product architectures become complex number required bands grows investment assists us securing firm supply saw tc saw filters addition allowing us integrate filters design production products
+ january acquired advanced analogic technologies aati accelerated entry vertical markets highly complementary analog semiconductor product lines including battery chargers dc dc converters voltage regulators led drivers
+power management semiconductors represent strategic growth market us applications like voltage regulation energy efficiency panel backlighting within consumer electronics computing communications markets
+ june acquired sige semiconductor sige expanded rf front end solutions facilitate wireless multimedia across wide range new applications
+ acquisition sige complemented strong position wide area front end solutions adding sige s innovative short range silicon based products
+ result today offer customers comprehensive wireless nerking portfolio supporting key operating frequencies greater architectural flexibility address variety high growth applications
+industry background measures wireless connectivity exploding fueled powerful underlying demand connect every everything time
+ semiconductor devices becoming ever smaller powerful affordable virtually attachable anything telecommunication nerks creating pipelines devices can connect little cost various devices now able collect process analyze data seeing convergence elements driving connectivity across internet things
+ billions connected devices comprise internet things will enabled combination sensors microcontrollers well connectivity power management solutions
+ helping fuel skyworks growth expand served markets
+ fact today number groundbreaking devices leveraging skyworks technology newest smartphs factory floor connected car automated home wearables hospitals medical providers
+within smartphs mobile platforms skyworks benefiting complexity associated increasing number frequency bands well multitude rf design challenges brought consumers use devices stream video make purchases nerk social media platforms pay bills much 
+ design challenges require broad set core competencies ensure seamless handoffs multiple air interface standards effectively address signal transmission conditioning power management voltage regulation filtering tuning complexities
+ result customers needs dramatically moved away discrete compnts toward customized integrated solutions sweep adjacent functionality analog content
+ time emerging markets around world demand mobile connectivity continues grow industry drives toward connecting billions people remain unconnected
+according global semiconductor market association percent global population will use smartphs emerging markets forecasted lead growth
+beyond mobile solutions enabling broad set end markets applications embracing connectivity first time including action video cameras smart watches streaming music platforms avionics systems
+ analysts expecting number connected devices reach staggering billion skyworks shortage growth opportunities across new emerging markets applications
+solving connectivity challenges transition ubiquitous connectivity however come without challenges
+rf solutions ultra thin high performance consumer products must preserve battery life increase data rates solve signal interference problems occupying minimal board space
+meeting design challenges requires broad competencies including signal transmission conditioning ability ensure seamless hand offs multiple standards power management voltage regulation battery charging filtering tuning among others
+ complexity plays directly skyworks strengths
+ strong heritage analog systems design spent last decade investing key technologies resources
+ forefront advanced multi chip module integration offer unmatched technology breadth providing deep expertise cmos soi gaas filters maintaining strategic partnerships outside foundries
+skyworks strategy skyworks overall strategy enable forms connectivity semiconductor innovation
+key elements strategy include industry leading technology industry migrates complex lte architectures across multitude wireless broadband applications uniquely positid help mobile device manufacturers handle growing levels system complexity transmit receive chain
+ trend towards increasing front end analog design challenges smartphs mobile devices plays directly skyworks core strengths positions us address challenges
+ believe offer broadest portfolio radio analog solutions transceiver antenna well required manufacturing process technologies
+ expertise includes bifet cmos hbt phemt soi silicon germanium processes
+ also hold strong technology leadership positions passive devices advanced integration including proprietary shielding d die stacking well saw tc saw filters
+ product portfolio reinforced library worldwide patents intellectual property control
+together industry leading technology enables us deliver highest levels product performance integration
+customer relationships given scale technology leadership engaged key original equipment manufacturers smartph providers baseband reference design partners
+ customers value supply chain strength innovative technology system engineering expertise resulting deep customer loyalty
+ partner customers support long term product road maps valued system solutions provider rather just point product vendor
+diversification diversifying business areas addressed markets customer base product offerings enable stronger consistent financial returns
+ leveraging core analog mixed signal technologies expanding family solutions set increasingly diverse end markets customers
+ steadily growing business beyond just mobile devices support top tier manufacturers including leading smartph suppliers key baseband vendors additional high performance analog markets including infrastructure smart energy wireless nerking automotive medical
+ markets leverage scale intellectual property worldwide distribution nerk span customers analog compnts
+delivering operational excellence either vertically integrate supply chain can create competitive advantage enter alliances strategic relationships leading edge capabilities
+ hybrid manufacturing approach allows us better balance manufacturing capacity demands marketplace
+internally capacity utilization remains high therefore able maintain margins achieve desired return invested capital broader range revenue
+additionally continue strive achieve industry s shortest product design manufacturing cycle times highest yields
+ combination agile flexible capacity world class module manufacturing scale advantage allows us achieve low product cost structure integrating multiple technologies highly sophisticated multi chip modules
+maintaining performance driven culture consider people corporate culture major competitive advantage key element overall strategy
+ create key performance indicators align employee performance corporate strategy link responsibilities performance measurement
+accountability paramount compensate employees pay performance methodology
+ strive employer choice among peer companies created work environment turnover well semiconductor industry averages
+generating superior operating results shareholder returns seek generate financial returns comparable highly diversified analog semiconductor company delivering high growth rates representative mobile internet company
+given product volume overall utilization strive achieve best class return investment operating income reward shareholders increasing returns
+skyworks product portfolio product portfolio consists various solutions including amplifiers modules strengthen signal sufficient energy reach base station attenuators circuits allow known source power reduced predetermined factor usually expressed decibels circulators isolators ferrite based compnts commonly found output high power amplifiers used protect receivers wireless transmission systems dc dc converters electronic circuit converts source direct current voltage level another demodulators device rf block used receivers extract information modulated onto carrier carrier detectors devices used measure control rf power wireless systems diodes semiconductor devices pass current direction directional couplers transmission coupling devices separately sampling forward backward wave transmission line diversity receive modules devices used improve receiver sensitivity high data rate lte applications filters devices recovering separating mixed modulated data rf stages front end modules power amplifiers integrated switches duplexers filters compnts create single package front end solution hybrid type directional coupler used radio telecommunications led drivers devices regulate current light emitting diode string diodes purpose creating light low noise amplifiers devices used reduce system noise figure receive chain mixers devices enable signals converted higher lower frequency signal thereby allowing signals processed effectively modulators devices take baseband input signal output radio frequency modulated signal optocouplers optoisolators semiconductor devices allow signals transferred circuits systems ensuring circuits systems electrically isolated phase locked loops closed loop feedback control system maintains generated signal fixed phase relationship reference signal phase shifters designed use power amplifier distortion compensation circuits base station applications power dividers combiners utilized equally split signals phase signals often found balanced signal chains local oscillator distribution nerks receivers electronic devices change radio signal transmitter useful information switches compnts perform change transmit receive function well band function cellular handsets synthesizers devices provide ultra fine frequency resolution fast switching speed low phase noise performance technical ceramics polycrystalline oxide materials used wide variety electrical mechanical thermal magnetic applications voltage regulators generate fixed level ideally remains constant varying input voltage load conditions vcos synthesizers fully integrated high performance signal source high dynamic range transceivers believe possess broad technology capabilities complete wireless communications product portfolios industry
+marketing distribution products primarily sold direct global skyworks sales force deployed across major market regions
+ markets supplement direct sales effort independent manufacturers representatives distribution partners franchised globally others focused specific regional markets
+ sales engagement begins earliest stages design existing potential customer s product
+ strive provide close technical collaboration customers reference design partners inception new programs
+ relationships allow team facilitate customer driven solutions leverage unique strength intellectual property product portfolio providing high value greatly reducing time market
+ believe technical complex nature products markets demand extraordinary commitment maintain close ongoing relationships customers
+ strive expand scope customer relationship include design engineering manufacturing procurement logistics project management
+ also employ collaborative approach developing relationships combining support design teams applications engineers manufacturing personnel sales marketing staff senior management
+lastly leverage customer relationships cross selling opportunities across product lines order maximize revenue
+ believe maintaining frequent interactive contact customers paramount continuous efforts provide world class sales service support
+ listening responding feedback able mobilize resources raise level customer satisfaction improve ability anticipate future product needs enhance understanding key market dynamics
+ confident diligently following path will position skyworks participate numerous opportunities growth future
+customer concentration small number customers historically accounted significant portion net revenue
+ fiscal year ended october fiscal foxconn technology group together affiliates suppliers large oem use multiple applications including smartphs tablets routers desktop notebook computers constituted ten percent net revenue
+ fiscal years ended october fiscal september fiscal customers foxconn technology group together affiliates suppliers large oem use multiple applications including smartphs tablets routers desktop notebook computers samsung electronics constituted ten percent net revenue
+ information regarding customer concentrations see note item annual report form k
+intellectual property proprietary rights license use numerous united states foreign patents patent applications related products manufacturing operations processes
+ addition number trademarks service marks applicable certain products services
+ believe intellectual property including patents patent applications trade secrets trademarks material importance business
+ rely patent copyright trademark trade secret intellectual property laws well non disclosure confidentiality agreements methods protect confidential proprietary technologies designs devices algorithms processes intellectual property
+ efforts may meaningfully protect intellectual property others may independently develop substantially equivalent superior proprietary technologies designs devices algorithms processes intellectual property
+ addition laws foreign countries protect proprietary rights extent laws united states effective copyright patent trademark trade secret protection may available jurisdictions
+ addition protecting intellectual property strive strengthen intellectual property portfolio enhance ability obtain cross licenses intellectual property others obtain access intellectual property possess favorably resolve potential intellectual property claims us
+furthermore seek generate high gross margin revenue sale license non core intellectual property occasionally purchase intellectual property
+due rapid technological changes industry believe establishing maintaining technological leadership position depends primarily ability develop new innovative products technical competence engineering personnel
+competitive conditions competitive environment semiconductor industry constant state flux new products continually emerging existing products approaching technological obsolescence
+ compete basis time market new product innovation quality performance price compliance industry standards strategic relationships customers baseband vendors personnel protection intellectual property
+ participate highly competitive markets numerous competitors may able adapt quickly can new emerging technologies changes customer requirements may able devote greater resources development promotion sale products can
+erosion average selling prices established products typical semiconductor industry
+consistent trends industry anticipate average selling prices established products will continue decline normalized rate five ten percent per year
+ part normal course business mitigate gross margin impact declining average selling prices efforts increase unit volumes reduce material costs lower manufacturing costs existing products introducing new higher value added products
+research development products markets demand rapid technological advancements requiring continuous effort enhance existing products develop new products technologies
+accordingly maintain high level research development activity
+ invested million million million research development activities fiscal fiscal fiscal respectively
+ increase research development expenses fiscal fiscal compared fiscal result increases internal product designs product development activity target markets fiscal years
+ research development activities include new product development innovations integrated circuit design investment advanced semiconductor manufacturing processes development new packaging test capabilities research next generation technologies product opportunities
+ maintain close collaborative relationships many customers help identify market demands target development efforts meet demands
+raw materials raw materials products manufacturing processes generally available several sources
+ policy depend sole source supply unless market conditions dictate otherwise
+however limited situations procure certain compnts services products single limited sources currently dependent limited number sole source suppliers
+ purchase materials services primarily pursuant individual purchase orders
+however entered certain supply agreements purchase raw materials manufacturing related services specify minimum prices purchase quantity based anticipated future requirements
+ amounts reviewed included contractual obligations commitments required
+certain suppliers consign raw materials us manufacturing facilities take title needed manufacturing process
+ believe adequate sources supply raw materials compnts manufacturing needs suppliers located around world
+backlog inventory sales made pursuant standard purchase orders specified customer contracts delivery products purchase orders officially acknowledged us according terms conditions
+ also maintain skyworks owned finished goods inventory certain customer hub locations
+ recognize revenue customers consume skyworks owned inventory hub locations
+due industry practice allows customers cancel orders limited advance notice us prior shipment little penalty believe backlog particular date may reliable indicator future revenue levels
+ cancellation deferral product orders return previously sold products overproduction due change anticipated order volume result reduction revenue us holding excess obsolete inventory result inventory write downs turn material adverse effect financial condition
+environmental regulations federal state local requirements relating discharge substances environment disposal hazardous wastes activities affecting environment will continue impact manufacturing operations
+ customers mandated products comply various local regional national green initiatives initiated customers locations operate
+ believe current expenditures environmental capital investment remediation necessary comply present regulations governing environmental protection expenditures resolution environmental claims will material adverse effect liquidity capital resources competitive position financial condition
+environmental regulations subject change future accordingly unable assess possible effect compliance future requirements
+seasonality sales products subject seasonal fluctuation periods increased demand end user consumer applications smartphs tablet computing devices
+ highest demand products generally occurs first fiscal quarter ending december lowest demand handset products generally occurs second fiscal quarter ending march
+geographic information information regarding net revenue geographic region last fiscal years see note item annual report form k
+employees october employed approximately employees world wide
+approximately employees mexico employees japan covered collective bargaining agreements union agreements
+item 
+risk factors

@@ -1,0 +1,325 @@
+item business cautionary statement regarding forward looking statements statements report include forward looking statements within meaning private securities litigation reform act 
+ forward looking statements based current expectations beliefs involve numerous risks uncertainties cause actual results differ materially expectations
+ forward looking statements speak date hereof dates indicated statements relied upon predictions future events assure events circumstances reflected statements will achieved will occur
+ can identify forward looking statements use forward looking terminology including believes expects may will seeks intends plans pro forma estimates anticipates negative words phrases variations words phrases comparable terminology
+ forward looking statements relate among things demand amd s products growth change competitive landscape markets amd participates future restructuring activities nature extent amd s future payments globalfoundries gf materiality payments materiality amd s future purchases gf sales patterns amd s semi custom system chip soc products amd s expected completion restructuring plan announced october restructuring plan anticipated cash payments savings restructuring plan statements regarding proposed joint ventures jvs amd nantong fujitsu microelectronics including jvs expected future performance including expected results operations financial guidance benefits proposed jvs jvs future financial condition operating results strategy plans statements regulatory approvals closing date proposed transaction amd s expected future filing patent applications united states abroad significant inventions amd s expectation based information presently known management securities class action shareholder derivative suit will material adverse effect financial condition cash flows results operations expected completion amd s exit dense server business level international sales compared total sales amd expect reduce unrecognized tax benefits next months unrecognized tax benefits will materially change next months amd s cash cash equivalents marketable securities balances savings restructuring plans secured revolving line credit secured revolving line credit will sufficient fund amd s operations including capital expenditures next months amd s ability obtain sufficient external financing favorable terms dependence small number customers substantial part revenue hedging strategy expenditures related environmental compliance conflict minerals disclosure requirements amd expect pay dividends future
+material factors cause actual results differ materially current expectations include without limitation following intel corporation s dominance microprocessor market aggressive business practices may limit amd s ability compete effectively amd relies gf manufacture microprocessor apu products certain portion gpu products limited exceptions
+ gf able satisfy amd s manufacturing requirements business adversely impacted amd relies third parties manufacture products unable timely basis sufficient quantities using competitive technologies amd s business materially adversely affected failure achieve expected manufacturing yields amd s products negatively impact financial results success amd s business dependent upon ability introduce products timely basis features performance levels provide value customers supporting coinciding significant industry transitions amd generate sufficient revenue operating cash flow obtain external financing may face cash shortfall unable make planned investments research development strategic investments loss significant customer may material adverse effect amd global economic uncertainty may adversely impact amd s business operating results amd may able generate sufficient cash service debt obligations meet working capital requirements amd substantial amount indebtedness adversely affect financial position prevent implementing strategy fulfilling contractual obligations agreements governing amd s notes secured revolving line credit impose restrictions amd may adversely affect ability operate business completion impact restructuring plan transformation initiatives future restructuring actions adversely affect markets amd s products sold highly competitive uncertainties involving ordering shipment amd s products materially adversely affect amd s receipt revenue semi custom soc products dependent upon technology designed third party products success products demand amd s products depends part market conditions industries sold
+fluctuations demand amd s products market decline industries material adverse effect results operations amd s ability design introduce new products timely manner dependent upon third party intellectual property amd depends third party companies design manufacture supply motherboards computer platform compnts support business amd loses microsoft corporation s support products software vend ors design develop software run amd s products ability sell products materially adversely affected amd s reliance third party distributors aib partners subjects certain risks amd s inability continue attract retain qualified personnel may hinder product development programs event change control amd may able repurchase outstanding debt required applicable indentures secured revolving line credit result default indentures secured revolving line credit semiconductor industry highly cyclical experienced severe downturns materially adversely affected may continue materially adversely affect business future acquisitions divestitures joint ventures disrupt business harm financial condition operating results dilute adversely affect price common stock amd s business dependent upon proper functioning internal business processes information systems modification interruption systems may disrupt business processes internal controls data breaches cyber attacks compromise amd s intellectual property sensitive information costly remediate cause significant damage business reputation amd s operating results subject quarterly seasonal sales patterns essential equipment materials manufacturing processes available manufacture products amd materially adversely affected amd s products compatible industry standard software hardware materially adversely affected costs related defective products material adverse effect amd amd fails maintain efficiency supply chain responds changes customer demand products business materially adversely affected amd outsources third parties certain supply chain logistics functions including portions product distribution transportation management information technology support services amd may incur future impairments goodwill amd s worldwide operations subject political legal economic risks natural disasters material adverse effect worldwide political conditions may adversely affect demand amd s products unfavorable currency exchange rate fluctuations adversely affect amd amd s inability effectively control sales products gray market material adverse effect amd adequately protect technology intellectual property united states abroad patents copyrights trade secrets trademarks measures may lose competitive advantage incur significant expenses amd may able successfully mtize intellectual property amd party litigation may become party claims litigation cause incur substantial costs pay substantial damages prohibit selling products amd s business subject potential tax liabilities variety environmental laws amd subject result additional costs liabilities higher health care costs labor costs adversely affect amd s business
+ discussion factors cause actual results differ materially forward looking statements see item risk factors financial condition section set forth item management s discussion analysis financial condition results operations md beginning page risks uncertainties set forth report detailed securities exchange commission sec reports filings
+ assume obligation update forward looking statements
+general global semiconductor company primarily offering x microprocessors standal central processing unit cpu incorporated accelerated processing unit apu chipsets discrete graphics processing units gpus consumer commercial professional graphics markets server embedded cpus gpus apus semi custom system chip soc products technology game consoles
+ financial information geographic areas segment information respect revenues operating results refer information set forth note consolidated financial statements beginning page 
+ use week fiscal year ending last saturday december
+ years ended december december december included weeks
+references report refer fiscal year unless explicitly stated otherwise
+additional information advanced micro devices amd incorporated laws delaware may became publicly held company common stock currently listed nasdaq stock market nasdaq symbol amd
+ mailing address executive offices located amd place sunnyvale california teleph number 
+references annual report form k amd us management company mean advanced micro devices consolidated subsidiaries
+amd amd arrow logo amd athlon amd opteron amd phenom amd sempron amd turion firepro crossfire radeon geode seamicro combinations thereof trademarks advanced micro devices microsoft windows xbox xbox registered trademarks microsoft corporation united states jurisdictions
+playstation registered trademark sony computer entertainment wii wii u registered trademarks nintendo america arm registered trademark arm limited subsidiaries
+ names informational purposes used identify companies products may trademarks respective owners
+web site access sec filings corporate governance documents investor relations pages web site http ir amd com post links filings sec principles corporate governance code ethics executive officers senior finance executives worldwide standards business conduct applies board directors employees charters audit finance compensation leadership resources nominating corporate governance innovation technology committees board directors
+ filings sec posted soon reasonably practical electronically filed furnished sec
+ can also obtain copies documents writing us corporate secretary amd southwest parkway m s b austin texas emailing us corporate secretary amd com
+ documents filings available free charge
+ make substantive amendments code ethics grant waiver including implicit waiver principal executive officer principal financial officer principal accounting officer controller persons performing similar functions intend disclose nature amendment waiver web site
+ information contained web site incorporated reference considered part report
+ industry global semiconductor company
+semiconductors compnts used variety electronic products systems
+ integrated circuit ic semiconductor device consists many interconnected transistors single chip
+since invention transistor improvements ic process design technologies led development smaller complex reliable ics lower cost per function
+computing graphics x microprocessor chipset markets central processing unit cpu
+ microprocessor ic serves cpu computer
+ generally consists hundreds millions billions transistors process data control devices system acting brain computer
+ performance microprocessor critical factor impacting performance computing entertainment platforms desktop pcs notebooks tablets workstations
+ principal elements used measure cpu performance work per cycle many instructions executed per cycle clock speed representing rate cpu s internal logic operates measured units gigahertz billions cycles per second power consumption
+ factors impacting microprocessor performance include number type cores microprocessor bit rating microprocessor memory size data access speed
+developments ic design manufacturing process technologies resulted significant advances microprocessor performance
+ businesses consumers require greater performance computer systems due growth digital data increasingly sophisticated software applications semiconductor companies designing developing multi core microprocessors multiple processor cores placed single die single processor
+multi core microprocessors offer enhanced overall system performance efficiency computing tasks can spread across processing cores can execute task full speed
+multi core microprocessors can increase performance computer system without greatly increasing total amount power consumed total amount heat emitted
+businesses consumers also require computer systems improved power management technology helps reduce power consumption computer systems enable smaller portable form factors lower total cost ownership
+accelerated processing unit apu system chip soc
+consumers increasingly demand computing devices improved end user experience system performance energy efficiency
+consumers also continue demand thinner lighter mobile devices better performance longer battery life
+ believe computing architecture optimizes use compnts can provide improvements
+ apu processing unit integrates cpu gpu onto chip piece silicon along cases special purpose compnts
+ integration enhances system performance offloading selected tasks best suited compnt e
+ cpu gpu optimize compnt use increasing speed data flow cpu gpu shared memory allowing gpu function graphics engine application accelerator
+ cpu gpu chip also typically improves energy efficiency example eliminating connections discrete chips
+ soc type ic cpu gpu compnts memory controller peripheral management comprising complete computing system single chip
+ combining elements soc system performance energy efficiency improved similar apu
+heterogeneous system architecture hsa describes industry standard overarching design combinations cpu gpu processor cores operate unified integrated engine shares system responsibilities resources
+ founding member hsa foundation non profit organization established define promote open standards based approach heterogeneous computing
+heterogeneous computing allows elevation gpu level cpu memory access queuing execution true compute core
+ capability allows software programmers develop applications fully utilize capabilities graphics compute core
+graphics processing unit gpu
+ gpu programmable logic chip renders images animations video also increasingly used handle general computing tasks
+gpus located plug cards discrete processor chipset motherboard chip cpu
+gpus perform parallel operations data render images screen essential presenting computer generated images screen decoding rendering animations video
+ sophisticated gpu higher resolution faster smoother motion
+gpus stand al cards discrete gpus motherboard typically include memory gpus chipset cpu chip share main memory cpu
+ addition graphics processing parallel operation gpus used multiple sets data increasingly used vector processor non graphics applications require repetitive computations supercomputing deep neural nerks various embedded applications
+chipset
+ chipset generic term referring collection system level compnts manage data flow among microprocessor microprocessors memory peripherals cd rom drives dvd drives usb peripherals
+chipsets perform essential logic functions balance system s performance provide system control power management functions
+ chipsets graphics capabilities including integrated graphics processor igp within chipset
+ chipset igp known igp chipset
+igp chipsets can offer lower cost reduced power alternative discrete gpu often also used smaller form factors
+systems powered apu cpu discrete gpu combination often chipset instead use amd controller hub chip perform functions chipset
+ result believe either apu amd controller hub chip combination soc already includes chipset will eventually replace market igp chipsets
+ x microprocessor chipset products microprocessors incorporated computing platforms collection technologies designed work together provide complete computing solution enable advance computing compnts
+ believe integrated balanced computing platforms consisting microprocessors chipsets gpus either discrete gpus integrated apu soc work together system level bring end users improved system stability increased performance enhanced power efficiency
+ addition believe customers also benefit amd platform consisting apu cpu discrete gpu chipset amd fusion controller hub chip able optimize interoperability provide customers single point contact key platform compnts enable bring platforms market faster variety client server system form factors
+ currently base microprocessors chipsets x instruction set architecture amd s direct connect architecture connects chip memory controller input output o channels directly microprocessor cores
+ typically integrate processor cores onto single die core dedicated cache memory located semiconductor die permitting quick access frequently used data instructions
+ microprocessors additional levels cache l second level cache l third level cache enable faster data access higher performance
+ focus continually improving energy efficiency products design principles innovations power management technology
+ end offer cpus gpus apus socs chipsets multiple low power states designed utilize lower clock speeds voltages reduce processor power consumption active idle times
+ use intelligent dynamic power management designed create lower energy use allowing compute applications completed quickly efficiently enabling return ultra low power idle state
+desktop
+ apus desktop pcs consist primarily amd series amd e series apus
+ also offer amd fx cpus enthusiast market
+ latest generation amd fx cpus based piledriver x multi core architecture
+ amd fx cpus designed multitasking high resolution gaming hd media processing come eight six quad core versions
+ may introduced amd series k apu refresh existing line processors formerly codenamed kaveri designed support best class experiences esports online gaming
+ july introduced amd series k apu designed support windows mainstream workloads online gaming
+notebook s
+ response consumer demand continue invest designing developing high performing low power apus notebook pc platforms
+ apus notebook pcs consist primarily amd series apus amd e series apus
+ apus combine discrete level amd radeon graphics multi core cpu processors single chip designed optimize performance energy efficiency
+ may introduced amd series apus formerly codenamed carrizo l designed prolong battery life enable uninterrupted video streaming mainstream notebooks
+ june announced th generation series processor formerly codenamed carrizo world s first high performance apu soc design
+leveraging amd excavator cores third generation amd s graphics core next gcn architecture processor designed mainstream notebooks
+chipsets
+ portfolio chipset products includes models without integrated graphics features desktop notebook pcs servers well amd controller hub based chipsets apus
+ offer amd series chipsets socket platforms serving desktop pcs amd series control hubs socket fm socket fp platforms desktop notebook pcs
+ also offer amd e e m sr sb sb sb mt chipsets amd series controller hubs embedded products
+commercial
+ offer enterprise class solutions sold amd pro commercial client market
+amd pro solutions designed provide commercial grade quality platform longevity extended image stability also include security manageability features enterprise
+ september launched latest amd pro mobile desktop processors formerly codenamed carrizo pro godavari pro based th generation series processor technology
+graphics market semiconductor graphics market addresses need improved visual processing various computing devices
+many consumers value rich visual experience enable compelling immersive experience consumers pc evolved traditional data processing communications device entertainment platform
+ result visual realism graphical display capabilities key product differentiation elements among computing devices
+ led increasing creation use processing intensive multimedia content computing devices including playing games capturing multimedia content viewing online videos photo editing managing digital content
+ turn trends contributed higher consumer demand performance graphics solutions manufacturers designing computing devices capabilities
+ apus deliver visual processing functionality value mainstream pcs integrating cpu gpu single chip discrete gpus also known dgpus offer high performance graphics processing across amd platforms
+amd accelerated parallel processing gpgpu general purpose gpu refers set advanced hardware software technologies enable discrete amd gpus working concert cpu accelerate computational tasks beyond traditional cpu processing utilizing vast number discrete gpu cores working cpu process information cooperatively
+ addition computing devices hsa features run computationally intensive tasks efficiently believe provides superior application experience end user
+moreover heterogeneous computing allows elevation gpu level cpu memory access queuing execution
+ graphics products graphics fundamental compnt almost everything create can found apu gpu soc combination gpu foregoing products working tandem
+ customers generally use graphics solutions increase speed rendering images help improve image resolution color definition
+ develop graphics products use various computing devices entertainment platforms including desktop pcs notebook pcs s professional workstations
+ graphics products available drivers supporting software packages enable effective use products variety operating systems applications
+ addition recent generation graphics products linux driver support
+discrete desktop notebook graphics
+ discrete gpus desktop notebook pcs enable next generation apis like directx vulkan support new displays using freesync technology uniquely positid drive next visual revolution virtual reality vr pc platforms
+ products include amd radeon r r r series graphics
+ june introduced new amd radeon r fury x r fury graphics amd radeon r r series graphics well amd radeon m series graphics reinforce graphics leadership power efficiency notebooks best class performance desktops
+ august introduced amd radeon r nano featuring chip high bandwidth memory hbm k gaming performance
+professional graphics
+ amd firepro family professional graphics products consists d d multi view graphics cards gpus designed integration mobile desktop workstations well commercial pcs
+ designed amd firepro d graphics cards demanding applications found computer aided design cad digital content creation dcc markets drivers specifically tuned maximum performance stability reliability across wide range software packages
+ designed amd firepro d graphics cards dual quad display outputs financial corporate environments
+ also provide amd firepro s series gpu products server market target high performance computing hpc primarily focused deep neutral nerks dnn geosciences biosciences academic government workloads virtual desktop infrastructure vdi use cases primarily focused workstation class virtualization desktop remoting content streaming workloads
+ july announced new amd firepro s server gpu designed high performance compute hpc environments
+ december launched amd firepro w graphics card designed computer aided design cad small full size workstations
+enterprise embedded semi custom enterprise embedded semi custom markets server
+ server computer system performs services connected customers part client server architecture
+many servers designed run application applications often extended periods time minimal human intervention
+examples servers include web servers e mail servers print servers
+ servers can run variety applications including business intelligence enterprise resource planning customer relationship management advanced scientific engineering models solve advanced computational problems disciplines ranging financial modeling weather forecasting oil gas exploration
+servers also used cloud computing computing model data applications services delivered internet intranet
+today s data centers require new technologies configuration models meet demand driven staggering amount data needs stored accessed managed
+servers must efficient scalable adaptable meet compute characteristics new changing workloads
+embedded
+embedded products address computing needs pc adjacent markets industrial control automation digital signage point sale self service kiosks medical imaging set top box casino gaming machines well enterprise class telecommunications nerking security storage systems thin clients computers serve access device nerk
+typically embedded products used applications require high moderate levels performance key features may include mobility relatively low power small form factor x operations
+high performance graphics increasingly important many embedded systems
+support linux windows operating systems well increasingly sophisticated applications also critical customers
+ requirements may include meeting rigid specifications industrial temperatures shock vibration reliability
+ embedded market moved developing proprietary custom designs leveraging industry standard instruction set architectures processors way help reduce costs speed time market
+semi custom
+ leveraged core ip including graphics processing technologies developed pc server markets develop semi custom solutions customers want differentiation products
+ market semiconductor suppliers work alongside system designers manufacturers enhance performance overall user experience semi custom customers
+amd used type collaborative development approach today s leading game console manufacturers can also address customer needs many markets beyond game consoles leveraging existing ip create variety products tailored specific customer s needs ranging complex fully customized socs modest adaptations integrations existing cpu apu gpu products
+ enterprise embedded semi custom products server processors
+ microprocessors server platforms currently include amd opteron x series amd opteron series processors amd opteron series processors
+ january launched amd opteron soc first bit arm based product designed accelerate time market deployment arm based systems datacenter improve enterprise class ecosystem support bit arm key markets
+embedded processors
+ embedded processors increasingly driving intelligence new areas lives like interactive digital signage casino gaming medical imaging devices
+ products designed support greater connectivity productivity believe strong driver internet things surround computing areas computing industry
+ processor products embedded platforms include amd embedded r series apu cpus amd embedded g series soc platform amd embedded radeon gpus
+ september announced multiple new discrete amd embedded radeon graphics cards amd embedded radeon emxm module embedded radeon e series e series suitable multiple form factors
+ suite products specifically designed advance visual parallel processing capabilities embedded applications
+ october announced new amd embedded r series soc processors designed broad variety embedded applications
+ processors incorporate newest amd bit x cpu core excavator plus third generation graphics core next gpu architecture power management minimize energy consumption
+dense server systems
+ part strategy simplify sharpen investment focus decided first quarter exit dense server systems business formerly seamicro
+amd continues provide warranty extended support existing installed base seamicro dense server systems longer selling dense server systems offering additional extended support
+semi custom
+ semi custom products tailored high performance customer specific solutions based amd s cpu gpu multi media technologies
+ work closely together customers define solutions precisely match requirements device application
+historically leveraged core graphics processing technology game console market licensing graphic technology game consoles microsoft xbox nintendo wii wii u
+ recently developed semi custom soc products power sony playstation microsoft xbox game consoles
+marketing sales sell products direct sales force independent distributors sales representatives domestic international markets
+ sales arrangements generally operate basis product forecasts provided particular customer typically include commitment requirement minimum product purchases
+ primarily use purchase orders sales order acknowledgments contractual agreements evidence sales arrangements
+ agreements typically contain standard terms conditions covering matters payment terms warranties indemnities issues specific products
+ generally warrant products sold customers will conform approved specifications free defects material workmanship normal use service year
+subject certain exceptions also offer year limited warranty end users cpu amd series apu products purchased individually packaged products commonly referred processors box pc workstation products
+ also offered extended limited warranties certain customers tray microprocessor products workstation graphics products written agreements us target computer systems commercial embedded markets
+ market sell latest products amd trademark
+ desktop pc product brands microprocessors amd series amd e series amd fx cpu amd athlon cpu apu amd sempron apu cpu amd pro series apu
+ notebook s microprocessors amd series amd e series amd c series amd z series amd fx apu amd phenom amd athlon cpu apu amd turion amd sempron apu cpu
+ server brand microprocessors amd opteron
+ also sell low power versions amd opteron amd athlon amd sempron well amd geode amd r series g series processors embedded processor solutions
+ product brand consumer graphics market amd radeon amd embedded radeon product brand embedded graphics market
+ product brand professional graphics products amd firepro
+ also market sell chipsets amd trademark
+ market products direct marketing co marketing programs
+ addition cooperative advertising marketing programs customers third parties including market development programs pursuant may provide product information training marketing materials funds
+ co marketing development programs eligible customers can use market development funds reimbursement advertisements marketing programs related products third party systems integrating products subject meeting defined criteria
+customers microprocessor customers consist primarily original equipment manufacturers oems original design manufacturers odms system builders independent distributors domestic international markets
+odms provide design manufacturing services branded unbranded private label resellers oems system builders
+ graphics product customers include foregoing well add board manufacturers aibs
+customers chipset products consist primarily pc server oems often odms contract manufacturers build oem motherboards well desktop server motherboard manufacturers incorporate chipsets channel motherboards
+ work closely customers define product features performance timing new products products developing meet customers needs
+ also employ application engineers assist customers designing testing qualifying system designs incorporate products
+ believe commitment customer service design support improves customers time market fosters relationships encourage customers use next generation products
+ work closely customers create differentiated products leverage cpu gpu apu technology
+customers semi custom products pay us non recurring engineering fees design development services purchase price resulting semi custom products
+collectively top five customers accounted approximately net revenue year ended
+ microsoft corporation sony corporation accounted consolidated net revenues
+sales microsoft sony consisted primarily products enterprise embedded semi custom segment
+five customers accounted approximately net revenue attributable computing graphics segment
+ addition five customers including sony microsoft accounted approximately net revenue attributable enterprise embedded semi custom segment
+ loss customers material adverse effect business
+original equipment manufacturers focus types oem customers multi nationals selected regional accounts target market customers
+large multi nationals regional accounts core oem customers
+ oem customers include numerous foreign domestic manufacturers servers workstations desktops notebooks pc motherboards game consoles
+third party distributors authorized channel distributors resell sub distributors mid sized smaller oems odms
+typically distributors handle wide variety products may include compete products
+distributors typically maintain inventory products
+ instances agreements distributors protect inventory products price reductions provide return rights respect product removed price book months older manufacturing code date
+ addition agreements distributors may contain standard stock rotation provisions permitting limited levels product returns
+add board aib manufacturers system integrators offer compnt level graphics chipset products aib manufacturers turn build sell board level products using technology system integrators sis retail buyers
+ agreements aibs protect inventory products price reductions
+ also sell directly si customers
+sis typically sell positions regional product based strength market
+ usually operate short design cycles can respond quickly new technologies
+sis often use discrete graphics solutions means differentiate products add value customers
+competition generally ic industry intensely competitive
+products typically compete timely product introductions product quality including enabling state art visual experiences power consumption including battery life reliability processor clock speed performance size form factor selling price cost adherence industry standards creation open industry standards level integration software hardware compatibility stability brand recognition availability
+technological advances industry can result frequent product introductions regular price reductions short product life cycles products increased product capabilities may result significant performance improvements
+ ability compete depends ability develop introduce sell new products enhanced versions existing products timely basis competitive prices competitive costs
+competition microprocessor chipset market intel corporation market share leader microprocessors many years
+intel s market share margins significant financial resources enable market products aggressively target customers channel partners special incentives influence customers business us
+ aggressive activities past likely future result lower unit sales lower average selling price many products adversely affect margins profitability
+intel exerts substantial influence computer manufacturers channels distribution various brand marketing programs
+ result intel s position microprocessor market intel able control x microprocessor computer system standards benchmarks dictate type products microprocessor market requires us
+intel also dominates computer system platform includes core logic chipsets graphics chips motherboards compnts necessary assemble computer system
+oems purchase microprocessors computer systems highly dependent intel can make less innovative large extent can become distributors intel technology
+additionally intel able drive de facto standards specifications x microprocessors cause us companies delayed access standards
+ long intel remains dominant position may materially adversely affected intel s business practices including rebating allocation strategies pricing actions may limit market share margins product mix introduction schedules product bundling marketing merchandising strategies exclusivity payments current potential customers channel partners require result exclusive product arrangements de facto control industry standards heavy influence pc manufacturers pc industry participants including motherboard memory chipset basic input output system bios suppliers software companies well graphics interface intel platforms marketing advertising expenditures support positioning intel brand brand oem customers
+intel substantially greater financial resources accordingly spends substantially greater amounts marketing research development 
+ expect intel maintain market position continue invest heavily marketing research development new manufacturing facilities technology companies
+ extent intel manufactures significantly larger portion microprocessor products using advanced process technologies introduces competitive new products market may vulnerable intel s aggressive marketing pricing strategies microprocessor products
+ example intel introduced microprocessors low cost notebooks similar products offer low cost notebooks
+intel also take actions place discrete gpus competitive disadvantage including giving competitors graphics market nvidia corporation preferential access proprietary graphics interface useful information
+intel s position microprocessor market integrated graphics chipset market introduction competitive new products existing relationships top tier oems aggressive marketing pricing strategies result lower unit sales lower average selling price products material adverse effect us
+ competitors include variety companies providing developing arm based designs relatively low cost low power processors computing market including tablets thin client form factors well dense servers set top boxes gaming consoles
+arm holdings designs licenses arm architecture third parties including us offers supporting software services
+ ability compete companies use arm based solutions depends ability timely design bring market energy efficient high performing products attractive price point
+ chipset market competitors include suppliers igp chipsets
+pc manufacturers use igp chipsets typically cost less traditional discrete gpus offering acceptable graphics performance mainstream pc users
+intel also leverages dominance microprocessor market sell igp chipsets
+intel manufactures sells igp chipsets bundled microprocessors main competitor market
+competition graphics markets graphics market competitors include suppliers discrete graphics embedded graphics processors igp chipsets
+intel manufactures sells embedded graphics processors igp chipsets dominant competitor respect portion business
+higher unit shipments apus intel s integrated graphics may drive computer manufacturers reduce number systems build paired discrete graphics compnts particularly notebooks may offer satisfactory graphics performance mainstream pc users lower cost
+intel take actions place discrete gpus igp chipsets competitive disadvantage giving competitors graphics market nvidia corporation preferential access proprietary graphics interface useful information
+ principal competitor graphics market nvidia
+amd nvidia principal players offering discrete graphics solutions
+ competitors include number smaller companies may greater flexibility address specific market needs less financial resources especially believe growing complexity graphics processors associated research development costs represent increasingly higher barrier entry market
+ semi custom game console products graphics performance critical compete primarily nvidia also compete imagination technology group
+research development focus research development activities improving product performance enhancing product design
+ main area focus delivering next generation cpu gpu ip designing ip socs next generation products case improved system performance performance per watt characteristics
+ example focusing improving battery life microprocessors apu products notebooks power efficiency microprocessors servers
+ also focusing delivering range low power integrated platforms serve key markets including commercial clients mobile computing gaming media computing
+ believe platforms will bring customers increased performance energy efficiency
+ also work industry leaders process technology software functional intellectual property work others industry industry consortia conduct early stage research development
+ research development expenses approximately billion billion billion respectively
+ information see item management s discussion analysis financial condition results operations 
+ conduct product system research development activities products united states additional design development engineering teams located china canada india singapore taiwan israel
+manufacturing arrangements assembly test facilities third party wafer foundry facilities globalfoundries march entered wafer supply agreement wsa globalfoundries gf
+ wsa governs terms purchase products manufactured gf related party us
+pursuant wsa required purchase microprocessor apu product requirements certain portion gpu product requirements gf limited exceptions
+ information wsa see item management s discussion analysis financial condition results operations globalfoundries 
+taiwan semiconductor manufacturing company
+ also foundry arrangements taiwan semiconductor manufacturing company tsmc production wafers certain products
+ third party manufacturers
+ outsource board level graphics product manufacturing third party manufacturers
+assembly test mark packaging facilities operate assembly test mark packaging facilities subject transaction noted 
+ wafers products delivered third party foundries assembly test mark packaging facilities
+ assembly test mark packaging facilities described chart set forth facility location approximate manufacturing area square footage activity penang malaysia assembly test mark packaging suzhou china assembly test mark packaging remaining wafers products delivered third party foundries test assembly packaging partners located asia pacific region package test final semiconductor products
+ october entered equity interest purchase agreement equity interest purchase agreement nantong fujitsu microelectronics chinese joint stock company jv party will sell jv party majority equity interests amd technologies china wholly foreign owned enterprise incorporated limited liability company chinese target company advanced micro devices export sdn
+bhd
+ malaysian limited liability company malaysian target company together chinese target company target companies thereby forming joint ventures collectively jvs jv party transaction valued approximately million transaction
+ jv party will acquire equity interests jv approximately million estimate will receive approximately million cash net taxes customary expenses
+ closing jv party s affiliates will equity interests jv certain subsidiaries will remaining
+ transaction will result jvs providing assembly testing marking packing packaging services atmp us
+ plan account investment jvs equity method accounting transaction expected close first half pending successful completion regulatory approvals
+intellectual property licensing rely contracts intellectual property rights protect products technologies unauthorized third party copying use
+intellectual property rights include copyrights patents patent applications trademarks trade secrets maskwork rights
+ december approximately patents united states approximately patent applications pending united states
+ certain cases filed corresponding applications foreign jurisdictions
+including united states foreign matters approximately patent matters worldwide consisting approximately issued patents patent applications pending
+ expect file future patent applications united states abroad significant inventions deem appropriate
+ believe individual patent expiration patent material business
+ typical semiconductor industry numerous cross licensing technology exchange agreements companies transfer receive technology intellectual property rights
+ agreement cross license agreement entered intel november
+ cross license agreement granted intel intel granted us non exclusive royalty free licenses s patents first filed later november party can exploit patents anywhere world making selling certain semiconductor electronic related products
+ cross license agreement intel rights make semiconductor products third parties third party product designs licensed result manufacture
+ rights perform assembly testing third parties rights make semiconductor products third parties
+ term cross license agreement continues expiration last expire licensed patents unless earlier terminated
+ party can terminate cross license agreement rights licenses party party materially breaches cross license agreement correct noticed material breach within days
+upon termination terminated party s license rights terminate terminating party s license rights continue subject party s continued compliance terms cross license agreement
+ cross license agreement will automatically terminate party undergoes change control defined cross license agreement parties licenses will terminate
+upon bankruptcy party party may assume may assign cross license agreement event cross license agreement assumed cross license agreement licenses granted will terminate
+backlog sales made primarily pursuant purchase orders current delivery agreements covering purchases period time
+ orders agreements may revised canceled without penalty
+generally light current industry practice believe orders agreements provide meaningful backlog figures necessarily indicative actual sales succeeding period
+seasonality operating results tend vary seasonally
+ example historically first quarter pc product sales generally lower fourth quarter sales
+ addition respect semi custom soc products game consoles expect sales patterns follow seasonal trends consumer business sales first half year lower sales second half year
+employees december approximately employees
+environmental regulations operations properties past continue subject various united states foreign environmental laws regulations including relating materials used products manufacturing processes discharge pollutants environment treatment transport storage disposal solid hazardous wastes remediation contamination
+ laws regulations require us obtain permits operations including discharge air pollutants wastewater
+although management systems designed maintain compliance assure will times complete compliance laws regulations permits
+ violate fail comply range consequences result including fines suspension production alteration manufacturing processes import export restrictions sales limitations criminal civil liabilities sanctions
+ also held liable consequences arising exposure hazardous materials used stored released disposed us located emanating facilities environmental natural resource damage
+ budgeted foreseeable associated expenditures assure future environmental legal requirements will become stringent costly future
+therefore assure costs complying current future environmental health safety laws liabilities arising past future releases exposure hazardous substances will material adverse effect us
+environmental laws complex change frequently tended become stringent time
+ example european union eu china among growing number jurisdictions enacted restrictions use lead materials electronic products
+ regulations affect semiconductor devices packaging
+ regulations restricting materials electronic products continue increase around world risk cost quality manufacturing yields products subject restrictions may less favorable compared products subject restrictions transition compliant products may meet customer roadmaps produce sudden changes demand may result excess inventory
+ number jurisdictions including eu australia china developing finalized market entry public procurement regulations computers servers based energy star specifications well additional energy consumption limits
+ potential certain products excluded markets materially adversely affect us
+certain environmental laws including u s
+comprehensive environmental response compensation liability act superfund act impose strict certain circumstances joint several liability current previous owners operators real property cost removal remediation hazardous substances impose liability damages natural resources
+ laws often impose liability even owner operator know responsible release hazardous substances
+ environmental laws also assess liability persons arrange hazardous substances sent disposal treatment facilities facilities found contaminated
+ persons can responsible cleanup costs even never owned operated contaminated facility
+ named responsible party superfund sites sunnyvale california
+although yet named potentially responsible party superfund contaminated sites future
+ addition contamination yet identified exist facilities
+ dodd frank wall street reform consumer protection act securities exchange commission sec adopted disclosure reporting requirements companies use conflict minerals originating democratic republic congo adjoining countries
+ continue incur additional costs associated complying requirements costs related developing internal controls due diligence process determining source conflict minerals used products auditing process reporting customers sec
+also since supply chain complex may face reputational challenges unable sufficiently verify origins subject minerals
+moreover likely encounter challenges satisfy customers require compnts products certified conflict free
+ satisfy customers may choose competitor s products
+item 

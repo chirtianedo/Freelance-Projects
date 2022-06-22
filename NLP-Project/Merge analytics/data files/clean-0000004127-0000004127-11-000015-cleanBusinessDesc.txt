@@ -1,0 +1,109 @@
+item business skyworks solutions together consolidated subsidiaries skyworks company innovator high reliability analog mixed signal semiconductors
+leveraging core technologies skyworks offers diverse standard custom linear products supporting automotive broadband cellular infrastructure energy management industrial medical military cellular handset applications
+ company s portfolio includes amplifiers attenuators circulators detectors diodes directional couplers front end modules hybrids infrastructure rf subsystems isolators mixers demodulators optocouplers optoisolators phase shifters plls synthesizers vcos power dividers combiners receivers switches technical ceramics
+ portfolio includes highly customized power amplifiers front end solutions many today s cellular handsets entry level multimedia platforms well smart phs
+ primary customers include foxconn lg electronics motorola nokia samsung sony ericsson research motion htc
+ competitors include avago technologies rf micro devices triquint semiconductor
+ parallel offer different high performance analog products highly diversified non handset customer base
+ customers include connectivity infrastructure automotive energy management medical military providers huawei ericsson cisco phillips toshiba sensus itron siemens northrop grumman
+ competitors analog products markets include analog devices hittite microwave linear technology maxim integrated products
+ acquisition sige semiconductor sige june company expanded rf front end solutions facilitate wireless multimedia across wide range applications
+ acquisition sige complements company s leadership wide area front end solutions adding sige s innovative short range silicon based products
+ result company now offers customers comprehensive wireless nerking product portfolio supporting key operating frequencies greater architectural flexibility address variety high growth applications
+ addition company acquired private company engaged design manufacturing optical compnts april headquartered woburn massachusetts company delaware corporation formed company changed corporate name alpha industries skyworks solutions june following business combination
+ worldwide operations engineering manufacturing sales service facilities throughout asia europe north america
+ internet address www skyworksinc com
+ make available website annual report form k quarterly reports form q current reports form k section filings forms amendments reports soon practicable electronically submit material sec
+ information contained website incorporated reference annual report
+ may read copy materials filed sec sec public reference room located f street n e
+washington d c
+
+please call sec sec information public reference room
+ sec filings also available public sec s internet website www sec gov
+industry background believe several key growth trends shaping wireless industry
+first advent mobile internet consumers increasingly demanding mobile devices faster data rates advanced image quality improved internet connectivity
+ believe demand biggest growth trends technology
+ high end cellular handset market smart ph growth heart mobile internet phenomenon fostering industry wide sea change
+ effect smart ph becoming increasingly mainstream communication platform changing way live work play
+social media social nerking sites fueling trend
+furthermore segment embraced widely promoted carriers benefit highly profitable data services revenue stream subscribers move enhanced data plans
+ increased presence multimedia rich mobile devices led manufacturers recognize increasingly important role multimode multiband solutions play rapidly evolving wireless handset market particularly industry migrates g technologies enable applications web browsing video streaming gaming mp players cameras higher speeds data rates
+next generation edge wedge wcdma lte wireless platforms now used majority half billion cellular phs industry produces annually results increasing complexity rf module new wireless platform operating frequency band requires additional amplifier filtering switching content support backward compatibility existing nerks simultaneous transmission voice data international roaming broadband functionality accommodate music video data multimedia features
+ given constraints handset size power consumption complex modules must remain physically small energy efficient cost effective also managing unprecedented level potential signal interference within handset
+finally direct result increasing rf complexity addressable semiconductor content within transmit receive chain portion mobile device increasing
+ believe trend creating incremental market opportunity measured billions dollars switching filtering wireless local area nerking functionality integrated
+meanwhile outside handset market proliferation wireless technologies broadening footprint within analog semiconductor applications increasing market opportunity
+according gartner leading independent market research firm total available market analog semiconductor segment expected exceed billion 
+today analog semiconductor market characterized longer product lifecycles relatively high gross margins fragmented diversified among various end markets customer bases applications including infrastructure automotive catv satcom smart energy medical military rfid test measurement wimax wlan skyworks strategy skyworks mission achieve mobile connectivity leadership semiconductor innovation
+key elements strategy include diversifying business leveraging core analog mixed signal technology skyworks able deliver solutions broad diverse set end markets customers
+ handset market currently support top tier manufacturers including leading smart ph suppliers strategic relationships key baseband vendor
+ high performance analog markets expect continue take advantage catalog business intellectual property worldwide distribution nerk plan bolster product pipeline expand addressable markets beyond approximately global customers analog compnts currently marketed
+gaining market share customer engagements increasingly centered solving highly complex multimode multiband switching filtering digital control amplification challenges system level requirements intersect skyworks core competencies
+skyworks continues invest developing architectures optimize power efficiency minimizing cost footprint believe will allow us meet customers demanding next generation technology requirements well stringent quality standards high volume manufacturing capabilities
+capitalizing content growth third fourth generation g g mobile communications technologies industry migrates multimode multiband edge wedge wcdma lte architectures across multitude wireless broadband applications rf complexity transmit receive chain substantially increases given simultaneous voice high speed data communications requirements coupled need backward compatibility existing nerks
+ result complexity rf module believe addressable market increasing significantly
+delivering operational excellence skyworks strategy either vertically integrate supply chain can create competitive advantage otherwise enter alliances strategic relationships leading edge capabilities
+ hybrid manufacturing approach allows us better balance external capacity demands marketplace
+internally capacity utilization remains high therefore able maintain margins achieve desired return invested capital broader range revenue
+ continue focus trying achieve industry s shortest product cycle times highest yields ultimately lowest product cost structure
+skyworks product portfolio product portfolio consists amplifiers modules strengthen signal sufficient energy reach base station attenuators circuits allow known source power reduced predetermined factor usually expressed decibels detectors intended use power management applications diodes semiconductor devices pass current direction directional couplers transmission coupling devices separately sampling forward backward wave transmission line front end modules power amplifiers integrated switches diplexers filters compnts create single package front end solution hybrid type directional coupler used radio telecommunications infrastructure rf subsystems highly integrated transceivers power amplifiers wireless base station applications isolators circulators ferrite based compnts commonly found output high power amplifiers used protect receivers wireless transmission systems
+mis silicon chip capacitors used applications requiring dc blocking rf bypassing fixed capacitance tuning element filters oscillators matching nerks mixers demodulators integrated high dynamic range zero architecture downconverter use wireless communication applications modulators designed direct modulation high frequency pm compound carriers optocouplers optoisolators semiconductor device allows signals transferred circuits systems ensuring circuits systems electrically isolated 
+phase locked loops pll closed loop feedback control system maintains generated signal fixed phase relationship reference signal phase shifters designed use power amplifier distortion compensation circuits base station applications power dividers combiners utilized equally split signals phase signals often found balanced signal chains local oscillator distribution nerks receivers electronic devices change radio signal transmitter useful information switches compnts perform change transmit receive function well band function cellular handsets synthesizers provides ultra fine frequency resolution fast switching speed low phase noise performance technical ceramics polycrystalline oxide materials used wide variety electrical mechanical thermal magnetic applications transceivers devices transmitter receiver combined share common circuitry single housing vcos synthesizers fully integrated high performance signal source high dynamic range transceivers believe possess broad technology capabilities complete wireless communications product portfolios industry
+ skyworks advantage turning complexity simplicity provide customers following competitive advantages broad front end module precision analog product portfolio market leadership key product segments solutions air interface standards including cdma gsm gprs edge lte wcdma wlan wimax engagements diverse set top tier customers analog rf mixed signal design capabilities strategic partnerships leading baseband providers integration key process technologies gaas hbt phemt bicmos sige cmos rf cmos silicon world class manufacturing capabilities scale superior product quality reliability unparalled level customer service technical support commitment technology innovation marketing distribution products primarily sold direct skyworks sales force
+ team globally deployed across major market regions
+ markets supplement direct sales effort independent manufacturers representatives
+ also utilize distribution partners franchised globally others focused specific regional markets e g
+europe north america asia
+ maintain internal corporate communications team responsible developing sales advertising literature print media product announcements catalogs well variety web based content
+skyworks sales engagement begins earliest stages customer design
+ strive provide close technical collaboration customers inception new programs
+ relationships allow team facilitate customer driven solutions leverage unique strength intellectual property product portfolio providing high value greatly reducing time market
+ believe technical complex nature products markets demand extraordinary commitment maintain close ongoing relationships customers
+ strive expand scope customer relationship include design engineering manufacturing purchasing project management
+ also employ collaborative approach developing relationships combining support design teams applications engineers manufacturing personnel sales marketing staff senior management
+ believe maintaining frequent interactive contact customers paramount continuous efforts provide world class sales service support
+ listening responding feedback able mobilize resources raise level customer satisfaction improve ability anticipate future product needs enhance understanding key market dynamics
+ confident diligence following path will position skyworks participate numerous opportunities growth future
+revenue dependence customers customer concentration information regarding customer concentration revenues external customers see note item annual report form k
+intellectual property proprietary rights license use numerous united states foreign patents patent applications related products manufacturing operations processes activities
+ addition number trademarks service marks applicable certain products services
+ believe intellectual property including patents patent applications trade secrets trademarks material importance business
+ rely patent copyright trademark trade secret intellectual property laws well non disclosure confidentiality agreements methods protect confidential proprietary technologies devices algorithms processes intellectual property
+ efforts may meaningfully protect intellectual property others may independently develop substantially equivalent superior proprietary technologies devices algorithms processes intellectual property
+ addition laws foreign countries protect proprietary rights extent laws united states effective copyright patent trademark trade secret protection may available jurisdictions
+ addition protecting proprietary intellectual property strive strengthen intellectual property portfolio enhance ability obtain cross licenses intellectual property others obtain access intellectual property possess favorably resolve potential intellectual property claims us
+furthermore seek generate high gross margin revenue sale license non core intellectual property occasionally purchase intellectual property
+due rapid technological changes industry believe establishing maintaining technological leadership position depends primarily ability develop new innovative products technical competence engineering personnel
+competitive conditions compete basis time market new product innovation overall product quality performance price compliance industry standards strategic relationships customers baseband vendors protection intellectual property
+certain competitors may able adapt quickly can new emerging technologies changes customer requirements may able devote greater resources development promotion sale products can
+research development products markets subject continued technological advances
+recognizing importance technological advances maintain high level research development activities
+ maintain close collaborative relationships many customers help identify market demands target development efforts meet demands
+ focus development efforts new products design tools manufacturing leveraging core technologies
+raw materials raw materials products manufacturing processes generally available several sources
+ policy depend sole source supply unless market conditions dictate otherwise
+consequently limited situations procure certain compnts services products single limited sources
+ purchase materials services primarily pursuant individual purchase orders
+however limited number long term supply contracts suppliers
+certain suppliers consign raw materials us manufacturing facilities
+ request raw materials take title needed manufacturing process
+ believe adequate sources supply raw materials compnts manufacturing needs suppliers located around world
+backlog inventory sales made primarily pursuant standard purchase orders delivery products purchase orders officially acknowledged us according terms conditions
+ also maintain skyworks owned finished goods inventory certain customer hub locations
+ recognize revenue customers consume skyworks owned inventory hub locations
+due industry practice allows customers cancel orders limited advance notice us prior shipment little penalty believe backlog particular date may reliable indicator future revenue levels
+ cancellation deferral product orders return previously sold products overproduction due change anticipated order volumes result reduction revenue us holding excess obsolete inventory result inventory write downs turn material adverse effect financial condition
+environmental regulations federal state local requirements relating discharge substances environment disposal hazardous wastes activities affecting environment will continue impact manufacturing operations
+ customers mandated products comply local regional lead free green initiatives
+ believe current expenditures environmental capital investment remediation necessary comply present regulations governing environmental protection expenditures resolution environmental claims will material adverse effect liquidity capital resources competitive position financial condition
+ unable assess possible effect compliance future requirements
+seasonality sales products subject seasonal fluctuation periods increased demand end user consumer applications cellular handsets
+ highest demand handset products generally occurs calendar quarter ending december
+ lowest demand handset products generally occurs calendar quarter ending march
+geographic information information regarding net revenue geographic region last fiscal years see note item annual report form k
+ majority tangible long lived assets located united states america mexico see note item
+risks attendant foreign operations discussed item risk factors
+employees september employed approximately persons
+approximately employees mexico covered collective bargaining agreements
+item 
+risk factors

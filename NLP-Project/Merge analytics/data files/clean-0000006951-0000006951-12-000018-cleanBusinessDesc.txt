@@ -1,0 +1,415 @@
+item business incorporated applied delaware corporation provides manufacturing equipment services software global semiconductor flat panel display solar photovoltaic pv related industries
+applied s customers include manufacturers semiconductor wafers chips flat panel liquid crystal displays lcds solar pv cells modules electronic devices
+ customers may use manufacture end products sell item companies use advanced electronic compnts
+applied s fiscal year ends last sunday october
+applied world s largest semiconductor fabrication equipment suppliers based revenue capability provide global deployment support services
+applied also leading supplier lcd fabrication equipment flat panel display industry leading supplier solar pv manufacturing systems solar industry based revenue
+applied operates four reportable segments silicon systems group applied global services display energy environmental solutions
+applied manages business based upon segments
+ summary financial information reportable segment found note notes consolidated financial statements
+ discussion factors affect operations set forth risk factors item incorporated herein reference
+ november applied completed acquisition varian semiconductor equipment associates varian leading supplier ion implantation equipment semiconductor solar industries
+ acquisition broadened applied s extensive portfolio technologies chip solar module manufacturing
+ acquired business included consolidated results operations results silicon systems group applied global services segments
+net sales reportable segment past fiscal years follows millions except percentages silicon systems group applied global services display energy environmental solutions total silicon systems group segment silicon systems group segment develops manufactures sells wide range manufacturing equipment used fabricate semiconductor chips also referred integrated circuits ics
+ chips built silicon wafer base include variety circuit compnts transistors devices connected multiple layers wiring interconnects
+applied offers systems perform primary processes used chip fabrication including atomic layer deposition ald chemical vapor deposition cvd physical vapor deposition pvd electrochemical deposition ecd rapid thermal processing rtp ion implantation chemical mechanical planarization cmp wet cleaning wafer metrology inspection well systems etch inspect circuit patterns masks used photolithography process
+applied s semiconductor manufacturing systems used integrated device manufacturers foundries build package memory logic types chips
+ chips currently fabricated using nanometer nm larger linewidth dimensions although applied also working customers leading edge technology advanced nodes using nm smaller dimensions
+ build chip transistors capacitors circuit compnts first created surface wafer performing series processes deposit selectively remove portions successive film layers
+similar processes used build layers wiring structures wafer
+ density circuit compnts increases enable greater computing capability smaller physical area complexity building chip also increases necessitating process steps form smaller structures intricate wiring schemes
+ typical simplified process sequence building wiring interconnect portion chip involves initially depositing dielectric film layer onto base layer circuit compnts using cvd system
+ etch system used create openings patterns dielectric layer
+ form metal interconnects openings patterns filled conducting material using pvd ecd technologies
+ cmp step polishes wafer achieve flat surface
+additional deposition etch cmp steps performed build layers needed complete interconnection circuit elements
+advanced chip designs require steps involving processes complete manufacturing cycle
+today s advanced interconnects made using copper main wiring material
+copper low resistance can carry large amount current small area allows signals travel quickly
+applied leading supplier systems manufacturing copper based interconnects including equipment depositing etching planarizing multi layer structures
+ company introduced applied endura amber pvd system uses innovative copper reflow technology achieve rapid void free fill interconnect structures virtually device node
+ increase speed interconnect signals even low dielectric constant low k films used insulate copper wiring
+applied also leads industry providing systems depositing low k dielectric films
+ company launched applied producer onyx process innovative film treatment optimizes molecular structure low k films enable higher device performance longer battery life
+ transistor another key area chip semiconductor manufacturers improving device designs enhance performance
+applied industry s largest portfolio technically advanced products building smaller faster transistors
+method enhancing chip performance strain engineering technique stretches compresses space atoms allowing electrical current flow quickly
+multiple strain films typically used advanced devices since additive effect increasing transistor speed
+applied comprehensive portfolio systems enable applications using cvd epitaxial deposition technologies
+major chipmakers integrating new high dielectric constant high k metal materials processes transistor gate structures increase chip performance reduce power consumption
+applied comprehensive portfolio fully characterized processes building high k metal gates
+ solutions include integrated dielectric gate stack tool combines four critical processes single system portfolio metallization technologies using ald pvd innovative high temperature etch system
+ address need higher performance smaller space driven new consumer products new type chip packaging emerging known dimensional d ics
+providing greater functionality smaller footprint d ics stack multiple chips together electrically connect using deep holes called silicon via tsv structures
+applied industry s comprehensive line production proven systems processes required majority advanced packaging manufacturing steps including etch cvd pvd ecd wafer cleaning cmp systems
+ company introduced applied producer optiva cvd system employs ultra low process temperatures deposit conformal insulating liner films tsvs
+ optiva system also used manufacture advanced image sensors used smartphs tablet pcs high end cameras covering microlens tough thin transparent film layer boosts low light performance sensor improving durability
+ chip manufacturers announced will employing new manufacturing methods enhance chip performance based new transistor designs replace traditional dimensional gate thin d gate
+ new structure targeted nm technology node improves performance energy efficiency chip
+ applied centura conforma system uses conformal plasma doping technology modify electrical properties d planar transistor structures
+chip manufacturers also beginning employ d architectures advanced memory chips provide higher density storage capability
+ structures require precise etching exceptionally deep narrow structures
+ company launched applied centura avatar dielectric etch system can etch holes trenches depth width aspect ratios
+ applied s semiconductor equipment products single wafer systems multiple process chambers attached base platform
+ enables wafer processed separately environment allowing precise process control system s multiple chambers enable simultaneous high productivity manufacturing
+applied sells single wafer multi chamber systems six basic platforms endura centura producer raider viista vantage platforms
+ platforms support ald cvd ecd pvd etch ion implantation rtp technologies
+ time semiconductor industry migrated increasingly larger wafers build chips
+ predominant common wafer size used today volume production advanced chips millimeter mm inch wafers
+applied offers comprehensive range mm systems silicon systems group segment
+applied also offers earlier generation mm systems well products services support systems reported applied global services segment
+ following summarizes portfolio products associated process technology areas reported silicon systems group segment
+deposition deposition fundamental step fabricating chip
+ deposition layers dielectric insulator barrier electrically conductive typically metal films deposited grown wafer
+applied provides equipment perform four types deposition ald cvd ecd pvd
+ addition applied s rtp systems can used perform certain types dielectric deposition
+atomic layer deposition ald advanced technology atoms deposited layer time build chip structures
+ technology enables customers fabricate thin films either conducting insulating material uniform coverage nanometer sized structures
+ critical areas transistor gate built depositing layers dielectric films
+ nm node film layers thin must atomically engineered
+ applied centura integrated gate stack system features advanced ald technology builds ultrathin high k film layers less nm thickness hundred thousandth width human hair
+chemical vapor deposition cvd used deposit dielectric metal films wafer
+ cvd process gases contain atoms material deposited react wafer surface forming thin film solid material
+films deposited cvd may silicon oxide single crystal epitaxial silicon amorphous silicon silicon nitride dielectric anti reflective coatings low k dielectric highly efficient insulating materials aluminum titanium titanium nitride polysilicon tungsten refractory metals silicides
+applied offers following cvd products technologies applied producer cvd platform high throughput platform features twin chamber modules single wafer process chambers per unit
+ twin chamber modules can mounted producer platform giving simultaneous processing capacity six wafers
+many dielectric cvd processes can performed platform
+ highest productivity model system applied producer gt features fast wafer handling performance compact design
+low k dielectric films low k dielectric materials used copper based chip designs improve interconnect speed
+using conventional cvd equipment applied producer black diamond family low k systems provides customers proven cost effective way integrate variety low k films advanced interconnect structures
+ company s latest third generation low k technologies featured applied producer black diamond system applied producer nanocure system
+together products designed enable smaller higher performance power efficient devices nm 
+lithography enabling solutions applied offers several technologies producer system help chipmakers extend current nm lithography tools including line applied apf advanced patterning film films applied darc dielectric anti reflective coating films
+together provide film stack precise dimensional control compatibility needed cost effectively pattern nano scale features without additional integration complexity
+gap fill films many steps chipmaking process small deep high aspect ratio har structures must filled void free dielectric film
+many applications include deposition silicon oxides substrate isolation structures contacts interconnects
+applied s advanced gap fill system applied producer eterna fcvd system
+targeted nm chips eterna system delivers liquid like film flows freely virtually structure provide void free dielectric fill
+strain engineering solutions applied producer harp system plays key role enhancing transistor performance enabling chipmakers boost chip speed depositing strain inducing dielectric films
+offering industry s first integrated stress nitride deposition ultraviolet uv cure solution applied producer celera cvd delivers benchmark levels high stress tensile silicon nitride films
+ company also offers applied centura singenplus low pressure cvd system low temperature silicon nitride films
+used together conjunction silicon germanium sige films using applied s epitaxial deposition technologies systems can provide additive strain engineering benefits
+ silicon via films applied comprehensive portfolio products tsv fabrication including applied producer invia system
+ product uses unique process deposit critical oxide liner film layer har tsv structures enabling robust electrical isolation tsv vital reliable device performance
+ applications higher temperatures can damage manufacturing process applied producer avila cvd system applied producer optiva cvd system allow high quality dielectric film deposition stable substrate temperatures low cost ownership
+epitaxial deposition epitaxial silicon epitaxy epi layer pure silicon grown uniform crystalline structure wafer form high quality base device circuitry
+epi technology used increasing number integrated circuit devices wafer substrate transistor areas chip enhance speed
+ applied centura epi system integrates pre post epi processes system improve film quality reduce production costs
+ system also used sige epi technology reduces power usage increases speed certain types advanced chips
+ emerging transistor designs applied centura rp epi system offers selective epi processes enable faster transistor switching strain engineering techniques
+polysilicon deposition polysilicon type silicon used form portions transistor structure within integrated circuit device
+ applied centura polygen lpcvd system single wafer multi chamber product deposits thin polysilicon films high temperatures create transistor gate structures
+ address challenging requirements shrinking gate dimensions applied centura dpn gate stack system integrates chambers decoupled plasma nitridation dpn rtp anneal polysilicon deposition platform enable superior film quality material properties
+tungsten deposition tungsten used contact area chip connects transistors wiring circuitry
+ aluminum based devices tungsten also used structures connect multiple layers aluminum wiring
+applied products depositing tungsten applied centura sprint tungsten cvd system nm devices applied centura isprint ald cvd system advanced applications
+ latter product combines ald technology cvd chambers platform
+electrochemical deposition electrochemical deposition process metal atoms chemical fluid electrolyte deposited surface immersed object
+ main application semiconductor industry deposit copper interconnect wiring structures
+ process step follows deposition barrier seed layers prevent copper contaminating areas device improve adhesion copper film enable electrodeposition occur
+applied offers ecd systems applied raider gt ecd system electroplating advanced chip interconnect structures applied raider s ecd system advanced tsv packaging applications
+physical vapor deposition pvd physical process atoms gas argon accelerated toward metal target
+ metal atoms chip sputter away deposited wafer
+ applied endura pvd system offers broad range advanced metal deposition processes including aluminum aluminum alloys cobalt titanium titanium nitride tantalum tantalum nitride tungsten tungsten nitride nickel vanadium copper
+introduced years ago company s applied endura platform successful metal deposition system history semiconductor industry
+ applied endura cubs copper barrier seed pvd system widely used customers fabricating copper based chips
+using pvd technology system deposits tantalum based barrier film prevents copper material entering areas device copper seed layer primes structure subsequent deposition bulk copper
+ applied endura cubs rfx pvd system extends cost effective cubs technology nm node
+ applied endura avenir rf pvd system sequentially deposits multiple metal film layers form heart industry s new faster metal gate transistors
+ applied endura ilb pvd ald system advances state art ald technology enabling customers shrink speed critical contact structures nm devices
+applied s endura system also used many years back end applications deposit metal layers final bump wire bonding packaging steps performed
+additionally applied charger ubm pvd system specifically designed bump metallization ubm back end processes features linear architecture reliable performance high productivity low cost per wafer
+etch etching used many times throughout integrated circuit manufacturing process selectively remove material surface wafer
+ etching begins wafer coated light sensitive film called photoresist
+ photolithography process projects circuit pattern onto wafer
+etching removes material areas dictated photoresist pattern
+applied offers wide range systems etching dielectric metal silicon films meet requirements advanced processing
+applied s producer etch system utilizes twin chamber producer platform target cost sensitive dielectric etch applications
+ address advanced dielectric etch applications applied centura enabler e etch system enables customers create har contact features critical yield performance nm dram flash memory chips
+ applied centura carina system uses innovative high temperature technology deliver etch capability essential scaling logic memory devices high k metal gates nm 
+ etching silicon applied centris advantedge mesa system features eight process chambers high wafer output proprietary system intelligence software assure every process every chamber precisely matches
+ system also saves power water gas consumption helping customers lower operating costs support sustainable manufacturing initiatives
+ applied centura mariana trench etch system provides customers capability scale dram capacitors enabling etching aspect ratio structures
+ applied centura silvia system specifically designed etching small deep holes tsv applications d ics
+ etching metals applied opus advantedge metal etch system uses optimized chamber platform configuration enables customers extend aluminum interconnect technology productivity flash dram memory applications
+rapid thermal processing rtp process wafer subjected rapid bursts intense heat can take wafer room temperature degrees celsius less seconds
+ rapid thermal process used mainly annealing modifies properties deposited films
+ applied centura radiance plus applied vantage radox rtp systems feature advanced rtp technology differing platform designs
+ multi chamber centura platform offers exceptional process flexibility streamlined chamber vantage platform designed dedicated high volume manufacturing
+ single wafer rtp systems also used growing high quality oxide oxynitride films deposition steps traditional large batch furnaces can longer achieve necessary precision control
+applied s latest rtp systems address critical need controlling wafer temperature increase chip performance yield
+ laser based applied vantage astra millisecond anneal system abruptly raises surface temperature wafer locally modify material properties atomic level
+ applied vantage vulcan system first rtp system heat wafer entirely backside brings new level precision control anneal process allowing chipmakers produce high performance devices per wafer
+ion implantation ion implantation key technology forming transistors used many times chip fabrication
+ ion implantation wafers bombarded beam electrically charged ions called dopants change electrical properties exposed surface films
+ dopants accelerated energy permits penetrate substrate precise quantity depth
+dopant concentration determined controlling number ions beam number times wafer passes beam depth dopants determined energy beam
+ion implantation systems may also used areas ic manufacturing modify material properties semiconductor devices well manufacturing crystalline silicon solar cells
+ result applied s acquisition varian applied now offers comprehensive line single wafer ion implantation equipment covers entire energy current range required manufacture advanced devices
+ viista xp implanter delivers angle precision required advanced high energy applications viista xp implanter provides medium current doping industry s highest implant productivity
+ viista plad implanter enables manufacturers rapidly implant high dopant concentrations entire wafer using low energy process preserves sensitive circuit features next generation devices
+ applied introduced viista trident high current ion implanter provides precise dose angle control needed advanced transistor structures
+ acquisition varian applied also acquired ion implantation technology c si cell manufacturing
+ applied solion tm ion implanter provides unique advantages traditional thermal diffusion doping create higher efficiency p n junctions electronic pathways cell
+ solion system based successful viista ribbon beam architecture provides precision process control needed support advanced solar cell structures
+chemical mechanical planarization cmp process removes material wafer create flat planarized surface
+ process allows subsequent photolithography patterning steps occur greater accuracy enables film layers build minimal height variations
+applied led industry mm applied reflexion lk system features integrated cleaning film measurement process control capabilities
+applied s latest cmp product applied reflexion gt system innovative dual wafer design increases performance lowering system cost ownership fabricating copper interconnects tungsten contacts
+surface preparation cleaning surface wafer critical adhesion quality films subsequently deposited chip fabrication process
+applied offers several surface preparation systems
+ applied raider sp tool can incorporate several types cleaning methods including spray vapor immersion megasonics anneal technologies automated single dual side wafer processing high volume manufacturing
+metrology wafer inspection applied offers several products measuring features inspecting defects wafer various stages fabrication process
+ systems enable customers characterize control critical dimension cd defect issues especially advanced generation technology nodes
+critical dimension defect review scanning electron microscopes cd sems dr sems scanning electron microscopes sems use electron beam form images microscopic features patterned wafer extremely high magnification
+applied s sem products provide customers full automation along high accuracy sensitivity needed measuring small cds
+ applied veritysem metrology system uses proprietary sem imaging technology enable precise control lithography etching processes measuring cds precision less nm
+applied s opc check software veritysem system performs automated qualification opc based optical proximity correction chip designs significantly reducing mask see mask making section verification time conventional manual methods
+dr sems review defects wafer particles scratches residues first located defect detection system classify defects identify source
+ high throughput fully automatic applied semvision defect analysis products enable customers use technology integral part production lines analyze defects small nm industry leading throughput
+wafer inspection using deep ultraviolet duv laser based technology defects can detected patterned wafers wafers printed circuit images move processing steps
+defects include particles open circuit lines shorts lines
+ applied uvision wafer inspection system detects yield limiting defects critical patterning layers nm logic memory devices
+applied also offers applied dfinder system first darkfield wafer inspection system use duv laser scanning detect particles small nm interconnect layers
+mask making masks used photolithography systems transfer microscopic circuit designs onto wafers
+since imperfection mask may replicated wafer mask must virtually defect free
+applied provides systems etching inspecting masks
+applied s tetra line systems used mask makers worldwide etch majority high end masks last five years
+ applied centura tetra euv extreme ultraviolet advanced reticle etch system advanced etch tool fabricating leading edge masks nm 
+ applied aera mask inspection system also addresses challenges detecting defects nm masks using sophisticated aerial imaging technology allows users immediately see pattern mask will appear wafer revealing defects likely print significantly reducing inspection time
+ systems also address challenge fabricating emerging euv lithography masks
+applied global services segment applied global services segment encompasses products services designed improve performance productivity reduce environmental impact fab operations semiconductor lcd solar pv manufacturers
+ depth expertise best known methods applied s extensive global support infrastructure enable applied continuously support customers production requirements
+trained customer engineers process support engineers deployed dozen countries
+ engineers usually located near customers fab sites service installed applied systems well non applied systems
+applied offers following general types services products applied global services segment fab equipment services applied offers portfolio fab wide operations services maintain optimize customers fabrication facilities
+applied performance services offers customers comprehensive equipment support performance based pricing predictable costs enable improved cost ownership
+included program applied s expertconnect remote diagnostic capability providing expert support around clock
+ addition value added services applied offers fabvantage team technology equipment engineering experts provide key insights helping customers solve difficult manufacturing challenges
+applied also offers total parts management program spare parts manufactured applied s strict technical specifications quality standards
+ addition applied offers wide range products services extend productive life mm semiconductor fabs including new remanufactured mm equipment system enhancements fab transition services
+designed maximize productivity lower cost ownership products also assist customers implementing green manufacturing solutions
+applied s mm systems available broad range production proven technologies including cvd pvd etch implant rtp cmp epitaxy metrology inspection tools
+automation systems applied offers automated factory level tool level control software systems semiconductor lcd solar pv manufacturing facilities
+ enterprise solutions include manufacturing execution systems mes automate production wafers lcd solar substrates advanced process control systems scheduling materials handling control systems
+ applied smartfactory mes software factory automation solution designed help accelerate production ramp emerging technologies solar pv chip packaging light emitting diode led applications
+applied also offers computerized maintenance management systems performance tracking modeling simulation tools improving asset utilization
+applied s e equipment engineering system solution example integrates critical equipment automation process control compnts
+ applied smartsched system semiconductor industry s first predictive scheduling solution optimizing movement wafers lithography process reduce cycle time increase tool utilization
+thin film solar result applied s restructuring energy environmental solutions segment fiscal company discontinued sales new customers fully integrated sunfab thin film solar production lines continues support existing sunfab customers services upgrades capacity increases applied global services segment
+thin film solar technologies suitable large scale applications utility scale solar farms commercial rooftops space constraint
+display segment applied s products manufacturing thin film transistor liquid crystal displays tft lcds televisions personal computers pcs tablet pcs smartphs consumer oriented electronic applications reported display segment
+ similarities exist technologies utilized chipmaking lcd fabrication significant differences size composition substrate
+substrates used manufacture lcd panels can times larger area mm wafers made glass wafers used semiconductor fabrication made silicon
+applied supplies wide range systems process test different glass substrate sizes
+ meet consumer demand larger cost effective lcd tvs applied s latest generation gen systems can process substrates sized approximately x meters substrate enabling production six inch lcd tv screens
+applied also extending core lcd technology enable ultra high resolution displays next generation smartphs tablet pcs organic led oled tvs
+ higher performance displays fabricated using newer materials low temperature polysilicon ltps metal oxide films transistor layer panel gain significantly faster switching speeds
+ applied added line plasma enhanced cvd pecvd systems depositing ltps films akt k px akt k px akt k px systems
+ cvd systems offered range display substrate sizes enable manufacturers achieve economies scale
+ applied also introduced technology fabricating advanced metal oxide based transistors displays
+ akt pivot pvd system features rotary cathode array technology deposits indium gallium zinc oxide izgo film form transistor channel
+ akt pecvd system used deposit dielectric film needed insulate transistor gate
+together systems offer cost effective solution producing smaller faster switching pixels create higher resolution screens
+ manufacturing color filter lcd panels applied offers akt new aristo system transparent conductive oxide film deposition
+providing customers new levels productivity flexibility applied akt aristotwin system used manufacturing touch enabled displays
+ system features independent processing tracks single system enabling customers achieve capacity using half manufacturing space
+ complement systems applied also offers line electron beam array test ebt systems testing substrates production defective pixels imperfections including gen akt k ebt product
+featuring industry s fastest accurate pixel test technologies lowest operating cost ebt systems non contact test technology enables safe testing high value lcd tv panels without damaging scratching display
+energy environmental solutions segment energy environmental solutions segment includes manufacturing systems produce products generation conservation energy
+ increase conversion efficiency yields solar pv devices help reduce cost per watt solar generated electricity applied offers manufacturing solutions wafer based crystalline silicon c si applications
+applied s portfolio solar pv wafer cell fabrication technologies made leading suppliers c si equipment worldwide terms revenue
+ addition innovative technology systems offer key manufacturing benefits customers high productivity advanced ultra thin wafer handling extensive automation
+wafer manufacturing applied s precision wafering systems crop square silicon ingots bricks slice silicon bricks thin wafers
+ wafers subsequently processed cell manufacturing systems create pv cells used making c si solar panels
+ applied hct wire saw cropper squarer systems cut silicon ingots bricks high productivity minimal silicon loss
+ applied hct b wire saw designed large load capacity volume manufacturing unique four position architecture provides load flexibility optimizing yield productivity
+cell manufacturing applied offers comprehensive line automated metallization test systems c si cell manufacturing applied baccini products
+ systems include high precision printing capability increasing efficiency c si solar cells
+ latest metallization system applied baccini pegaso platform next generation solar cell manufacturing
+ addition increased yield output key feature pegaso system proprietary smart capabilities bring new level precision control cell manufacturing process
+ system s modular architecture allows customers rapidly add modules additional processing capability reducing time cost risk implementing new cell designs
+ products offered energy environmental solutions segment include roll roll vacuum web coating systems high performance deposition range films flexible substrates functional aesthetic optical properties
+ applied topmet system world s largest fastest roll roll machine depositing ultra thin aluminum films flexible packaging applications
+ applied smartweb system uses pvd technology deposit critical multi layer films required fabricating advanced touch panels mobile devices flexible electronic substrates
+ system s modular design allows different thin film layers deposited simultaneously flexible material enabling complex structures created single pass
+backlog applied manufactures systems meet demand represented order backlog customer commitments
+backlog consists orders written authorizations accepted assigned shipment dates within next months shipment occurred revenue recognized contractual service revenue maintenance fees earned within next months
+backlog reportable segment october october follows millions except percentages silicon systems group applied global services display energy environmental solutions total applied s backlog particular date necessarily indicative actual sales future periods due potential customer changes delivery schedules cancellation orders
+customers may delay delivery products cancel orders prior shipment subject possible cancellation penalties
+delays delivery schedules reduction backlog particular period material adverse effect applied s business results operations
+manufacturing raw materials supplies applied s manufacturing activities consist primarily assembly test integration various proprietary commercial parts compnts subassemblies collectively parts used manufacture systems
+applied implemented distributed manufacturing model manufacturing supply chain activities conducted various countries including united states europe israel singapore taiwan countries asia assembly systems completed customer sites
+applied uses numerous vendors including contract manufacturers supply parts assembly services manufacture support products
+although applied makes reasonable efforts assure parts available multiple qualified suppliers always possible
+accordingly key parts may obtained single supplier limited group suppliers
+applied seeks reduce costs lower risks manufacturing service interruptions selecting qualifying alternate suppliers key parts monitoring financial condition key suppliers maintaining appropriate inventories key parts qualifying new parts timely basis locating certain manufacturing operations close proximity suppliers customers
+research development engineering applied s long term growth strategy requires continued development new products
+ company s significant investment research development engineering rd e generally enabled deliver new products technologies emergence strong demand thus allowing customers incorporate products manufacturing plans early stage technology selection cycle
+applied works closely global customers design systems processes meet planned technical production requirements
+product development engineering organizations located primarily united states well europe israel taiwan china
+ addition applied outsources certain rd e activities performed outside united states primarily india
+process support customer demonstration laboratories located united states china taiwan europe israel
+applied s investments rd e product development engineering programs create improve products technologies last years follows billion percent net sales fiscal billion percent net sales fiscal billion percent net sales fiscal
+applied spent average percent net sales rd e last five years
+ addition rd e specific product technologies applied maintains ongoing programs automation control systems materials research environmental control applicable products
+marketing sales net sales geographic region determined location customers facilities products shipped follows millions except percentages taiwan china korea japan southeast asia asia pacific united states europe total highly technical nature products applied markets sells products worldwide almost entirely direct sales force
+approximately percent applied s fiscal net sales regions outside united states
+general economic conditions impact applied s business financial results
+ time time markets products sold experience weak economic conditions may negatively impact sales
+applied s business usually seasonal nature highly cyclical based capital equipment investment major semiconductor flat panel display solar pv manufacturers
+customers expenditures depend many factors including anticipated market demand pricing semiconductors lcds solar cells modules substrates development new technologies customers factory utilization capital resources financing government policies incentives global regional economic conditions
+information net sales unaffiliated customers long lived assets attributable applied s geographic regions included note notes consolidated financial statements
+ following companies accounted least percent applied s net sales products multiple reportable segments
+samsung electronics taiwan semiconductor manufacturing company limited intel corporation less 
+competition industries applied operates highly competitive characterized rapid technological change
+applied s ability compete generally depends ability timely commercialize technology continually improve products develop new products meet constantly evolving customer requirements
+significant competitive factors include technical capability differentiation productivity cost effectiveness
+ importance factors varies according customers needs including product mix respective product requirements applications timing circumstances purchasing decisions
+substantial competition exists areas applied s business
+competitors range small companies compete single product single region global diversified companies range products
+applied s ability compete requires high level investment rd e marketing sales global customer support activities
+management believes many applied s products strong competitive positions
+ competitive environment segment described 
+ semiconductor industry increasingly driven consumer demand lower cost electronic products increased capability
+ result products within silicon systems group segment subject significant changes customer requirements including transitions smaller dimensions new materials increasing number applications
+ certain existing technologies may adapted new requirements applications create need entirely different technological approach
+ rapid pace technological change can quickly diminish value current technologies products create opportunities existing new competitors
+applied offers broad portfolio technologically differentiated products must continuously evolve satisfy customers requirements order compete effectively
+applied allocates resources among numerous product offerings therefore may decide invest individual product degree competitors specialize fewer products
+ number competitors serving semiconductor manufacturing equipment industry offering single product line others offering multiple product lines
+ competitors range suppliers serving single region global diversified companies
+ competitive environment silicon systems group fiscal reflected continued investment semiconductor industry driven capacity demand mobile computing
+foundry customers led capacity additions advanced technology nodes primary drivers net sales silicon systems group
+products services within applied global services segment complement silicon systems group display energy environmental solutions segments products markets characterized demanding worldwide service requirements diverse group numerous competitors
+ compete effectively applied offers products services improve tool performance lower overall cost ownership increase productivity energy efficiency customers fab operations
+significant competitive factors include productivity cost effectiveness level technical service support
+ importance factors varies according customers needs type products services offered
+industry conditions affected applied global services sales spares services fiscal principally semiconductor manufacturers wafer starts factory utilization rates
+products display segment generally subject strong competition number major competitors
+applied holds established market positions technically differentiated tft lcd manufacturing solutions pecvd color filter pvd pvd array pvd touch panel tft array testing although market position change quickly due customers evolving requirements
+ competitive environment display segment fiscal characterized weakest level industry investment tv manufacturing equipment recent history investment continued equipment make touch screen high end mobile devices
+important factors affecting competitive position applied s display products include industry trends applied s ability innovate develop new products extent applied s products technically differentiated well customers within highly concentrated customer base making capital equipment investments applied s existing position customers
+applied s products within energy environmental solutions segment compete several diverse market areas including primarily c si solar equipment market
+ markets characterized extreme pressure reduce customers overall production costs improve performance
+ relation solar fiscal end market demand continued robust industry reduced manufacturing costs made conversion efficiency improvements enabling pv generated electricity reach parity retail electricity rates increasing number areas around world
+however excess manufacturing capacity relative end demand created exceptionally challenging environment causing solar cell wafering customers defer purchases new capacity preserve capital resulting industry consolidation
+ rationalization capacity will important factor determining supply demand come back balance
+adding market uncertainty international trade actions chinese solar manufacturers commenced u s
+ regions resulted imposition sanctions
+ respect c si equipment products applied competes number companies significant experience solar applications new entrants solar equipment market
+ solar industry downturn affected many applied s competitors customers adversely companies going extensive financial organizational restructuring
+patents licenses management believes applied s competitive position significantly depends upon company s research development engineering manufacturing marketing capabilities just patent position
+however protection applied s technological assets enforcement intellectual property rights including patents important
+therefore applied s practice file patent applications united states countries inventions applied considers significant
+applied substantial number patents united states countries additional applications pending new inventions
+although applied consider business materially dependent upon patent rights applied products made sold patents taken whole significant element applied s business
+ addition patents applied also possesses intellectual property including trademarks know trade secrets copyrights
+applied enters patent technology licensing agreements companies management determines applied s best interest 
+applied pays royalties existing patent license agreements use several products certain patented technologies licensed applied
+applied also receives royalties licenses granted third parties
+royalties received paid third parties expected material applied s consolidated results operations
+ normal course business applied periodically receives makes inquiries regarding possible patent infringement
+ responding inquiries may become necessary useful applied obtain grant licenses rights
+however can assurance licenses rights will available applied commercially reasonable terms 
+ applied able resolve settle claims obtain necessary licenses commercially reasonable terms successfully prosecute defend position applied s business financial condition results operations materially adversely affected
+environmental matters applied maintains number environmental health safety programs primarily preventive nature
+ part programs applied regularly monitors ongoing compliance applicable laws regulations
+ addition applied trained personnel conduct investigations environmental health safety incidents including limited spills releases possible contamination
+compliance federal state local environmental health safety provisions including limited regulating discharge materials environment remedial agreements actions relating environment expected material effect applied s capital expenditures competitive position financial condition results operations
+ recent report applied s environmental health safety activities can found company s latest citizenship report website http www appliedmaterials com cr sustainability
+ citizenship report updated periodically
+ website address intended inactive textual reference 
+n information accessible applied s website part form k incorporated reference herein
+employees october applied employed approximately regular employees temporary employees
+ high technology industry competition highly skilled employees intense
+applied believes future success highly dependent upon continued ability attract retain motivate qualified employees
+ can assurance applied will able attract hire assimilate motivate retain sufficient number qualified employees
+executive officers registrant following table notes set forth information applied s executive officers november name individual position michael r
+splinter chairman board directors chief executive officer gary e
+dickerson president george s
+davis executive vice president chief financial officer randhir thakur executive vice president general manager silicon systems joseph flanagan senior vice president worldwide operations supply chain mary humiston senior vice president global human resources manfred kerschbaum senior vice president chief staff thomas f
+larkins senior vice president general counsel corporate secretary omkaram nalamasu group vice president chief technology officer charlie pappis group vice president general manager applied global services ali salehpour group vice president general manager energy environmental solutions display business groups thomas s
+timko corporate vice president corporate controller chief accounting officer mr
+splinter age chief executive officer applied since april chairman board directors since march
+prior joining applied mr
+splinter executive intel corporation intel manufacturer chips computer nerking communications products mr
+splinter held number positions including executive vice president director sales marketing executive vice president general manager technology manufacturing group
+mr
+dickerson age named president applied june working merger integration matters since joining applied following acquisition varian november mr
+dickerson chief executive officer director varian 
+prior joining varian mr
+dickerson served years kla tencor corporation kla tencor supplier process control yield management solutions semiconductor related industries held variety operations product development roles appointed chief operating officer president chief operating officer mr
+dickerson started semiconductor career manufacturing engineering management general motors delco electronics division t mr
+davis age executive vice president chief financial officer applied since december serving senior vice president chief financial officer since december group vice president chief financial officer november
+previously group vice president general manager corporate business development since march
+ november february mr
+davis served vice president corporate treasurer managed applied s worldwide treasury operations responsible investments tax financial risk management trade export matters
+mr
+davis joined applied 
+prior joining applied mr
+davis served years atlantic richfield company global oil gas chemical company number finance corporate positions
+dr
+thakur age executive vice president general manager silicon systems group since december serving senior vice president general manager silicon systems group since october
+previously senior vice president general manager thin film solar display
+ appointed senior vice president general manager strategic operations rejoined applied may
+ previously applied variety executive roles including group vice president general manager front end products
+ september may dr
+thakur served executive vice president technology fab operations sandisk corporation data storage solutions manufacturer head sandisk s worldwide operations
+prior joining applied dr
+thakur served leadership roles steag electronic systems electronics company micron technology semiconductor manufacturer
+mr
+flanagan age joined applied senior vice president worldwide operations supply chain february
+prior joining applied mr
+flanagan held executive positions global operations nortel nerks corporation telecommunications equipment manufacturer since including president nortel business services august february senior vice president global operations august august
+previously mr
+flanagan held number positions general electric company ge global infrastructure finance media company
+ms
+humiston age named senior vice president global human resources july corporate vice president global human resources june june promoted group vice president july
+prior june served corporate vice president human resources energy environmental solutions display groups
+prior joining applied ms
+humiston vice president human resources hywell international provides technologies address safety security energy october june responsibility various corporate international organizations
+ previously held executive positions peoplepc internet service provider gap apparel retailer ge
+mr
+kerschbaum age named senior vice president chief staff september
+prior served senior vice president general manager applied global services january september
+mr
+kerschbaum senior vice president global operations july january october may may july group vice president foundation engineering operations
+ january october held various positions applied materials north america recently group vice president general manager applied materials north america
+mr
+kerschbaum served various operations customer service engineering positions since joining applied mr
+kerschbaum announced intent retire company january mr
+larkins age named senior vice president general counsel corporate secretary applied november responsibility global legal affairs intellectual property security
+previously mr
+larkins employed hywell international hywell diversified global technology manufacturing company vice president corporate secretary deputy general counsel joining applied
+mr
+larkins served various positions hywell formerly alliedsignal joining company including vice president general counsel automation control solutions business segment general counsel aerospace services business unit
+dr
+nalamasu age promoted group vice president chief technology officer applied january serving corporate vice president chief technology officer since january upon joining applied june january dr
+nalamasu appointed vice president research served deputy chief technology officer general manager advanced technologies group
+ dr
+nalamasu nystar distinguished professor materials science engineering rensselaer polytechnic institute also served vice president research 
+prior held various r d leadership positions bell labs later lucent technologies telecommunications company years
+mr
+pappis age group vice president general manager applied global services since september
+ previously held positions applied global services corporate vice president general manager semiconductor service solutions group general manager equipment productivity services
+ held various management positions since joining applied 
+mr
+salehpour age joined applied november group vice president general manager energy environmental solutions display business groups
+prior applied mr
+salehpour worked kla tencor years served recently senior vice president general manager sfs ade divisions 
+previous positions kla tencor included president north america field operations senior vice president general manager intel business unit 
+prior kla tencor mr
+salehpour worked schlumberger test systems unit schlumberger marketing account management engineering roles
+mr
+timko age joined applied march corporate vice president corporate controller chief accounting officer
+ june march mr
+timko delphi automotive llp supplier automotive computing communications energy consumer accessories markets recently chief accounting officer controller
+ served assistant controller interpublic group companies global provider advertising marketing services december june previously dover corporation manufacturer industrial products
+mr
+timko began career pricewaterhousecoopers llc provider audit assurance tax advisory services certified public accountant
+available information applied s website http www appliedmaterials com
+applied makes available free charge website annual quarterly current reports amendments reports soon reasonably practicable electronically filing reports furnishing sec
+ website address intended inactive textual reference 
+n information accessible applied s website part form k incorporated reference herein

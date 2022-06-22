@@ -1,0 +1,189 @@
+item business company overview analog devices analog devices company leading global high performance analog technology company
+since inception focused solving customers toughest signal processing engineering challenges playing fundamental role efficiently converting conditioning processing real world phenomena temperature pressure sound light speed motion electrical signals used wide array electronic applications
+ produce innovative products technologies accurately securely sense measure connect interpret power allowing customers intelligently bridge physical digital domains
+ design manufacture market broad portfolio solutions including integrated circuits ics algorithms software subsystems leverage high performance analog mixed signal digital signal processing technologies
+ fusion cutting edge sensors data converters amplifiers linear products radio frequency rf ics power management products signal processing products deep industry expertise allows us create robust technology platforms meet broad spectrum customer market needs
+ new generations applications evolve autonomous vehicles g nerks intelligent factories smart healthcare devices demand analog devices high performance analog signal processing digital signal processing dsp products technologies increasing
+ focus key strategic markets industrial automotive consumer communications signal processing technology often critical differentiator customers products
+used customers worldwide products embedded inside many different types electronic equipment including industrial process control systems medical imaging equipment factory process automation systems patient vital signs monitoring devices instrumentation measurement systems wireless infrastructure equipment energy management systems nerking equipment aerospace defense electronics optical systems automobiles portable consumer devices incorporated massachusetts 
+ headquarters near boston norwood massachusetts
+ addition manufacturing facilities united states ireland southeast asia
+ common stock listed nasdaq global select market symbol adi included standard poor s index
+acquisition linear technology corporation march acquisition date completed acquisition linear technology corporation linear independent manufacturer high performance analog integrated circuits
+ total consideration paid acquire linear approximately billion consisting billion cash financed existing cash hand net proceeds bridge term loan facilities proceeds received issuance senior unsecured notes billion issuance common stock billion consideration related replacement outstanding equity awards held linear employees
+ acquisition linear referred acquisition
+available information maintain website address www analog com
+ including information contained website part incorporating reference annual report form k
+ make available free charge website annual reports form k quarterly reports form q current reports form k including exhibits amendments reports soon reasonably practicable electronically file material furnish material securities exchange commission sec
+ also make available website laws corporate governance guidelines charters audit committee compensation committee nominating corporate governance committee equity award granting policies code business conduct ethics applies directors officers employees related person transaction policy information available print free charge shareholder analog devices requests 
+ addition intend disclose website amendments waivers code business conduct ethics required publicly disclosed pursuant rules sec nasdaq
+industry background semiconductor compnts electronic building blocks used electronic systems equipment
+ compnts classified either discrete devices individual transistors ics number transistors elements combined form complicated electronic circuit
+ics may divided general categories digital analog
+digital circuits memory devices microprocessors generally process electrical signals represented binary digits 
+ contrast analog ics monitor condition amplify transform continuous analog signals associated physical properties temperature pressure weight light sound motion play important role bridging real world phenomena variety electronic systems
+analog ics also provide voltage regulation power control electronic systems
+principal products design manufacture market broad line high performance ics incorporate analog mixed signal digital signal processing technologies
+ ics designed address wide range real world signal processing applications
+ sell ics tens thousands customers worldwide many use products spanning core technologies wide range applications
+ ic product portfolio includes general purpose products used broad range customers applications well application specific products designed specific clusters customers key target markets
+ using readily available high performance general purpose products systems customers can reduce time need bring new products market
+given high cost developing customized ics standard products often provide cost effective solution many low medium volume applications
+ also focus working leading customers design application specific solutions
+ begin existing core technologies leverage data conversion amplification rf microwave microelectromechanical systems mems power management dsp capabilities devise solution closely meet needs specific customer group customers
+ already developed core technology platform general purpose products can create application specific solutions quickly
+ produce market broad range ics operate reportable segment based aggregation eight operating segments
+ ics sold operating segments manufactured using similar semiconductor manufacturing processes raw materials either production facilities third party wafer fabricators using proprietary processes
+ ics sold customers globally direct sales force third party distributors independent sales representatives via website
+ technology offerings aligned predominant markets served order facilitate decision making throughout organization
+ ten highest revenue products aggregate accounted approximately revenue fiscal year ended november fiscal
+analog products analog mixed signal ic technology foundation business five decades world s largest suppliers high performance analog ics
+ analog signal processing ics primarily high performance devices offering higher dynamic range greater bandwidth enhanced features
+ believe principal advantages products compared competitors products include higher accuracy higher speed lower cost per function smaller size lower power consumption fewer compnts resulting improved performance reliability
+ product portfolio includes several thousand analog ics can many several hundred customers
+ analog ics typically long product life cycles
+ analog ic customers include original equipment manufacturers oems customers build electronic subsystems integration larger systems
+converters leading supplier data converter products
+data converters translate real world analog signals digital data also translate digital data analog signals
+data converters remain largest diverse product family area continuously innovating enable customers redefine differentiate products
+ converter products combine sampling rates accuracy low noise power price small package size required industrial automotive consumer communications electronics
+amplifiers radio frequency rf microwave also leading supplier high performance amplifiers
+amplifiers used condition analog signals
+high performance amplifiers emphasize performance dimensions speed precision
+within product portfolio provide precision instrumentation high speed intermediate frequency rf microwave broadband amplifiers
+ analog product line also includes broad portfolio high performance rf microwave ics covering entire rf signal chain industry leading stand al rf function blocks phase locked loops frequency synthesizers mixers modulators demodulators power detectors highly integrated broadband short range single chip transceiver solutions
+ high performance rf microwave ics support high performance requirements cellular infrastructure broad range applications target markets including instrumentation aerospace automotive
+power management reference power management reference products include functions power conversion driver monitoring sequencing energy management provide efficient solutions power management conversion applications automotive communications industrial high end consumer markets
+ portable consumer devices automobiles high end data centers performance efficiency modern electronic products increasingly limited power supply systems
+ high performance power ics include powerful performance integration software design simulation tools provide fast accurate power supply designs
+ analog analog technology portfolio comprised sensor actuator products including products based mems technology
+mems technology enables us build extremely small sensors incorporate electromechanical structure supporting analog circuitry conditioning signals obtained sensing element
+ mems product portfolio includes accelerometers used sense acceleration gyroscopes used sense rotation inertial measurement units used sense multiple degrees freedom combining multiple sensing types along multiple axes broadband switches suitable radio instrument systems
+ offer high performance sensors temperature magnetic fields deployed variety systems
+ addition sensor products analog product category includes isolators enable designers implement isolation designs without cost size power performance reliability constraints found optocouplers
+ isolators designed hundreds applications universal serial bus isolation patient monitors allows hospitals physicians adopt latest advances computer technology supervise patient health wirelessly transmit medical records
+ smart metering applications isolators provide reliable electrostatic discharge performance helps reduce meter tampering
+likewise satellites malfunction can catastrophic isolators help protect power system enabling designers achieve small form factors
+digital signal processing system products digital signal processing products dsps optimized high speed numeric calculations essential instantaneous real time processing digital data generated cases analog digital signal conversion
+ dsps designed fully programmable efficiently execute specialized software programs algorithms associated processing digitized real time real world data
+programmable dsps designed provide flexibility modify device s function quickly inexpensively using software
+ general purpose dsp ic customers typically write algorithms using software development tools provided us third party suppliers
+ dsps designed families products share common architectures therefore can execute software across range products
+ support products easy use development tools designed reduce customers product development costs time market
+ customers use products solve wide range signal processing challenges across core market segment focus areas within industrial automotive consumer communications end markets
+ many cases dsps embedded mixed signal functionality provide system chip soc integrated solutions combining analog digital signal processing circuitry provide complete signal chain demanding applications
+markets applications breakdown fiscal revenue end market set table 
+percent fiscal end market revenue industrial automotive consumer communications following describes characteristics customer products within major end markets industrial industrial market includes following sectors industrial instrumentation industrial automation applications generally require ics offer performance greater available commodity level ics generally production volumes warrant custom ics
+ trend towards development products focused particular sub applications incorporate combinations analog mixed signal dsp ics achieve necessary functionality
+ instrumentation customers differentiate using highest performance analog mixed signal ics available
+ industrial instrumentation market includes applications process control systems oscilloscopes connected motion robotics lab chemical environmental analyzers environmental control systems weigh scales defense aerospace defense commercial avionics space markets require high performance ics meet rigorous environmental reliability specifications
+many analog ics can supplied versions meet standards
+ addition many products can supplied meet standards required broadcast satellites commercial space applications
+ products sold market specially tested versions products derived standard product offering
+ end systems becoming complex many customers market also look us provide higher levels integration order minimize size weight power improve ease use
+ also sell products form sips system package printed circuit board assemblies modules subsystems
+customer products include navigation systems radar systems space satellite communications security devices communication systems electronic surveillance countermeasures energy management desire improve energy efficiency conservation reliability cleanliness driving investments renewable energy power transmission distribution systems electric meters innovative areas
+ common characteristic behind efforts addition sensing measurement communication technologies electrical infrastructure
+ offerings include standard application specific products used applications utility meters wind turbines meter communication modules solar inverters substation relays automation equipment building energy automation control healthcare healthcare market calling increased access better affordable care
+ help achieve collaborating customers partners innovative solutions designed achieve better outcomes patients physicians reduced costs 
+ offerings include standard application specific products used applications ultrasound systems anesthesia equipment x ray equipment ct dr lab diagnostic equipment image guided therapy surgical tools instruments multi parameter vital signs monitors blood analyzers disease management e g
+hypertension diabetes point care diagnostics automotive develop differentiated high performance signal processing solutions enable sophisticated transportation systems span infotainment electrification autonomous applications
+ collaboration manufacturers worldwide developed broad portfolio analog digital power sensor ics address emerging needs evolving industry
+ focus audio video applications lead enriching cabin experience electrification applications improve vehicle range reduce emissions mission critical perception navigation applications enable vehicles clearly sense external environment
+specifically developed products used applications infotainment electrification autonomous adas safety car audio voice processing connectivity hybrid electric electric vehicles high performance ghz ghz radar systems video processing connectivity battery monitoring management systems high resolution lidar systems inertial mems solutions mission critical navigation stability safety systems consumer address market demand state art personal professional entertainment systems consumer demand high quality user interfaces music movies photographs developed analog digital mixed signal solutions meet rigorous cost time market requirements consumer electronics market
+ emergence high performance feature rich consumer products created market high performance ics high level specific functionality enables best class user experience
+ products include portable devices smart phs tablets wearable devices media vital signs motoring applications prosumer audio video equipment communications development broadband wireless internet infrastructures around world created important market communications products
+communications technology involves processing signals converted analog digital digital analog form process transmitting receiving data
+ need higher speed reduced power consumption coupled reliable bandwidth efficient communications creates demand products used full spectrum signal processing data video voice machine machine communications
+ wireless broadband communication applications products incorporated cellular basestation equipment optical cable nerking equipment data center service providers microwave backhaul systems satellite terrestrial broadband access equipment see note industry segment geographic information notes consolidated financial statements contained item annual report form k information products end market
+patents intellectual property rights seek establish maintain proprietary rights technology products use patents copyrights mask works trademarks trade secrets
+ program file applications obtain patents copyrights mask works trademarks united states selected foreign countries believe filing protection appropriate
+ also seek maintain trade secrets confidential information nondisclosure policies use appropriate confidentiality agreements
+ obtained substantial number patents trademarks united states countries
+ november held approximately u s
+patents approximately non provisional pending u s
+patent applications expiration dates ranging 
+ can assurance however rights obtained can successfully enforced infringing products every jurisdiction
+ patents copyrights mask works trademarks trade secrets provide advantage protection believe competitive position future success largely determined factors system application knowledge innovative skills technological expertise management ability experience personnel range success new products developed us market brand recognition ongoing marketing efforts customer service technical support
+ generally policy seek patent protection significant inventions may patented though may elect certain cases seek patent protection even significant inventions determine protection maintaining invention trade secret advantageous
+ also trademarks used conduct business distinguish genuine analog devices products maintain cooperative advertising programs promote brands identify products containing genuine analog devices compnts
+sales channels sell products globally direct sales force third party distributors independent sales representatives via website
+ direct sales offices sales representatives distributors countries outside north america
+ support worldwide sales efforts website extensive promotional programs include editorial coverage paid advertising online printed trade publications webinars social media communities promotional training videos direct mail programs technical seminars participation trade shows
+ publish share distribute technical content data sheets application guides catalogs
+ maintain staff field application engineers aid customers incorporating products products
+ addition offer variety web based tools ease product selection aid design process customers
+ derived approximately fiscal revenue sales made distributors
+ distributors typically maintain inventory products
+ also sell products compete products including alternate source
+ defer revenue related cost sales shipments u s
+distributors certain international distributors distributors resell products customers
+ make sales distributors agreements allow certain distributors receive price adjustment credits return qualifying products credit determined us order reduce amounts slow moving discontinued obsolete product inventory
+ agreements limit returns certain percentage shipments distributor prior quarter
+ addition certain distributors allowed return unsold products terminate relationship distributor
+additional information relating sales distributors set forth note n revenue recognition notes consolidated financial statements contained item annual report form k
+customers customers worldwide
+ fiscal sales individual customer accounted revenue
+apple represented approximately revenue fiscal year ended october fiscal fiscal year ended october fiscal respectively
+ customers use hundreds different types products wide range applications spanning industrial automotive consumer communication markets
+ largest customers accounted approximately fiscal revenue
+seasonality sales customers first fiscal quarter may lower quarters due plant shutdowns customers holiday season
+ general seasonality specific period time material impact results operations
+ addition explained risk factors contained item annual report form k revenue likely influenced quarter quarter basis cyclicality semiconductor industry
+production raw materials monolithic ic compnts manufactured sequence semiconductor production steps include wafer fabrication wafer testing dicing wafer individual chips dice assembly dice packages electrical testing devices final packaged form
+ raw materials used manufacture devices include silicon wafers processing chemicals including liquefied gases precious metals laminates ceramic plastic used packaging
+ utilize develop employ wide variety manufacturing processes primarily based bipolar complementary metal oxide semiconductor cmos transistors specifically tailored use fabricating high performance analog dsp mixed signal ics
+devices mems coupler isolators various sensors fabricated using specialized processes typically use substantially similar equipment bipolar cmos processes
+ ic products fabricated proprietary processes internal production facilities wilmington massachusetts milpitas california camas washington limerick ireland also mix proprietary non proprietary processes third party wafer fabricators
+ currently source approximately half wafer requirements annually third party wafer fabrication foundries taiwan semiconductor manufacturing company tsmc global foundries vanguard others typically deep submicron lithography capabilities large manufacturing capacity required
+ operate assembly wafer sort facility penang malaysia test facilities philippines singapore
+ also make extensive use third party subcontractors assembly testing products
+capital spending approximately million fiscal compared approximately million fiscal million fiscal
+ expect capital expenditures fiscal year ending november fiscal approximately fiscal revenue
+ products require wide variety compnts raw materials external foundry services purchase third party suppliers
+ multiple sources many compnts materials purchase incorporate products
+ key suppliers unable unwilling manufacture deliver sufficient quantities compnts us time schedule quality require may forced seek engage additional replacement suppliers result significant expenses disruptions delays manufacturing product development shipment product customers
+although experienced shortages compnts materials external foundry services time time item generally available us needed
+backlog backlog end fiscal fiscal approximately billion
+ define backlog particular date mean firm orders customer distributor requested delivery date within thirteen weeks
+backlog impacted tendency customers rely shorter lead times available suppliers including us periods depressed demand
+ periods increased demand tendency towards longer lead times effect increasing backlog instances may manufacturing capacity sufficient fulfill orders
+ customary semiconductor industry allow orders canceled deliveries delayed customers without significant penalty
+accordingly believe backlog time used indication future revenue
+ typically long term sales contracts customers
+ markets end user demand may particularly volatile difficult predict customers place orders require us manufacture product available shipment even though customer unwilling make binding commitment purchase even product
+ instances manufacture product based forecasts customer demand
+ result may incur inventory manufacturing costs advance anticipated sales subject risk cancellation orders leading sharp reduction sales backlog
+ orders forecasts may products meet customer s unique requirements canceled orders addition result inventory unsaleable products resulting potential inventory write offs
+ result lengthy manufacturing cycles products subject uncertainties amount unsaleable product substantial
+government contracts less fiscal revenue attributable sales u s
+government u s
+government contractors subcontractors
+ government contract business predominantly form negotiated firm fixed price subcontracts
+ contracts subcontracts contain standard provisions relating termination election u s
+government
+acquisitions element business strategy involves expansion acquisition businesses assets products technologies allow us complement existing product offerings expand market coverage increase engineering workforce enhance technological capabilities
+ time time consider acquisitions may strengthen business
+ march completed acquisition linear
+ total consideration paid acquire linear approximately billion consisting billion cash financed existing cash hand net proceeds bridge term loan facilities proceeds received issuance senior unsecured notes billion issuance common stock billion consideration related replacement outstanding equity awards held linear employees
+additional information relating acquisition activities fiscal fiscal fiscal set forth note acquisitions notes consolidated financial statements contained item annual report form k
+competition believe competitive performance marketplace signal processing products depends upon multiple factors including technological innovation strength brand diversity product portfolio product performance technical support delivery capabilities customer service quality reliability price relative importance factors varying among products markets customers
+ compete number semiconductor companies markets highly competitive
+ competitors include limited broadcom limited monolithic power systems infineon technologies nxp semiconductors maxim integrated products texas instruments microchip technology believe technical innovation emphasizing product performance reliability supported commitment strong customer service technical support enables us make fundamental difference customers competitiveness chosen markets
+environment health safety committed protecting environment health safety employees customers public
+ endeavor adhere applicable environmental health safety ehs regulatory industry standards across facilities encourage pollution prevention reduce water energy consumption reduce waste generation strive towards continual improvement
+ strive achieve excellence ehs management practices integral part total quality management system
+ ehs management systems facilities certified iso environmental management facilities excluding certain linear facilities conform ohsas occupational health safety
+ member responsible business alliance rba formerly known electronic industry citizenship coalition eicc
+ sustainability report first published states commitment reducing greenhouse gas ghg emissions conserving resources consuming less energy water complying code business conduct ethics applying fair labor standards among things
+ including information contained sustainability report incorporating reference annual report form k
+ manufacturing facilities subject numerous increasingly strict federal state local foreign ehs laws regulations particularly respect transportation storage handling use emission discharge disposal certain chemicals used produced semiconductor manufacturing process
+ products subject increasingly stringent regulations regarding chemical content jurisdictions sell products including restriction hazardous substances rohs directive european union china registration evaluation authorization restriction chemicals reach directive european union
+contracts many customers reflect additional ehs compliance standards
+compliance laws regulations material impact capital expenditures earnings financial condition competitive position
+ can assurance however current future environmental laws regulations will impose costly requirements upon us
+ failure us comply applicable environmental laws regulations contractual obligations result fines suspension production need alter manufacturing processes legal liability
+employees november employed approximately individuals worldwide
+ future success depends large part continued service key technical senior management personnel ability continue attract retain motivate qualified employees particularly highly skilled engineers involved design development support manufacture new existing products processes
+ believe relations employees good however competition personnel intense loss key personnel material adverse impact results operations financial condition
+item 
