@@ -1,6 +1,6 @@
 ---
 title: "TASK 1"
-author: "JESSE TOCHUKWU"
+author: "Ogungbe Christian"
 date: "2/13/2022"
 output: html_document
 ---
